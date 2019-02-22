@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>772</width>
+    <height>592</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">/*	QWidget	*/
+QWidget{
+	color: #2c3e50;
+	background-color: #ffffff;
+}
+/*	QLabel	*/
+QLabel{
+	font-family: Roboto;
+	text-align: center;
+	font-size: 16px;
+}
+QLabel#lblTitle{
+	font-family: Roboto;
+	font-weight: 100;
+	font-size: 34px;
+}
+QLabel#lblIndentifier{
+	color: #fff;
+}
+/*	QLineEdit	*/
+QLineEdit{
+	height: 32px;
+	font-family: Roboto;
+	font-size: 16px;
+	color: #000000;
+	border: 0px;
+	border-bottom: 1px solid #bdc3c7;
+	selection-background-color: #2c3e50;
+	selection-color: #ffffff;
+}
+/*	QPushButton	*/
+QPushButton{
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 300;
+	text-align: center;
+	color: #ecf0f1;
+	border: 0;
+	border-radius: 3px;
+	background-color: #8e44ad;
+}
+QPushButton:hover{
+	background: #9b59b6;
+}
+QPushButton#btnCancel{
+	background-color: #2c3e50;
+}
+QPushButton#btnCancel:hover{
+	background-color: #34495e;
+}
+QPushButton#btnEdit{
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 300;
+	text-align: center;
+	color: #ecf0f1;
+	border: 0;
+	border-radius: 3px;
+	background-color: #2980b9;
+}
+QPushButton#btnEdit:hover{
+	background: #3498db;
+}
+QPushButton#btnRem{
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 300;
+	text-align: center;
+	color: #ecf0f1;
+	border: 0;
+	border-radius: 3px;
+	background-color: #c0392b;
+}
+QPushButton#btnRem:hover{
+	background: #e74c3c;
+}
+/*	QComboBox	*/
+QComboBox{
+	height: 32px;
+	font-family: Roboto;
+	font-size: 16px;
+	color: #2c3e50;
+	border-radius: 4px;
+	border: 1px solid #bdc3c7;
+}
+QComboBox QAbstractItemView {
+	selection-background-color: #2c3e50;
+	selection-color: #ffffff;
+}
+QComboBox::drop-down {
+	border: 0;
+	border-radius: 4px;
+}
+QComboBox::down-arrow{   
+	image: url(resources/icons/arrows-down.png); 
+	width: 14px;
+	margin-right: 5px;
+}
+/*	QDateEdit	*/
+QDateEdit{
+	height: 32px;
+	font-family: Roboto;
+	font-size: 16px;
+	color: #2c3e50;
+	border: 1px solid #bdc3c7;
+	border-radius: 5px;
+	selection-background-color: #2c3e50;
+	selection-color: #ffffff;
+}
+QDateEdit::drop-down{ border: 0; }
+QDateEdit::down-arrow{
+	image: url(resources/icons/arrows-down.png); 
+	width: 14px;
+}
+/*	QCalendarWidget	*/
+QCalendarWidget {
+	font-family: Roboto;
+	font-size: 12px;
+}
+QCalendarWidget QAbstractItemView {
+	background-color:#ffffff; 
+	selection-background-color: #2c3e50;
+	selection-color: #ecf0f1;
+}
+QCalendarWidget QToolButton {
+	border: 0;
+	border-radius: 5px;
+	icon-size: 20px, 20px;
+	image: url(resources/icons/arrows-down.png); 
+}
+QCalendarWidget QToolButton::menu-arrow {
+	width: 14px;
+	image: url(resources/icons/arrows-left.png); 
+	padding: 20px;
+}
+QCalendarWidget QToolButton::menu-button {
+	width: 14px;
+	image: url(resources/icons/arrows-right.png); 
+	padding: 20px;
+}
+QCalendarWidget QToolButton::menu-indicator {
+	width: 14px;
+	image: url(resources/icons/arrows-down.png); 
+	padding: 20px;
+}
+/*	QSpinBox	*/
+QSpinBox::up-button { 
+	width: 14px;
+	image: url(resources/icons/arrows-up.png); 
+}
+QSpinBox::down-button { 
+	width: 14px;
+	image: url(resources/icons/arrows-down.png); 
+}
+/*	ScrollBar	*/
+QScrollBar:vertical{
+	width: 5px;
+}
+QScrollBar::handle:vertical {
+	min-height: 10px;
+	background-color: #2c3e50;
+}
+QScrollBar::handle:vertical {
+	min-height: 10px;
+	background-color: #34495e;
+	border: 0;
+	border-radius: 2px;
+}
+/*	QTableWidget	*/
+QTableWidget{
+	height: 32px;
+	font-family: Roboto;
+	font-size: 16px;
+	border: 1px solid #ecf0f1;
+	border-radius: 5px;
+	color: #000000;
+	background-color: #ffffff;
+	alternate-background-color: #ecf0f1;
+	selection-background-color: #2c3e50;
+}
+/*	QHeaderView	*/
+QHeaderView::section{
+	color: #2c3e50;
+	border: 1px solid #d8d8d8;
+	border-radius: 1px;
+	background-color: #ffffff;
+	font-family: Roboto;
+	text-align: center;
+	font-size:16px;
+	height: 32px;
+}
+
+QWidget#AboutWidget QLabel{
+	font-family: Roboto;
+	font-weight: 100;
+	text-align: center;
+	font-size: 16px;
+}
+QWidget#AboutWidget QLabel#lblTitle{
+	font-family: Roboto;
+	font-weight: 100;
+	font-size: 100px;
+}
+</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="lblTitle">
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="minimumSize">
+      <size>
+       <width>0</width>
+       <height>60</height>
+      </size>
+     </property>
+     <property name="text">
+      <string>Relatórios</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <spacer name="horizontalSpacer">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item>
+      <widget class="QFrame" name="frame">
+       <property name="minimumSize">
+        <size>
+         <width>400</width>
+         <height>400</height>
+        </size>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout_2">
+        <property name="leftMargin">
+         <number>1</number>
+        </property>
+        <item>
+         <widget class="QLabel" name="label_4">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <spacer name="horizontalSpacer_2">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <spacer name="verticalSpacer_3">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>20</width>
+       <height>40</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

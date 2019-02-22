@@ -1,0 +1,99 @@
+* {
+	outline: none;
+}
+QWidget{
+	background-color: #2c3e50;
+}
+QLabel{
+	font-family: Roboto;
+	font-weight: 100;
+	font-size: 34px;
+	color: #ecf0f1;
+}
+QLabel#lblStatus{
+	font-size: 12px;
+	color: #ecf0f1;
+}
+QWidget#LoginWidget QPushButton#btnRecover{
+	font-size: 14px;
+	background-color: #2c3e50;
+}
+QWidget#RecoverWidget QPushButton#btnLogin{
+	font-size: 14px;
+	background-color: #2c3e50;
+}
+QLineEdit{
+	height: 32px;
+	font-family: Roboto;
+	font-size: 16px;
+	color: #ecf0f1;
+	background-color: #2c3e50;
+	border: 0px;
+	border-bottom: 1px solid #ffffff;
+	selection-background-color: #34495e;
+	selection-color: #ecf0f1;
+}
+QPushButton{
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 300;
+	color: #ecf0f1;
+	border: 0;
+	border-radius: 3px;
+	background-color: #8e44ad;
+}
+QPushButton:hover{
+	background-color: #9b59b6;
+}
+/* QMessageBox */
+QMessageBox{
+	background-color: #2c3e50;
+}
+QMessageBox QLabel{
+	background-color: #2c3e50;
+	color: #ecf0f1;
+	font-family: Roboto;
+	font-size: 14px;
+}
+QMessageBox QPushButton{
+	border: 0;
+	border-radius: 3px;
+	background-color: #8e44ad;
+	color: #ecf0f1;
+    font-family: Roboto;
+	font-size: 16px;
+	font-weight: 300;
+	min-height: 30px;
+	min-width: 120px;
+}
+QMessageBox QPushButton:hover{
+	background-color: #9b59b6;
+}
+QMessageBox QPushButton#btnInformative{
+	border: 0;
+	border-radius: 3px;
+	background-color: #2980b9;
+	color: #ecf0f1;
+    font-family: Roboto;
+	font-size: 16px;
+	font-weight: 300;
+	min-height: 30px;
+	min-width: 120px;
+}
+QMessageBox QPushButton#btnInformative:hover{
+	background-color: #3498db;
+}
+QMessageBox QPushButton#btnWarning{
+	border: 0;
+	border-radius: 3px;
+	background-color: #c0392b;
+	color: #ecf0f1;
+    font-family: Roboto;
+	font-size: 16px;
+	font-weight: 300;
+	min-height: 30px;
+	min-width: 120px;
+}
+QMessageBox QPushButton#btnWarning :hover{
+	background-color: #e74c3c;
+}

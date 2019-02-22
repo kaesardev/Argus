@@ -1,0 +1,9714 @@
+AC	Acrelandia
+AC	Assis Brasil
+AC	Brasileia
+AC	Bujari
+AC	Capixaba
+AC	Cruzeiro do Sul
+AC	Epitaciolandia
+AC	Feijo
+AC	Jordao
+AC	Mancio Lima
+AC	Manoel Urbano
+AC	Marechal Thaumaturgo
+AC	Placido de Castro
+AC	Porto Acre
+AC	Porto Walter
+AC	Rio Branco
+AC	Rodrigues Alves
+AC	Santa Rosa
+AC	Sena Madureira
+AC	Senador Guiomard
+AC	Tarauaca
+AC	Xapuri
+AL	Agua Branca
+AL	Alazao
+AL	Alecrim
+AL	Anadia
+AL	Anel
+AL	Anum Novo
+AL	Anum Velho
+AL	Arapiraca
+AL	Atalaia
+AL	Baixa da Onca
+AL	Baixa do Capim
+AL	Balsamo
+AL	Bananeiras
+AL	Barra de Santo Antonio
+AL	Barra de Sao Miguel
+AL	Barra do Bonifacio
+AL	Barra Grande
+AL	Batalha
+AL	Batingas
+AL	Belem
+AL	Belo Monte
+AL	Boa Sorte
+AL	Boa Vista
+AL	Boca da Mata
+AL	Bom Jardim
+AL	Bonifacio
+AL	Branquinha
+AL	Cacimbinhas
+AL	Cajarana
+AL	Cajueiro
+AL	Caldeiroes de Cima
+AL	Camadanta
+AL	Campestre
+AL	Campo Alegre
+AL	Campo Grande
+AL	Canaa
+AL	Canafistula
+AL	Canapi
+AL	Canastra
+AL	Cangandu
+AL	Capela
+AL	Carneiros
+AL	Carrasco
+AL	Cha Preta
+AL	Coite do Noia
+AL	Colonia Leopoldina
+AL	Coqueiro Seco
+AL	Coruripe
+AL	Coruripe da Cal
+AL	Craibas
+AL	Delmiro Gouveia
+AL	Dois Riachos
+AL	Entremontes
+AL	Estrela de Alagoas
+AL	Feira Grande
+AL	Feliz Deserto
+AL	Fernao Velho
+AL	Flexeiras
+AL	Floriano Peixoto
+AL	Gaspar
+AL	Girau do Ponciano
+AL	Ibateguara
+AL	Igaci
+AL	Igreja Nova
+AL	Inhapi
+AL	Jacare dos Homens
+AL	Jacuipe
+AL	Japaratinga
+AL	Jaramataia
+AL	Jenipapo
+AL	Joaquim Gomes
+AL	Jundia
+AL	Junqueiro
+AL	Lagoa da Areia
+AL	Lagoa da Canoa
+AL	Lagoa da Pedra
+AL	Lagoa Dantas
+AL	Lagoa do Caldeirao
+AL	Lagoa do Canto
+AL	Lagoa do Exu
+AL	Lagoa do Rancho
+AL	Lajes do Caldeirao
+AL	Laranjal
+AL	Limoeiro de Anadia
+AL	Maceio
+AL	Major Isidoro
+AL	Mar Vermelho
+AL	Maragogi
+AL	Maravilha
+AL	Marechal Deodoro
+AL	Maribondo
+AL	Massaranduba
+AL	Mata Grande
+AL	Matriz de Camaragibe
+AL	Messias
+AL	Minador do Negrao
+AL	Monteiropolis
+AL	Moreira
+AL	Munguba
+AL	Murici
+AL	Novo Lino
+AL	Olho D Agua Grande
+AL	Olho D'agua Das Flores
+AL	Olho D'agua De Cima
+AL	Olho D'agua Do Casado
+AL	Olho D'agua Dos Dandanhas
+AL	Olivenca
+AL	Ouro Branco
+AL	Palestina
+AL	Palmeira de Fora
+AL	Palmeira dos Indios
+AL	Pao de Acucar
+AL	Pariconha
+AL	Paripueira
+AL	Passo de Camaragibe
+AL	Pau D'arco
+AL	Pau Ferro
+AL	Paulo Jacinto
+AL	Penedo
+AL	Piacabucu
+AL	Pilar
+AL	Pindoba
+AL	Piranhas
+AL	Pocao
+AL	Poco da Pedra
+AL	Poco das Trincheiras
+AL	Porto Calvo
+AL	Porto de Pedras
+AL	Porto Real do Colegio
+AL	Poxim
+AL	Quebrangulo
+AL	Riacho do Sertao
+AL	Riacho Fundo de Cima
+AL	Rio Largo
+AL	Rocha Cavalcante
+AL	Roteiro
+AL	Santa Efigenia
+AL	Santa Luzia do Norte
+AL	Santana do Ipanema
+AL	Santana do Mundau
+AL	Santo Antonio
+AL	Sao Bras
+AL	Sao Jose da Laje
+AL	Sao Jose da Tapera
+AL	Sao Luis do Quitunde
+AL	Sao Miguel dos Campos
+AL	Sao Miguel dos Milagres
+AL	Sao Sebastiao
+AL	Sapucaia
+AL	Satuba
+AL	Senador Rui Palmeira
+AL	Serra da Mandioca
+AL	Serra do Sao Jose
+AL	Taboleiro do Pinto
+AL	Taboquinha
+AL	Tanque D'arca
+AL	Taquarana
+AL	Tatuamunha
+AL	Teotonio Vilela
+AL	Traipu
+AL	Uniao dos Palmares
+AL	Usina Camacari
+AL	Vicosa
+AL	Vila Aparecida
+AL	Vila Sao Francisco
+AM	Alvaraes
+AM	Amatari
+AM	Amatura
+AM	Anama
+AM	Anori
+AM	Apui
+AM	Ariau
+AM	Atalaia do Norte
+AM	Augusto Montenegro
+AM	Autazes
+AM	Axinim
+AM	Badajos
+AM	Balbina
+AM	Barcelos
+AM	Barreirinha
+AM	Benjamin Constant
+AM	Beruri
+AM	Boa Vista do Ramos
+AM	Boca do Acre
+AM	Borba
+AM	Caapiranga
+AM	Cameta
+AM	Canuma
+AM	Canutama
+AM	Carauari
+AM	Careiro
+AM	Careiro da Varzea
+AM	Carvoeiro
+AM	Coari
+AM	Codajas
+AM	Cucui
+AM	Eirunepe
+AM	Envira
+AM	Floriano Peixoto
+AM	Fonte Boa
+AM	Freguesia do Andira
+AM	Guajara
+AM	Humaita
+AM	Iauarete
+AM	Icana
+AM	Ipixuna
+AM	Iranduba
+AM	Itacoatiara
+AM	Itamarati
+AM	Itapiranga
+AM	Japura
+AM	Jurua
+AM	Jutai
+AM	Labrea
+AM	Lago Preto
+AM	Manacapuru
+AM	Manaquiri
+AM	Manaus
+AM	Manicore
+AM	Maraa
+AM	Massauari
+AM	Maues
+AM	Mocambo
+AM	Moura
+AM	Murutinga
+AM	Nhamunda
+AM	Nova Olinda do Norte
+AM	Novo Airao
+AM	Novo Aripuana
+AM	Osorio da Fonseca
+AM	Parintins
+AM	Pauini
+AM	Pedras
+AM	Presidente Figueiredo
+AM	Repartimento
+AM	Rio Preto da Eva
+AM	Santa Isabel do Rio Negro
+AM	Santa Rita
+AM	Santo Antonio do Ica
+AM	Sao Felipe
+AM	Sao Gabriel da Cachoeira
+AM	Sao Paulo de Olivenca
+AM	Sao Sebastiao do Uatuma
+AM	Silves
+AM	Tabatinga
+AM	Tapaua
+AM	Tefe
+AM	Tonantins
+AM	Uarini
+AM	Urucara
+AM	Urucurituba
+AM	Vila Pitinga
+AP	Abacate da Pedreira
+AP	Agua Branca do Amapari
+AP	Amapa
+AP	Amapari
+AP	Ambe
+AP	Aporema
+AP	Ariri
+AP	Bailique
+AP	Boca do Jari
+AP	Calcoene
+AP	Cantanzal
+AP	Carmo
+AP	Clevelandia do Norte
+AP	Corre Agua
+AP	Cunani
+AP	Curiau
+AP	Cutias
+AP	Fazendinha
+AP	Ferreira Gomes
+AP	Fortaleza
+AP	Gaivota
+AP	Gurupora
+AP	Igarape do Lago
+AP	Ilha de Santana
+AP	Inaja
+AP	Itaubal
+AP	Laranjal do Jari
+AP	Livramento do Pacui
+AP	Lourenco
+AP	Macapa
+AP	Mazagao
+AP	Mazagao Velho
+AP	Oiapoque
+AP	Paredao
+AP	Porto Grande
+AP	Pracuuba
+AP	Santa Luzia do Pacui
+AP	Santa Maria
+AP	Santana
+AP	Sao Joaquim do Pacui
+AP	Sao Sebastiao do Livramento
+AP	Sao Tome
+AP	Serra do Navio
+AP	Sucuriju
+AP	Tartarugalzinho
+AP	Vila Velha
+AP	Vitoria do Jari
+BA	Abadia
+BA	Abaira
+BA	Abare
+BA	Abelhas
+BA	Abobora
+BA	Abrantes
+BA	Acajutiba
+BA	Acu da Torre
+BA	Acudina
+BA	Acupe
+BA	Adustina
+BA	Afligidos
+BA	Afranio Peixoto
+BA	Agua Doce
+BA	Agua Fria
+BA	Aguas do Paulista
+BA	Aiquara
+BA	Alagoinhas
+BA	Alcobaca
+BA	Alegre
+BA	Algodao
+BA	Algodoes
+BA	Almadina
+BA	Alto Bonito
+BA	Amado Bahia
+BA	Amaniu
+BA	Amargosa
+BA	Amelia Rodrigues
+BA	America Dourada
+BA	Americo Alves
+BA	Anage
+BA	Andarai
+BA	Andorinha
+BA	Angical
+BA	Angico
+BA	Anguera
+BA	Antas
+BA	Antonio Cardoso
+BA	Antonio Goncalves
+BA	Apora
+BA	Apuarema
+BA	Aracas
+BA	Aracatu
+BA	Araci
+BA	Aramari
+BA	Arapiranga
+BA	Arataca
+BA	Aratuipe
+BA	Areias
+BA	Arembepe
+BA	Argoim
+BA	Argolo
+BA	Aribice
+BA	Aritagua
+BA	Aurelino Leal
+BA	Baianopolis
+BA	Baixa do Palmeira
+BA	Baixa Grande
+BA	Baixao
+BA	Baixinha
+BA	Baluarte
+BA	Banco Central
+BA	Banco da Vitoria
+BA	Bandeira do Almada
+BA	Bandeira do Colonia
+BA	Bandiacu
+BA	Banzae
+BA	Baraunas
+BA	Barcelos do Sul
+BA	Barra
+BA	Barra da Estiva
+BA	Barra do Choca
+BA	Barra do Jacuipe
+BA	Barra do Mendes
+BA	Barra do Pojuca
+BA	Barra do Rocha
+BA	Barra do Tarrachil
+BA	Barracas
+BA	Barreiras
+BA	Barro Alto
+BA	Barro Preto
+BA	Barro Vermelho
+BA	Barrocas
+BA	Bastiao
+BA	Bate Pe
+BA	Batinga
+BA	Bela Flor
+BA	Belem da Cachoeira
+BA	Belmonte
+BA	Belo Campo
+BA	Bem-bom
+BA	Bendego
+BA	Bento Simoes
+BA	Biritinga
+BA	Boa Espera
+BA	Boa Nova
+BA	Boa Uniao
+BA	Boa Vista do Lagamar
+BA	Boa Vista do Tupim
+BA	Boacu
+BA	Boca do Corrego
+BA	Bom Jesus da Lapa
+BA	Bom Jesus da Serra
+BA	Bom Sossego
+BA	Bonfim da Feira
+BA	Boninal
+BA	Bonito
+BA	Boquira
+BA	Botupora
+BA	Botuquara
+BA	Brejinho das Ametistas
+BA	Brejo da Serra
+BA	Brejo Luiza de Brito
+BA	Brejo Novo
+BA	Brejoes
+BA	Brejolandia
+BA	Brotas de Macaubas
+BA	Brumado
+BA	Bucuituba
+BA	Buerarema
+BA	Buracica
+BA	Buranhem
+BA	Buril
+BA	Buris de Abrantes
+BA	Buritirama
+BA	Caatiba
+BA	Cabaceiras do Paraguacu
+BA	Cabralia
+BA	Cacha Pregos
+BA	Cachoeira
+BA	Cachoeira do Mato
+BA	Cacule
+BA	Caem
+BA	Caetanos
+BA	Caete-acu
+BA	Caetite
+BA	Cafarnaum
+BA	Caicara
+BA	Caimbe
+BA	Cairu
+BA	Caiubi
+BA	Cajui
+BA	Caldas do Jorro
+BA	Caldeirao
+BA	Caldeirao Grande
+BA	Caldeiras
+BA	Camacan
+BA	Camacari
+BA	Camamu
+BA	Camassandi
+BA	Camirim
+BA	Campinhos
+BA	Campo Alegre de Lourdes
+BA	Campo Formoso
+BA	Camurugi
+BA	Canabravinha
+BA	Canapolis
+BA	Canarana
+BA	Canatiba
+BA	Canavieiras
+BA	Canche
+BA	Candeal
+BA	Candeias
+BA	Candiba
+BA	Candido Sales
+BA	Canoao
+BA	Cansancao
+BA	Canto do Sol
+BA	Canudos
+BA	Capao
+BA	Capela do Alto Alegre
+BA	Capim Grosso
+BA	Caraguatai
+BA	Caraibas
+BA	Caraibuna
+BA	Caraipe
+BA	Caraiva
+BA	Caravelas
+BA	Cardeal da Silva
+BA	Carinhanha
+BA	Caripare
+BA	Carnaiba do Sertao
+BA	Carrapichel
+BA	Casa Nova
+BA	Castelo Novo
+BA	Castro Alves
+BA	Catinga do Moura
+BA	Catingal
+BA	Catolandia
+BA	Catoles
+BA	Catolezinho
+BA	Catu
+BA	Catu de Abrantes
+BA	Caturama
+BA	Cavunge
+BA	Central
+BA	Ceraima
+BA	Chorrocho
+BA	Cicero Dantas
+BA	Cinco Rios
+BA	Cipo
+BA	Coaraci
+BA	Cocos
+BA	Colonia
+BA	Comercio
+BA	Conceicao da Feira
+BA	Conceicao do Almeida
+BA	Conceicao do Coite
+BA	Conceicao do Jacuipe
+BA	Conde
+BA	Condeuba
+BA	Contendas do Sincora
+BA	Copixaba
+BA	Coqueiros
+BA	Coquinhos
+BA	Coracao de Maria
+BA	Cordeiros
+BA	Coribe
+BA	Coronel Joao Sa
+BA	Correntina
+BA	Corta Mao
+BA	Cotegipe
+BA	Coutos
+BA	Cravolandia
+BA	Crisopolis
+BA	Cristalandia
+BA	Cristopolis
+BA	Crussai
+BA	Cruz das Almas
+BA	Cumuruxatiba
+BA	Cunhangi
+BA	Curaca
+BA	Curral Falso
+BA	Dario Meira
+BA	Delfino
+BA	Descoberto
+BA	Dias Coelho
+BA	Dias D Avila
+BA	Diogenes Sampaio
+BA	Dom Basilio
+BA	Dom Macedo Costa
+BA	Dona Maria
+BA	Duas Barras do Morro
+BA	Elisio Medrado
+BA	Encruzilhada
+BA	Engenheiro Franca
+BA	Engenheiro Pontes
+BA	Entre Rios
+BA	Erico Cardoso
+BA	Esplanada
+BA	Euclides da Cunha
+BA	Eunapolis
+BA	Fatima
+BA	Feira da Mata
+BA	Feira de Santana
+BA	Ferradas
+BA	Filadelfia
+BA	Filanesia
+BA	Firmino Alves
+BA	Floresta Azul
+BA	Formosa do Rio Preto
+BA	Franca
+BA	Gabiarra
+BA	Galeao
+BA	Gamboa
+BA	Gameleira da Lapa
+BA	Gameleira do Assurua
+BA	Gandu
+BA	Gaviao
+BA	Gentio do Ouro
+BA	Geolandia
+BA	Gloria
+BA	Gongogi
+BA	Governador Joao Durval Carneiro
+BA	Governador Mangabeira
+BA	Guagirus
+BA	Guai
+BA	Guajeru
+BA	Guanambi
+BA	Guapira
+BA	Guarajuba
+BA	Guaratinga
+BA	Guerem
+BA	Guine
+BA	Guirapa
+BA	Gurupa Mirim
+BA	Heliopolis
+BA	Helvecia
+BA	Hidrolandia
+BA	Humildes
+BA	Iacu
+BA	Ibatui
+BA	Ibiacu
+BA	Ibiajara
+BA	Ibiapora
+BA	Ibiassuce
+BA	Ibicarai
+BA	Ibicoara
+BA	Ibicui
+BA	Ibipeba
+BA	Ibipetum
+BA	Ibipitanga
+BA	Ibiquera
+BA	Ibiraba
+BA	Ibiraja
+BA	Ibiranhem
+BA	Ibirapitanga
+BA	Ibirapua
+BA	Ibirataia
+BA	Ibitiara
+BA	Ibitiguira
+BA	Ibitira
+BA	Ibitita
+BA	Ibitunane
+BA	Ibitupa
+BA	Ibo
+BA	Ibotirama
+BA	Ichu
+BA	Ico
+BA	Igapora
+BA	Igara
+BA	Igarite
+BA	Igatu
+BA	Igrapiuna
+BA	Igua
+BA	Iguai
+BA	Iguaibi
+BA	Iguatemi
+BA	Iguira
+BA	Iguitu
+BA	Ilha de Mare
+BA	Ilheus
+BA	Indai
+BA	Inema
+BA	Inhambupe
+BA	Inhata
+BA	Inhaumas
+BA	Inhobim
+BA	Inubia
+BA	Ipecaeta
+BA	Ipiau
+BA	Ipira
+BA	Ipiuna
+BA	Ipucaba
+BA	Ipupiara
+BA	Irajuba
+BA	Iramaia
+BA	Iraporanga
+BA	Iraquara
+BA	Irara
+BA	Irece
+BA	Irundiara
+BA	Ita-azul
+BA	Itabela
+BA	Itaberaba
+BA	Itabuna
+BA	Itacare
+BA	Itacava
+BA	Itachama
+BA	Itacimirim
+BA	Itaete
+BA	Itagi
+BA	Itagiba
+BA	Itagimirim
+BA	Itaguacu da Bahia
+BA	Itaia
+BA	Itaibo
+BA	Itaipu
+BA	Itaitu
+BA	Itajai
+BA	Itaju do Colonia
+BA	Itajubaquara
+BA	Itajuipe
+BA	Itajuru
+BA	Itamaraju
+BA	Itamari
+BA	Itambe
+BA	Itamira
+BA	Itamotinga
+BA	Itanage
+BA	Itanagra
+BA	Itanhem
+BA	Itanhi
+BA	Itaparica
+BA	Itape
+BA	Itapebi
+BA	Itapeipu
+BA	Itapetinga
+BA	Itapicuru
+BA	Itapirema
+BA	Itapitanga
+BA	Itapora
+BA	Itapura
+BA	Itaquara
+BA	Itaquarai
+BA	Itarantim
+BA	Itati
+BA	Itatim
+BA	Itatingui
+BA	Itirucu
+BA	Itiuba
+BA	Itororo
+BA	Ituacu
+BA	Itubera
+BA	Itupeva
+BA	Iuiu
+BA	Jaborandi
+BA	Jacaraci
+BA	Jacobina
+BA	Jacu
+BA	Jacuipe
+BA	Jacuruna
+BA	Jaguaquara
+BA	Jaguara
+BA	Jaguarari
+BA	Jaguaripe
+BA	Jaiba
+BA	Jandaira
+BA	Japomirim
+BA	Japu
+BA	Jaua
+BA	Jequie
+BA	Jequirica
+BA	Jeremoabo
+BA	Jiribatuba
+BA	Jitauna
+BA	Joao Amaro
+BA	Joao Correia
+BA	Joao Dourado
+BA	Jose Goncalves
+BA	Juacema
+BA	Juazeiro
+BA	Jucurucu
+BA	Juerana
+BA	Junco
+BA	Jupagua
+BA	Juraci
+BA	Juremal
+BA	Jussara
+BA	Jussari
+BA	Jussiape
+BA	Km Sete
+BA	Lafaiete Coutinho
+BA	Lagoa Clara
+BA	Lagoa de Melquiades
+BA	Lagoa do Boi
+BA	Lagoa Grande
+BA	Lagoa Jose Luis
+BA	Lagoa Preta
+BA	Lagoa Real
+BA	Laje
+BA	Laje do Banco
+BA	Lajedao
+BA	Lajedinho
+BA	Lajedo Alto
+BA	Lajedo do Tabocal
+BA	Lamarao
+BA	Lamarao do Passe
+BA	Lapao
+BA	Largo
+BA	Lauro de Freitas
+BA	Lencois
+BA	Licinio de Almeida
+BA	Limoeiro do Bom Viver
+BA	Livramento do Brumado
+BA	Lucaia
+BA	Luis Viana
+BA	Lustosa
+BA	Macajuba
+BA	Macarani
+BA	Macaubas
+BA	Macurure
+BA	Madre de Deus
+BA	Maetinga
+BA	Maiquinique
+BA	Mairi
+BA	Malhada
+BA	Malhada de Pedras
+BA	Mandiroba
+BA	Mangue Seco
+BA	Maniacu
+BA	Manoel Vitorino
+BA	Mansidao
+BA	Mantiba
+BA	Mar Grande
+BA	Maracas
+BA	Maragogipe
+BA	Maragogipinho
+BA	Marau
+BA	Marcionilio Souza
+BA	Marcolino Moura
+BA	Maria Quiteria
+BA	Maricoabo
+BA	Mariquita
+BA	Mascote
+BA	Massacara
+BA	Massaroca
+BA	Mata da Alianca
+BA	Mata de Sao Joao
+BA	Mataripe
+BA	Matina
+BA	Matinha
+BA	Medeiros Neto
+BA	Miguel Calmon
+BA	Milagres
+BA	Mimoso do Oeste
+BA	Minas do Espirito Santo
+BA	Minas do Mimoso
+BA	Mirandela
+BA	Miranga
+BA	Mirangaba
+BA	Mirante
+BA	Mocambo
+BA	Mogiquicaba
+BA	Monte Cruzeiro
+BA	Monte Gordo
+BA	Monte Reconcavo
+BA	Monte Santo
+BA	Morpara
+BA	Morrinhos
+BA	Morro das Flores
+BA	Morro de Sao Paulo
+BA	Morro do Chapeu
+BA	Mortugaba
+BA	Mucuge
+BA	Mucuri
+BA	Mulungu do Morro
+BA	Mundo Novo
+BA	Muniz Ferreira
+BA	Muquem do Sao Francisco
+BA	Muritiba
+BA	Mutas
+BA	Mutuipe
+BA	Nage
+BA	Narandiba
+BA	Nazare
+BA	Nilo Pecanha
+BA	Nordestina
+BA	Nova Alegria
+BA	Nova Brasilia
+BA	Nova Canaa
+BA	Nova Fatima
+BA	Nova Ibia
+BA	Nova Itaipe
+BA	Nova Itarana
+BA	Nova Lidice
+BA	Nova Redencao
+BA	Nova Soure
+BA	Nova Vicosa
+BA	Novo Acre
+BA	Novo Horizonte
+BA	Novo Triunfo
+BA	Nucleo Residencial Pilar
+BA	Nuguacu
+BA	Olhos D'agua Do Seco
+BA	Olhos D'agua Do Serafim
+BA	Olindina
+BA	Oliveira dos Brejinhos
+BA	Olivenca
+BA	Onha
+BA	Oriente Novo
+BA	Ouricana
+BA	Ouricangas
+BA	Ouricuri do Ouro
+BA	Ourolandia
+BA	Outeiro Redondo
+BA	Paiol
+BA	Pajeu do Vento
+BA	Palame
+BA	Palmas de Monte Alto
+BA	Palmeiras
+BA	Parafuso
+BA	Paramirim
+BA	Parateca
+BA	Paratinga
+BA	Paripiranga
+BA	Pataiba
+BA	Patamute
+BA	Pau A Pique
+BA	Pau Brasil
+BA	Paulo Afonso
+BA	Pe de Serra
+BA	Pedrao
+BA	Pedras Altas do Mirim
+BA	Pedro Alexandre
+BA	Peixe
+BA	Petim
+BA	Piabanha
+BA	Piata
+BA	Picarrao
+BA	Pilao Arcado
+BA	Pimenteira
+BA	Pindai
+BA	Pindobacu
+BA	Pinhoes
+BA	Pintadas
+BA	Piragi
+BA	Pirai do Norte
+BA	Piraja
+BA	Pirajuia
+BA	Piri
+BA	Piripa
+BA	Piritiba
+BA	Pituba
+BA	Planaltino
+BA	Planalto
+BA	Poco Central
+BA	Poco de Fora
+BA	Pocoes
+BA	Pocos
+BA	Pojuca
+BA	Polo Petroquimico de Camacari
+BA	Ponta da Areia
+BA	Ponto Novo
+BA	Porto Novo
+BA	Porto Seguro
+BA	Posto da Mata
+BA	Potiragua
+BA	Poxim do Sul
+BA	Prado
+BA	Presidente Dutra
+BA	Presidente Janio Quadros
+BA	Presidente Tancredo Neves
+BA	Prevenido
+BA	Quaracu
+BA	Queimadas
+BA	Quijingue
+BA	Quixaba
+BA	Quixabeira
+BA	Rafael Jambeiro
+BA	Recife
+BA	Remanso
+BA	Remedios
+BA	Retirolandia
+BA	Riachao das Neves
+BA	Riachao do Jacuipe
+BA	Riachao do Utinga
+BA	Riacho da Guia
+BA	Riacho de Santana
+BA	Riacho Seco
+BA	Ribeira do Amparo
+BA	Ribeira do Pombal
+BA	Ribeirao do Largo
+BA	Ribeirao do Salto
+BA	Rio da Dona
+BA	Rio de Contas
+BA	Rio do Antonio
+BA	Rio do Braco
+BA	Rio do Meio
+BA	Rio do Pires
+BA	Rio Fundo
+BA	Rio Real
+BA	Rodelas
+BA	Ruy Barbosa
+BA	Saldanha
+BA	Salgadalia
+BA	Salinas da Margarida
+BA	Salobrinho
+BA	Salobro
+BA	Salvador
+BA	Sambaiba
+BA	Santa Barbara
+BA	Santa Brigida
+BA	Santa Cruz Cabralia
+BA	Santa Cruz da Vitoria
+BA	Santa Ines
+BA	Santa Luzia
+BA	Santa Maria da Vitoria
+BA	Santa Rita de Cassia
+BA	Santa Terezinha
+BA	Santaluz
+BA	Santana
+BA	Santana do Sobrado
+BA	Santanopolis
+BA	Santiago do Iguape
+BA	Santo Amaro
+BA	Santo Antonio de Barcelona
+BA	Santo Antonio de Jesus
+BA	Santo Estevao
+BA	Santo Inacio
+BA	Sao Desiderio
+BA	Sao Domingos
+BA	Sao Felipe
+BA	Sao Felix
+BA	Sao Felix do Coribe
+BA	Sao Francisco do Conde
+BA	Sao Gabriel
+BA	Sao Goncalo dos Campos
+BA	Sao Joao da Fortaleza
+BA	Sao Joao da Vitoria
+BA	Sao Jose da Vitoria
+BA	Sao Jose do Colonia
+BA	Sao Jose do Jacuipe
+BA	Sao Jose do Prado
+BA	Sao Jose do Rio Grande
+BA	Sao Miguel das Matas
+BA	Sao Paulinho
+BA	Sao Roque do Paraguacu
+BA	Sao Sebastiao do Passe
+BA	Sao Timoteo
+BA	Sapeacu
+BA	Satiro Dias
+BA	Saubara
+BA	Saudavel
+BA	Saude
+BA	Seabra
+BA	Sebastiao Laranjeiras
+BA	Senhor do Bonfim
+BA	Sento Se
+BA	Sergi
+BA	Serra da Canabrava
+BA	Serra do Ramalho
+BA	Serra Dourada
+BA	Serra Grande
+BA	Serra Preta
+BA	Serrinha
+BA	Serrolandia
+BA	Simoes Filho
+BA	Sitio da Barauna
+BA	Sitio do Mato
+BA	Sitio do Meio
+BA	Sitio do Quinto
+BA	Sitio Grande
+BA	Sitio Novo
+BA	Soares
+BA	Sobradinho
+BA	Souto Soares
+BA	Subauma
+BA	Sussuarana
+BA	Tabocas do Brejo Velho
+BA	Taboleiro do Castro
+BA	Taboquinhas
+BA	Tagua
+BA	Tamburil
+BA	Tanhacu
+BA	Tanque Novo
+BA	Tanquinho
+BA	Tanquinho do Poco
+BA	Taperoa
+BA	Tapiraipe
+BA	Tapirama
+BA	Tapiramuta
+BA	Tapiranga
+BA	Tapuia
+BA	Taquarendi
+BA	Taquarinha
+BA	Tartaruga
+BA	Tauape
+BA	Teixeira de Freitas
+BA	Teodoro Sampaio
+BA	Teofilandia
+BA	Teolandia
+BA	Terra Nova
+BA	Tijuacu
+BA	Tiquarucu
+BA	Tremedal
+BA	Triunfo do Sincora
+BA	Tucano
+BA	Uaua
+BA	Ubaira
+BA	Ubaitaba
+BA	Ubata
+BA	Ubiracaba
+BA	Ubiraita
+BA	Uibai
+BA	Umburanas
+BA	Umbuzeiro
+BA	Una
+BA	Urandi
+BA	Urucuca
+BA	Utinga
+BA	Vale Verde
+BA	Valenca
+BA	Valente
+BA	Varzea da Roca
+BA	Varzea do Caldas
+BA	Varzea do Cerco
+BA	Varzea do Poco
+BA	Varzea Nova
+BA	Varzeas
+BA	Varzedo
+BA	Velha Boipeba
+BA	Ventura
+BA	Vera Cruz
+BA	Vereda
+BA	Vila do Cafe
+BA	Vitoria da Conquista
+BA	Volta Grande
+BA	Wagner
+BA	Wanderley
+BA	Wenceslau Guimaraes
+BA	Xique-xique
+CE	Abaiara
+CE	Abilio Martins
+CE	Acarape
+CE	Acarau
+CE	Acopiara
+CE	Adrianopolis
+CE	Agua Verde
+CE	Aguai
+CE	Aiua
+CE	Aiuaba
+CE	Alagoinha
+CE	Alcantaras
+CE	Algodoes
+CE	Almofala
+CE	Altaneira
+CE	Alto Santo
+CE	Amanaiara
+CE	Amanari
+CE	Amaniutuba
+CE	Amarelas
+CE	Amaro
+CE	America
+CE	Amontada
+CE	Anaua
+CE	Aningas
+CE	Anjinhos
+CE	Antonina do Norte
+CE	Antonio Bezerra
+CE	Antonio Diogo
+CE	Antonio Marques
+CE	Aprazivel
+CE	Apuiares
+CE	Aquinopolis
+CE	Aquiraz
+CE	Aracas
+CE	Aracati
+CE	Aracatiacu
+CE	Aracatiara
+CE	Aracoiaba
+CE	Arajara
+CE	Aranau
+CE	Arapa
+CE	Arapari
+CE	Araporanga
+CE	Araquem
+CE	Ararenda
+CE	Araripe
+CE	Ararius
+CE	Aratama
+CE	Araticum
+CE	Aratuba
+CE	Areial
+CE	Ariscos dos Marianos
+CE	Arneiroz
+CE	Aroeiras
+CE	Arrojado
+CE	Aruaru
+CE	Assare
+CE	Assuncao
+CE	Aurora
+CE	Baixa Grande
+CE	Baixio
+CE	Baixio da Donana
+CE	Banabuiu
+CE	Bandeira
+CE	Barao de Aquiraz
+CE	Barbalha
+CE	Barra
+CE	Barra do Sotero
+CE	Barra Nova
+CE	Barreira
+CE	Barreira dos Vianas
+CE	Barreiras
+CE	Barreiros
+CE	Barrento
+CE	Barro
+CE	Barro Alto
+CE	Barroquinha
+CE	Baturite
+CE	Bau
+CE	Beberibe
+CE	Bela Cruz
+CE	Bela Vista
+CE	Betania
+CE	Bitupita
+CE	Bixopa
+CE	Boa Agua
+CE	Boa Esperanca
+CE	Boa Viagem
+CE	Boa Vista
+CE	Boa Vista do Caxitore
+CE	Bonfim
+CE	Bonhu
+CE	Bonito
+CE	Borges
+CE	Brejinho
+CE	Brejo Grande
+CE	Brejo Santo
+CE	Brotas
+CE	Buritizal
+CE	Buritizinho
+CE	Cabreiro
+CE	Cachoeira
+CE	Cachoeira Grande
+CE	Caicara
+CE	Caicarinha
+CE	Caio Prado
+CE	Caioca
+CE	Caipu
+CE	Calabaca
+CE	Caldeirao
+CE	California
+CE	Camara
+CE	Camboas
+CE	Camilos
+CE	Camocim
+CE	Campanario
+CE	Campestre
+CE	Campos Sales
+CE	Canaan
+CE	Canafistula
+CE	Cangati
+CE	Caninde
+CE	Canindezinho
+CE	Capistrano
+CE	Caponga
+CE	Caponga da Bernarda
+CE	Caracara
+CE	Caridade
+CE	Carire
+CE	Caririacu
+CE	Carius
+CE	Cariutaba
+CE	Carmelopolis
+CE	Carnaubal
+CE	Carnaubas
+CE	Carnaubinha
+CE	Carquejo
+CE	Carrapateiras
+CE	Caruatai
+CE	Carvalho
+CE	Carvoeiro
+CE	Cascavel
+CE	Castanhao
+CE	Catarina
+CE	Catole
+CE	Catuana
+CE	Catunda
+CE	Caucaia
+CE	Caxitore
+CE	Cedro
+CE	Cemoaba
+CE	Chaval
+CE	Choro
+CE	Chorozinho
+CE	Cipo dos Anjos
+CE	Cococi
+CE	Codia
+CE	Coite
+CE	Colina
+CE	Conceicao
+CE	Coreau
+CE	Corrego dos Fernandes
+CE	Crateus
+CE	Crato
+CE	Crioulos
+CE	Cristais
+CE	Croata
+CE	Cruxati
+CE	Cruz
+CE	Cruz de Pedra
+CE	Cruzeirinho
+CE	Cuncas
+CE	Curatis
+CE	Curupira
+CE	Custodio
+CE	Daniel de Queiros
+CE	Delmiro Gouveia
+CE	Deputado Irapuan Pinheiro
+CE	Deserto
+CE	Dom Leme
+CE	Dom Mauricio
+CE	Dom Quintino
+CE	Domingos da Costa
+CE	Donato
+CE	Dourados
+CE	Ebron
+CE	Ema
+CE	Ematuba
+CE	Encantado
+CE	Engenheiro Joao Tome
+CE	Engenheiro Jose Lopes
+CE	Engenho Velho
+CE	Erere
+CE	Espacinha
+CE	Esperanca
+CE	Espinho
+CE	Eusebio
+CE	Farias Brito
+CE	Fatima
+CE	Feiticeiro
+CE	Feitosa
+CE	Felizardo
+CE	Flamengo
+CE	Flores
+CE	Forquilha
+CE	Fortaleza
+CE	Fortim
+CE	Frecheirinha
+CE	Gado
+CE	Gado dos Rodrigues
+CE	Gameleira de Sao Sebastiao
+CE	Garcas
+CE	Gazea
+CE	General Sampaio
+CE	General Tiburcio
+CE	Genipapeiro
+CE	Gererau
+CE	Giqui
+CE	Girau
+CE	Graca
+CE	Granja
+CE	Granjeiro
+CE	Groairas
+CE	Guaiuba
+CE	Guajiru
+CE	Guanaces
+CE	Guaraciaba do Norte
+CE	Guaramiranga
+CE	Guararu
+CE	Guassi
+CE	Guassosse
+CE	Guia
+CE	Guriu
+CE	Hidrolandia
+CE	Holanda
+CE	Horizonte
+CE	Iapi
+CE	Iara
+CE	Ibaretama
+CE	Ibiapaba
+CE	Ibiapina
+CE	Ibicatu
+CE	Ibicua
+CE	Ibicuitaba
+CE	Ibicuitinga
+CE	Iborepi
+CE	Ibuacu
+CE	Ibuguacu
+CE	Icapui
+CE	Icarai
+CE	Ico
+CE	Icozinho
+CE	Ideal
+CE	Igaroi
+CE	Iguatu
+CE	Independencia
+CE	Ingazeiras
+CE	Inhamuns
+CE	Inhucu
+CE	Inhuporanga
+CE	Ipaporanga
+CE	Ipaumirim
+CE	Ipu
+CE	Ipueiras
+CE	Ipueiras dos Gomes
+CE	Iracema
+CE	Iraja
+CE	Irapua
+CE	Iratinga
+CE	Iraucuba
+CE	Isidoro
+CE	Itacima
+CE	Itagua
+CE	Itaicaba
+CE	Itaipaba
+CE	Itaitinga
+CE	Itans
+CE	Itapage
+CE	Itapebussu
+CE	Itapeim
+CE	Itapipoca
+CE	Itapiuna
+CE	Itapo
+CE	Itarema
+CE	Itatira
+CE	Jaburuna
+CE	Jacampari
+CE	Jacarecoara
+CE	Jacauna
+CE	Jaguarao
+CE	Jaguaretama
+CE	Jaguaribara
+CE	Jaguaribe
+CE	Jaguaruana
+CE	Jaibaras
+CE	Jamacaru
+CE	Jandrangoeira
+CE	Jardim
+CE	Jardimirim
+CE	Jati
+CE	Jijoca de Jericoacoara
+CE	Joao Cordeiro
+CE	Jordao
+CE	Jose de Alencar
+CE	Jua
+CE	Juatama
+CE	Juazeiro de Baixo
+CE	Juazeiro do Norte
+CE	Jubaia
+CE	Jucas
+CE	Jurema
+CE	Justiniano Serpa
+CE	Lacerda
+CE	Ladeira Grande
+CE	Lagoa de Sao Jose
+CE	Lagoa do Juvenal
+CE	Lagoa do Mato
+CE	Lagoa dos Crioulos
+CE	Lagoa Grande
+CE	Lagoinha
+CE	Lambedouro
+CE	Lameiro
+CE	Lavras da Mangabeira
+CE	Lima Campos
+CE	Limoeiro do Norte
+CE	Lisieux
+CE	Livramento
+CE	Logradouro
+CE	Macambira
+CE	Macaoca
+CE	Macarau
+CE	Maceio
+CE	Madalena
+CE	Major Simplicio
+CE	Majorlandia
+CE	Malhada Grande
+CE	Mangabeira
+CE	Manibu
+CE	Manituba
+CE	Mapua
+CE	Maracanau
+CE	Maragua
+CE	Maranguape
+CE	Mararupa
+CE	Marco
+CE	Marinheiros
+CE	Marrecas
+CE	Marrocos
+CE	Marruas
+CE	Martinopole
+CE	Massape
+CE	Mata Fresca
+CE	Matias
+CE	Matriz
+CE	Mauriti
+CE	Mel
+CE	Meruoca
+CE	Messejana
+CE	Miguel Xavier
+CE	Milagres
+CE	Milha
+CE	Milton Belo
+CE	Mineirolandia
+CE	Miragem
+CE	Miraima
+CE	Mirambe
+CE	Missao Nova
+CE	Missao Velha
+CE	Missi
+CE	Moitas
+CE	Mombaca
+CE	Mondubim
+CE	Monguba
+CE	Monsenhor Tabosa
+CE	Monte Alegre
+CE	Monte Castelo
+CE	Monte Grave
+CE	Monte Sion
+CE	Montenebo
+CE	Morada Nova
+CE	Moraujo
+CE	Morrinhos
+CE	Morrinhos Novos
+CE	Morro Branco
+CE	Mucambo
+CE	Mulungu
+CE	Mumbaba
+CE	Mundau
+CE	Muribeca
+CE	Muriti
+CE	Mutambeiras
+CE	Naraniu
+CE	Nascente
+CE	Nenenlandia
+CE	Nossa Senhora do Livramento
+CE	Nova Betania
+CE	Nova Fatima
+CE	Nova Floresta
+CE	Nova Olinda
+CE	Nova Russas
+CE	Nova Vida
+CE	Novo Assis
+CE	Novo Oriente
+CE	Ocara
+CE	Oiticica
+CE	Olho-d'agua
+CE	Olho-d'agua Da Bica
+CE	Oliveiras
+CE	Oros
+CE	Pacajus
+CE	Pacatuba
+CE	Pacoti
+CE	Pacuja
+CE	Padre Cicero
+CE	Padre Linhares
+CE	Padre Vieira
+CE	Pajeu
+CE	Pajucara
+CE	Palestina
+CE	Palestina do Norte
+CE	Palhano
+CE	Palmacia
+CE	Palmatoria
+CE	Panacui
+CE	Paracua
+CE	Paracuru
+CE	Paraipaba
+CE	Parajuru
+CE	Parambu
+CE	Paramoti
+CE	Parangaba
+CE	Parapui
+CE	Parazinho
+CE	Paripueira
+CE	Passagem
+CE	Passagem Funda
+CE	Pasta
+CE	Patacas
+CE	Patriarca
+CE	Pavuna
+CE	Pecem
+CE	Pedra Branca
+CE	Pedras
+CE	Pedrinhas
+CE	Peixe
+CE	Peixe Gordo
+CE	Penaforte
+CE	Pentecoste
+CE	Pereiro
+CE	Pernambuquinho
+CE	Pessoa Anta
+CE	Pindoguaba
+CE	Pindoretama
+CE	Pio X
+CE	Piquet Carneiro
+CE	Pirabibu
+CE	Pirangi
+CE	Pires Ferreira
+CE	Pitombeira
+CE	Pitombeiras
+CE	Placido Martins
+CE	Poco
+CE	Poco Comprido
+CE	Poco Grande
+CE	Podimirim
+CE	Ponta da Serra
+CE	Poranga
+CE	Porfirio Sampaio
+CE	Porteiras
+CE	Potengi
+CE	Poti
+CE	Potiretama
+CE	Prata
+CE	Prudente de Morais
+CE	Quatiguaba
+CE	Queimadas
+CE	Quimami
+CE	Quincoe
+CE	Quincunca
+CE	Quitaius
+CE	Quiterianopolis
+CE	Quixada
+CE	Quixariu
+CE	Quixelo
+CE	Quixeramobim
+CE	Quixere
+CE	Quixoa
+CE	Raimundo Martins
+CE	Redencao
+CE	Reriutaba
+CE	Riachao do Banabuiu
+CE	Riacho Grande
+CE	Riacho Verde
+CE	Riacho Vermelho
+CE	Rinare
+CE	Roldao
+CE	Russas
+CE	Sabiaguaba
+CE	Saboeiro
+CE	Sacramento
+CE	Salao
+CE	Salitre
+CE	Sambaiba
+CE	Santa Ana
+CE	Santa Fe
+CE	Santa Felicia
+CE	Santa Luzia
+CE	Santa Quiteria
+CE	Santa Tereza
+CE	Santana
+CE	Santana do Acarau
+CE	Santana do Cariri
+CE	Santarem
+CE	Santo Antonio
+CE	Santo Antonio da Pindoba
+CE	Santo Antonio dos Fernandes
+CE	Sao Bartolomeu
+CE	Sao Benedito
+CE	Sao Domingos
+CE	Sao Felipe
+CE	Sao Francisco
+CE	Sao Gerardo
+CE	Sao Goncalo do Amarante
+CE	Sao Goncalo do Umari
+CE	Sao Joao de Deus
+CE	Sao Joao do Jaguaribe
+CE	Sao Joao dos Queiroz
+CE	Sao Joaquim
+CE	Sao Joaquim do Salgado
+CE	Sao Jose
+CE	Sao Jose das Lontras
+CE	Sao Jose de Solonopole
+CE	Sao Jose do Torto
+CE	Sao Luis do Curu
+CE	Sao Miguel
+CE	Sao Paulo
+CE	Sao Pedro
+CE	Sao Romao
+CE	Sao Sebastiao
+CE	Sao Vicente
+CE	Sapo
+CE	Sapupara
+CE	Sebastiao de Abreu
+CE	Senador Carlos Jereissati
+CE	Senador Pompeu
+CE	Senador Sa
+CE	Sereno de Cima
+CE	Serra do Felix
+CE	Serragem
+CE	Serrota
+CE	Serrote
+CE	Sitia
+CE	Sitios Novos
+CE	Siupe
+CE	Sobral
+CE	Soledade
+CE	Solonopole
+CE	Suassurana
+CE	Sucatinga
+CE	Sucesso
+CE	Sussuanha
+CE	Tabainha
+CE	Taboleiro
+CE	Tabuleiro do Norte
+CE	Taiba
+CE	Tamboril
+CE	Tanques
+CE	Tapera
+CE	Taperuaba
+CE	Tapuiara
+CE	Targinos
+CE	Tarrafas
+CE	Taua
+CE	Tejucuoca
+CE	Tiangua
+CE	Timonha
+CE	Tipi
+CE	Tome
+CE	Trairi
+CE	Trapia
+CE	Trici
+CE	Troia
+CE	Trussu
+CE	Tucunduba
+CE	Tucuns
+CE	Tuina
+CE	Tururu
+CE	Ubajara
+CE	Ubauna
+CE	Ubiracu
+CE	Uiraponga
+CE	Umari
+CE	Umarituba
+CE	Umburanas
+CE	Umirim
+CE	Uruburetama
+CE	Uruoca
+CE	Uruque
+CE	Varjota
+CE	Varzea
+CE	Varzea Alegre
+CE	Varzea da Volta
+CE	Varzea do Gilo
+CE	Vazantes
+CE	Ventura
+CE	Vertentes do Lagedo
+CE	Vicosa
+CE	Vicosa do Ceara
+CE	Vila Soares
+DF	Brasilia
+DF	Brazlandia
+DF	Candangolandia
+DF	Ceilandia
+DF	Cruzeiro
+DF	Gama
+DF	Guara
+DF	Lago Norte
+DF	Lago Sul
+DF	Nucleo Bandeirante
+DF	Paranoa
+DF	Planaltina
+DF	Recanto das Emas
+DF	Riacho Fundo
+DF	Samambaia
+DF	Santa Maria
+DF	Sao Sebastiao
+DF	Sobradinho
+DF	Taguatinga
+ES	Acioli
+ES	Afonso Claudio
+ES	Agha
+ES	Agua Doce do Norte
+ES	Aguia Branca
+ES	Airituba
+ES	Alegre
+ES	Alfredo Chaves
+ES	Alto Calcado
+ES	Alto Caldeirao
+ES	Alto Mutum Preto
+ES	Alto Rio Novo
+ES	Alto Santa Maria
+ES	Anchieta
+ES	Angelo Frechiani
+ES	Anutiba
+ES	Apiaca
+ES	Aracatiba
+ES	Arace
+ES	Aracruz
+ES	Aracui
+ES	Araguaia
+ES	Ararai
+ES	Argolas
+ES	Atilio Vivacqua
+ES	Baia Nova
+ES	Baixo Guandu
+ES	Barra de Novo Brasil
+ES	Barra de Sao Francisco
+ES	Barra do Itapemirim
+ES	Barra Nova
+ES	Barra Seca
+ES	Baunilha
+ES	Bebedouro
+ES	Boa Esperanca
+ES	Boapaba
+ES	Bom Jesus do Norte
+ES	Bonsucesso
+ES	Braco do Rio
+ES	Brejetuba
+ES	Burarama
+ES	Cachoeirinha de Itauna
+ES	Cachoeiro de Itapemirim
+ES	Cafe
+ES	Calogi
+ES	Camara
+ES	Carapina
+ES	Cariacica
+ES	Castelo
+ES	Celina
+ES	Colatina
+ES	Conceicao da Barra
+ES	Conceicao do Castelo
+ES	Conceicao do Muqui
+ES	Conduru
+ES	Coqueiral
+ES	Corrego dos Monos
+ES	Cotaxe
+ES	Cristal do Norte
+ES	Crubixa
+ES	Desengano
+ES	Divino de Sao Lourenco
+ES	Divino Espirito Santo
+ES	Djalma Coutinho
+ES	Domingos Martins
+ES	Dona America
+ES	Dores do Rio Preto
+ES	Duas Barras
+ES	Ecoporanga
+ES	Estrela do Norte
+ES	Fartura
+ES	Fazenda Guandu
+ES	Fundao
+ES	Garrafao
+ES	Gironda
+ES	Goiabeiras
+ES	Governador Lacerda de Aguiar
+ES	Governador Lindenberg
+ES	Graca Aranha
+ES	Gruta
+ES	Guacui
+ES	Guarana
+ES	Guarapari
+ES	Guararema
+ES	Ibatiba
+ES	Ibes
+ES	Ibicaba
+ES	Ibiracu
+ES	Ibitirama
+ES	Ibitirui
+ES	Ibituba
+ES	Iconha
+ES	Imburana
+ES	Iriritiba
+ES	Irundi
+ES	Irupi
+ES	Isabel
+ES	Itabaiana
+ES	Itacu
+ES	Itaguacu
+ES	Itaici
+ES	Itaimbe
+ES	Itaipava
+ES	Itamira
+ES	Itaoca
+ES	Itapecoa
+ES	Itapemirim
+ES	Itaperuna
+ES	Itapina
+ES	Itaquari
+ES	Itarana
+ES	Itaunas
+ES	Itauninhas
+ES	Iuna
+ES	Jabaquara
+ES	Jacaraipe
+ES	Jacigua
+ES	Jacupemba
+ES	Jaguare
+ES	Jeronimo Monteiro
+ES	Joacuba
+ES	Joao Neiva
+ES	Joatuba
+ES	Jose Carlos
+ES	Jucu
+ES	Lajinha
+ES	Laranja da Terra
+ES	Limoeiro
+ES	Linhares
+ES	Mangarai
+ES	Mantenopolis
+ES	Marataizes
+ES	Marechal Floriano
+ES	Marilandia
+ES	Matilde
+ES	Melgaco
+ES	Menino Jesus
+ES	Mimoso do Sul
+ES	Montanha
+ES	Monte Carmelo do Rio Novo
+ES	Monte Pio
+ES	Monte Sinai
+ES	Mucurici
+ES	Mundo Novo
+ES	Muniz Freire
+ES	Muqui
+ES	Nestor Gomes
+ES	Nova Almeida
+ES	Nova Canaa
+ES	Nova Venecia
+ES	Nova Verona
+ES	Novo Brasil
+ES	Novo Horizonte
+ES	Pacotuba
+ES	Paineiras
+ES	Palmeira
+ES	Palmerino
+ES	Pancas
+ES	Paraju
+ES	Paulista
+ES	Pedro Canario
+ES	Pendanga
+ES	Pequia
+ES	Perdicao
+ES	Piacu
+ES	Pinheiros
+ES	Piracema
+ES	Piuma
+ES	Ponte de Itabapoana
+ES	Ponto Belo
+ES	Pontoes
+ES	Poranga
+ES	Porto Barra do Riacho
+ES	Praia Grande
+ES	Presidente Kennedy
+ES	Princesa
+ES	Queimado
+ES	Quilometro Null do Mutum
+ES	Regencia
+ES	Riacho
+ES	Ribeirao do Cristo
+ES	Rio Bananal
+ES	Rio Calcado
+ES	Rio Muqui
+ES	Rio Novo do Sul
+ES	Rio Preto
+ES	Rive
+ES	Sagrada Familia
+ES	Santa Angelica
+ES	Santa Cruz
+ES	Santa Julia
+ES	Santa Leopoldina
+ES	Santa Luzia de Mantenopolis
+ES	Santa Luzia do Azul
+ES	Santa Luzia do Norte
+ES	Santa Maria de Jetiba
+ES	Santa Marta
+ES	Santa Teresa
+ES	Santa Terezinha
+ES	Santissima Trindade
+ES	Santo Agostinho
+ES	Santo Antonio
+ES	Santo Antonio do Canaa
+ES	Santo Antonio do Muqui
+ES	Santo Antonio do Pousalegre
+ES	Santo Antonio do Quinze
+ES	Sao Domingos do Norte
+ES	Sao Francisco do Novo Brasil
+ES	Sao Francisco Xavier do Guandu
+ES	Sao Gabriel da Palha
+ES	Sao Geraldo
+ES	Sao Jacinto
+ES	Sao Joao de Petropolis
+ES	Sao Joao de Vicosa
+ES	Sao Joao do Sobrado
+ES	Sao Jorge da Barra Seca
+ES	Sao Jorge do Oliveira
+ES	Sao Jorge do Tiradentes
+ES	Sao Jose das Torres
+ES	Sao Jose de Mantenopolis
+ES	Sao Jose do Calcado
+ES	Sao Jose do Sobradinho
+ES	Sao Mateus
+ES	Sao Pedro
+ES	Sao Pedro de Itabapoana
+ES	Sao Pedro de Rates
+ES	Sao Rafael
+ES	Sao Roque do Cannaa
+ES	Sao Tiago
+ES	Sao Torquato
+ES	Sapucaia
+ES	Serra
+ES	Serra Pelada
+ES	Sobreiro
+ES	Sooretama
+ES	Timbui
+ES	Todos Os Santos
+ES	Urania
+ES	Vargem Alta
+ES	Vargem Grande do Soturno
+ES	Venda Nova do Imigrante
+ES	Viana
+ES	Vieira Machado
+ES	Vila Nelita
+ES	Vila Nova de Bananal
+ES	Vila Pavao
+ES	Vila Valerio
+ES	Vila Velha
+ES	Vila Verde
+ES	Vinhatico
+ES	Vinte e Cinco de Julho
+ES	Vitoria
+GO	Abadia de Goias
+GO	Abadiania
+GO	Acreuna
+GO	Adelandia
+GO	Agua Fria de Goias
+GO	Agua Limpa
+GO	Aguas Lindas de Goias
+GO	Alexania
+GO	Aloandia
+GO	Alto Alvorada
+GO	Alto Horizonte
+GO	Alto Paraiso de Goias
+GO	Alvorada do Norte
+GO	Amaralina
+GO	Americano do Brasil
+GO	Amorinopolis
+GO	Anapolis
+GO	Anhanguera
+GO	Anicuns
+GO	Aparecida
+GO	Aparecida de Goiania
+GO	Aparecida de Goias
+GO	Aparecida do Rio Claro
+GO	Aparecida do Rio Doce
+GO	Apore
+GO	Aracu
+GO	Aragarcas
+GO	Aragoiania
+GO	Araguapaz
+GO	Arenopolis
+GO	Aruana
+GO	Aurilandia
+GO	Auriverde
+GO	Avelinopolis
+GO	Bacilandia
+GO	Baliza
+GO	Bandeirantes
+GO	Barbosilandia
+GO	Barro Alto
+GO	Bela Vista de Goias
+GO	Bom Jardim de Goias
+GO	Bom Jesus de Goias
+GO	Bonfinopolis
+GO	Bonopolis
+GO	Brazabrantes
+GO	Britania
+GO	Buenolandia
+GO	Buriti Alegre
+GO	Buriti de Goias
+GO	Buritinopolis
+GO	Cabeceiras
+GO	Cachoeira Alta
+GO	Cachoeira de Goias
+GO	Cachoeira Dourada
+GO	Cacu
+GO	Caiaponia
+GO	Caicara
+GO	Calcilandia
+GO	Caldas Novas
+GO	Caldazinha
+GO	Calixto
+GO	Campestre de Goias
+GO	Campinacu
+GO	Campinorte
+GO	Campo Alegre de Goias
+GO	Campo Limpo
+GO	Campolandia
+GO	Campos Belos
+GO	Campos Verdes
+GO	Cana Brava
+GO	Canada
+GO	Capelinha
+GO	Caraiba
+GO	Carmo do Rio Verde
+GO	Castelandia
+GO	Castrinopolis
+GO	Catalao
+GO	Caturai
+GO	Cavalcante
+GO	Cavalheiro
+GO	Cebrasa
+GO	Ceres
+GO	Cezarina
+GO	Chapadao do Ceu
+GO	Choupana
+GO	Cibele
+GO	cidade Ocidental
+GO	Cirilandia
+GO	Cocalzinho de Goias
+GO	Colinas do Sul
+GO	Corrego do Ouro
+GO	Corrego Rico
+GO	Corumba de Goias
+GO	Corumbaiba
+GO	Cristalina
+GO	Cristianopolis
+GO	Crixas
+GO	Crominia
+GO	Cruzeiro do Norte
+GO	Cumari
+GO	Damianopolis
+GO	Damolandia
+GO	Davidopolis
+GO	Davinopolis
+GO	Diolandia
+GO	Diorama
+GO	Divinopolis de Goias
+GO	Domiciano Ribeiro
+GO	Doverlandia
+GO	Edealina
+GO	Edeia
+GO	Estrela do Norte
+GO	Faina
+GO	Fazenda Nova
+GO	Firminopolis
+GO	Flores de Goias
+GO	Formosa
+GO	Formoso
+GO	Forte
+GO	Gameleira de Goias
+GO	Geriacu
+GO	Goialandia
+GO	Goianapolis
+GO	Goiandira
+GO	Goianesia
+GO	Goiania
+GO	Goianira
+GO	Goias
+GO	Goiatuba
+GO	Gouvelandia
+GO	Guapo
+GO	Guaraita
+GO	Guarani de Goias
+GO	Guarinos
+GO	Heitorai
+GO	Hidrolandia
+GO	Hidrolina
+GO	Iaciara
+GO	Inaciolandia
+GO	Indiara
+GO	Inhumas
+GO	Interlandia
+GO	Ipameri
+GO	Ipora
+GO	Israelandia
+GO	Itaberai
+GO	Itaguacu
+GO	Itaguari
+GO	Itaguaru
+GO	Itaja
+GO	Itapaci
+GO	Itapirapua
+GO	Itapuranga
+GO	Itaruma
+GO	Itaucu
+GO	Itumbiara
+GO	Ivolandia
+GO	Jacilandia
+GO	Jandaia
+GO	Jaragua
+GO	Jatai
+GO	Jaupaci
+GO	Jeroaquara
+GO	Jesupolis
+GO	Joanapolis
+GO	Joviania
+GO	Juscelandia
+GO	Juscelino Kubitschek
+GO	Jussara
+GO	Lagoa do Bauzinho
+GO	Lagolandia
+GO	Leopoldo de Bulhoes
+GO	Lucilandia
+GO	Luziania
+GO	Mairipotaba
+GO	Mambai
+GO	Mara Rosa
+GO	Marcianopolis
+GO	Marzagao
+GO	Matrincha
+GO	Maurilandia
+GO	Meia Ponte
+GO	Messianopolis
+GO	Mimoso de Goias
+GO	Minacu
+GO	Mineiros
+GO	Moipora
+GO	Monte Alegre de Goias
+GO	Montes Claros de Goias
+GO	Montividiu
+GO	Montividiu do Norte
+GO	Morrinhos
+GO	Morro Agudo de Goias
+GO	Mossamedes
+GO	Mozarlandia
+GO	Mundo Novo
+GO	Mutunopolis
+GO	Natinopolis
+GO	Nazario
+GO	Neropolis
+GO	Niquelandia
+GO	Nova America
+GO	Nova Aurora
+GO	Nova Crixas
+GO	Nova Gloria
+GO	Nova Iguacu de Goias
+GO	Nova Roma
+GO	Nova Veneza
+GO	Novo Brasil
+GO	Novo Gama
+GO	Novo Planalto
+GO	Olaria do Angico
+GO	Olhos D'agua
+GO	Orizona
+GO	Ouro Verde de Goias
+GO	Ouroana
+GO	Ouvidor
+GO	Padre Bernardo
+GO	Palestina de Goias
+GO	Palmeiras de Goias
+GO	Palmelo
+GO	Palminopolis
+GO	Panama
+GO	Paranaiguara
+GO	Parauna
+GO	Pau-terra
+GO	Pedra Branca
+GO	Perolandia
+GO	Petrolina de Goias
+GO	Pilar de Goias
+GO	Piloandia
+GO	Piracanjuba
+GO	Piranhas
+GO	Pirenopolis
+GO	Pires Belo
+GO	Pires do Rio
+GO	Planaltina
+GO	Pontalina
+GO	Porangatu
+GO	Porteirao
+GO	Portelandia
+GO	Posse
+GO	Posse D'abadia
+GO	Professor Jamil
+GO	Quirinopolis
+GO	Registro do Araguaia
+GO	Rialma
+GO	Rianapolis
+GO	Rio Quente
+GO	Rio Verde
+GO	Riverlandia
+GO	Rodrigues Nascimento
+GO	Rosalandia
+GO	Rubiataba
+GO	Sanclerlandia
+GO	Santa Barbara de Goias
+GO	Santa Cruz das Lajes
+GO	Santa Cruz de Goias
+GO	Santa Fe de Goias
+GO	Santa Helena de Goias
+GO	Santa Isabel
+GO	Santa Rita do Araguaia
+GO	Santa Rita do Novo Destino
+GO	Santa Rosa
+GO	Santa Rosa de Goias
+GO	Santa Tereza de Goias
+GO	Santa Terezinha de Goias
+GO	Santo Antonio da Barra
+GO	Santo Antonio de Goias
+GO	Santo Antonio do Descoberto
+GO	Santo Antonio do Rio Verde
+GO	Sao Domingos
+GO	Sao Francisco de Goias
+GO	Sao Gabriel de Goias
+GO	Sao Joao
+GO	Sao Joao D'alianca
+GO	Sao Joao da Parauna
+GO	Sao Luis de Montes Belos
+GO	Sao Luiz do Norte
+GO	Sao Luiz do Tocantins
+GO	Sao Miguel do Araguaia
+GO	Sao Miguel do Passa Quatro
+GO	Sao Patricio
+GO	Sao Sebastiao do Rio Claro
+GO	Sao Simao
+GO	Sao Vicente
+GO	Sarandi
+GO	Senador Canedo
+GO	Serra Dourada
+GO	Serranopolis
+GO	Silvania
+GO	Simolandia
+GO	Sitio D'abadia
+GO	Sousania
+GO	Taquaral de Goias
+GO	Taveira
+GO	Teresina de Goias
+GO	Terezopolis de Goias
+GO	Termas do Itaja
+GO	Tres Ranchos
+GO	Trindade
+GO	Trombas
+GO	Tupiracaba
+GO	Turvania
+GO	Turvelandia
+GO	Uirapuru
+GO	Uruacu
+GO	Uruana
+GO	Uruita
+GO	Urutai
+GO	Uva
+GO	Valdelandia
+GO	Valparaiso de Goias
+GO	Varjao
+GO	Vianopolis
+GO	Vicentinopolis
+GO	Vila Boa
+GO	Vila Brasilia
+GO	Vila Propicio
+GO	Vila Sertaneja
+MA	Acailandia
+MA	Afonso Cunha
+MA	Agua Doce do Maranhao
+MA	Alcantara
+MA	Aldeias Altas
+MA	Altamira do Maranhao
+MA	Alto Alegre do Maranhao
+MA	Alto Alegre do Pindare
+MA	Alto Parnaiba
+MA	Amapa do Maranhao
+MA	Amarante do Maranhao
+MA	Anajatuba
+MA	Anapurus
+MA	Anil
+MA	Apicum-acu
+MA	Araguana
+MA	Araioses
+MA	Arame
+MA	Arari
+MA	Aurizona
+MA	Axixa
+MA	Bacabal
+MA	Bacabeira
+MA	Bacatuba
+MA	Bacuri
+MA	Bacurituba
+MA	Balsas
+MA	Barao de Grajau
+MA	Barao de Tromai
+MA	Barra do Corda
+MA	Barreirinhas
+MA	Barro Duro
+MA	Bela Vista do Maranhao
+MA	Belagua
+MA	Benedito Leite
+MA	Bequimao
+MA	Bernardo do Mearim
+MA	Boa Vista do Gurupi
+MA	Boa Vista do Pindare
+MA	Bom Jardim
+MA	Bom Jesus das Selvas
+MA	Bom Lugar
+MA	Bonfim do Arari
+MA	Brejo
+MA	Brejo de Areia
+MA	Brejo de Sao Felix
+MA	Buriti
+MA	Buriti Bravo
+MA	Buriti Cortado
+MA	Buriticupu
+MA	Buritirama
+MA	Cachoeira Grande
+MA	Cajapio
+MA	Cajari
+MA	Campestre do Maranhao
+MA	Candido Mendes
+MA	Cantanhede
+MA	Capinzal do Norte
+MA	Caraiba do Norte
+MA	Carolina
+MA	Carutapera
+MA	Caxias
+MA	Cedral
+MA	Central do Maranhao
+MA	Centro do Guilherme
+MA	Centro Novo do Maranhao
+MA	Chapadinha
+MA	Cidelandia
+MA	Codo
+MA	Codozinho
+MA	Coelho Neto
+MA	Colinas
+MA	Conceicao do Lago-acu
+MA	Coroata
+MA	Curupa
+MA	Cururupu
+MA	Curva Grande
+MA	Custodio Lima
+MA	Davinopolis
+MA	Dom Pedro
+MA	Duque Bacelar
+MA	Esperantinopolis
+MA	Estandarte
+MA	Estreito
+MA	Feira Nova do Maranhao
+MA	Fernando Falcao
+MA	Formosa da Serra Negra
+MA	Fortaleza dos Nogueiras
+MA	Fortuna
+MA	Frecheiras
+MA	Godofredo Viana
+MA	Goncalves Dias
+MA	Governador Archer
+MA	Governador Edison Lobao
+MA	Governador Eugenio Barros
+MA	Governador Luiz Rocha
+MA	Governador Newton Bello
+MA	Governador Nunes Freire
+MA	Graca Aranha
+MA	Grajau
+MA	Guimaraes
+MA	Humberto de Campos
+MA	Ibipira
+MA	Icatu
+MA	Igarape do Meio
+MA	Igarape Grande
+MA	Imperatriz
+MA	Itaipava do Grajau
+MA	Itamatare
+MA	Itapecuru Mirim
+MA	Itapera
+MA	Itinga do Maranhao
+MA	Jatoba
+MA	Jenipapo dos Vieiras
+MA	Joao Lisboa
+MA	Joselandia
+MA	Junco do Maranhao
+MA	Lago da Pedra
+MA	Lago do Junco
+MA	Lago dos Rodrigues
+MA	Lago Verde
+MA	Lagoa do Mato
+MA	Lagoa Grande do Maranhao
+MA	Lajeado Novo
+MA	Lapela
+MA	Leandro
+MA	Lima Campos
+MA	Loreto
+MA	Luis Domingues
+MA	Magalhaes de Almeida
+MA	Maioba
+MA	Maracacume
+MA	Maraja do Sena
+MA	Maranhaozinho
+MA	Marianopolis
+MA	Mata
+MA	Mata Roma
+MA	Matinha
+MA	Matoes
+MA	Matoes do Norte
+MA	Milagres do Maranhao
+MA	Mirador
+MA	Miranda do Norte
+MA	Mirinzal
+MA	Moncao
+MA	Montes Altos
+MA	Morros
+MA	Nina Rodrigues
+MA	Nova Colinas
+MA	Nova Iorque
+MA	Nova Olinda do Maranhao
+MA	Olho D'agua Das Cunhas
+MA	Olinda Nova do Maranhao
+MA	Paco do Lumiar
+MA	Palmeirandia
+MA	Papagaio
+MA	Paraibano
+MA	Parnarama
+MA	Passagem Franca
+MA	Pastos Bons
+MA	Paulino Neves
+MA	Paulo Ramos
+MA	Pedreiras
+MA	Pedro do Rosario
+MA	Penalva
+MA	Peri Mirim
+MA	Peritoro
+MA	Pimentel
+MA	Pindare Mirim
+MA	Pinheiro
+MA	Pio Xii
+MA	Pirapemas
+MA	Pocao de Pedras
+MA	Porto das Gabarras
+MA	Porto Franco
+MA	Porto Rico do Maranhao
+MA	Presidente Dutra
+MA	Presidente Juscelino
+MA	Presidente Medici
+MA	Presidente Sarney
+MA	Presidente Vargas
+MA	Primeira Cruz
+MA	Raposa
+MA	Resplandes
+MA	Riachao
+MA	Ribamar Fiquene
+MA	Ribeirao Azul
+MA	Rocado
+MA	Roque
+MA	Rosario
+MA	Sambaiba
+MA	Santa Filomena do Maranhao
+MA	Santa Helena
+MA	Santa Ines
+MA	Santa Luzia
+MA	Santa Luzia do Parua
+MA	Santa Quiteria do Maranhao
+MA	Santa Rita
+MA	Santana do Maranhao
+MA	Santo Amaro
+MA	Santo Antonio dos Lopes
+MA	Sao Benedito do Rio Preto
+MA	Sao Bento
+MA	Sao Bernardo
+MA	Sao Domingos do Azeitao
+MA	Sao Domingos do Maranhao
+MA	Sao Felix de Balsas
+MA	Sao Francisco do Brejao
+MA	Sao Francisco do Maranhao
+MA	Sao Joao Batista
+MA	Sao Joao de Cortes
+MA	Sao Joao do Caru
+MA	Sao Joao do Paraiso
+MA	Sao Joao do Soter
+MA	Sao Joao dos Patos
+MA	Sao Joaquim dos Melos
+MA	Sao Jose de Ribamar
+MA	Sao Jose dos Basilios
+MA	Sao Luis
+MA	Sao Luis Gonzaga do Maranhao
+MA	Sao Mateus do Maranhao
+MA	Sao Pedro da Agua Branca
+MA	Sao Pedro dos Crentes
+MA	Sao Raimundo das Mangabeiras
+MA	Sao Raimundo de Codo
+MA	Sao Raimundo do Doca Bezerra
+MA	Sao Roberto
+MA	Sao Vicente Ferrer
+MA	Satubinha
+MA	Senador Alexandre Costa
+MA	Senador La Rocque
+MA	Serrano do Maranhao
+MA	Sitio Novo
+MA	Sucupira do Norte
+MA	Sucupira do Riachao
+MA	Tasso Fragoso
+MA	Timbiras
+MA	Timon
+MA	Trizidela do Vale
+MA	Tufilandia
+MA	Tuntum
+MA	Turiacu
+MA	Turilandia
+MA	Tutoia
+MA	Urbano Santos
+MA	Vargem Grande
+MA	Viana
+MA	Vila Nova dos Martirios
+MA	Vitoria do Mearim
+MA	Vitorino Freire
+MA	Ze Doca
+MG	Abadia dos Dourados
+MG	Abaete
+MG	Abaete dos Mendes
+MG	Abaiba
+MG	Abre Campo
+MG	Abreus
+MG	Acaiaca
+MG	Acucena
+MG	Acurui
+MG	Adao Colares
+MG	Agua Boa
+MG	Agua Branca de Minas
+MG	Agua Comprida
+MG	Agua Viva
+MG	Aguanil
+MG	Aguas de Araxa
+MG	Aguas de Contendas
+MG	Aguas Ferreas
+MG	Aguas Formosas
+MG	Aguas Vermelhas
+MG	Aimores
+MG	Aiuruoca
+MG	Alagoa
+MG	Albertina
+MG	Alberto Isaacson
+MG	Albertos
+MG	Aldeia
+MG	Alegre
+MG	Alegria
+MG	Alem Paraiba
+MG	Alexandrita
+MG	Alfenas
+MG	Alfredo Vasconcelos
+MG	Almeida
+MG	Almenara
+MG	Alpercata
+MG	Alpinopolis
+MG	Alterosa
+MG	Alto Caparao
+MG	Alto Capim
+MG	Alto de Santa Helena
+MG	Alto Jequitiba
+MG	Alto Maranhao
+MG	Alto Rio Doce
+MG	Altolandia
+MG	Alvacao
+MG	Alvarenga
+MG	Alvinopolis
+MG	Alvorada
+MG	Alvorada de Minas
+MG	Amanda
+MG	Amanhece
+MG	Amarantina
+MG	Amparo da Serra
+MG	Andiroba
+MG	Andradas
+MG	Andrelandia
+MG	Andrequice
+MG	Angaturama
+MG	Angelandia
+MG	Angicos de Minas
+MG	Anguereta
+MG	Angustura
+MG	Antonio Carlos
+MG	Antonio Dias
+MG	Antonio dos Santos
+MG	Antonio Ferreira
+MG	Antonio Pereira
+MG	Antonio Prado de Minas
+MG	Antunes
+MG	Aparecida de Minas
+MG	Aracai
+MG	Aracati de Minas
+MG	Aracitaba
+MG	Aracuai
+MG	Araguari
+MG	Aramirim
+MG	Aranha
+MG	Arantina
+MG	Araponga
+MG	Arapora
+MG	Arapua
+MG	Araujos
+MG	Arauna
+MG	Araxa
+MG	Arcangelo
+MG	Arceburgo
+MG	Arcos
+MG	Areado
+MG	Argenita
+MG	Argirita
+MG	Aricanduva
+MG	Arinos
+MG	Aristides Batista
+MG	Ascencao
+MG	Assarai
+MG	Astolfo Dutra
+MG	Ataleia
+MG	Augusto de Lima
+MG	Avai do Jacinto
+MG	Azurita
+MG	Babilonia
+MG	Bacao
+MG	Baependi
+MG	Baguari
+MG	Baioes
+MG	Baixa
+MG	Balbinopolis
+MG	Baldim
+MG	Bambui
+MG	Bandeira
+MG	Bandeira do Sul
+MG	Bandeirantes
+MG	Barao de Cocais
+MG	Barao de Monte Alto
+MG	Barbacena
+MG	Barra Alegre
+MG	Barra da Figueira
+MG	Barra do Ariranha
+MG	Barra do Cuiete
+MG	Barra Feliz
+MG	Barra Longa
+MG	Barranco Alto
+MG	Barreiro
+MG	Barreiro Branco
+MG	Barreiro da Raiz
+MG	Barreiro do Rio Verde
+MG	Barretos de Alvinopolis
+MG	Barrocao
+MG	Barroso
+MG	Bau
+MG	Bela Vista de Minas
+MG	Belisario
+MG	Belmiro Braga
+MG	Belo Horizonte
+MG	Belo Oriente
+MG	Belo Vale
+MG	Bentopolis de Minas
+MG	Berilo
+MG	Berizal
+MG	Bertopolis
+MG	Betim
+MG	Bias Fortes
+MG	Bicas
+MG	Bicuiba
+MG	Biquinhas
+MG	Bituri
+MG	Boa Esperanca
+MG	Boa Familia
+MG	Boa Uniao de Itabirinha
+MG	Boa Vista de Minas
+MG	Bocaina de Minas
+MG	Bocaiuva
+MG	Bom Despacho
+MG	Bom Jardim de Minas
+MG	Bom Jesus da Cachoeira
+MG	Bom Jesus da Penha
+MG	Bom Jesus de Cardosos
+MG	Bom Jesus do Amparo
+MG	Bom Jesus do Divino
+MG	Bom Jesus do Galho
+MG	Bom Jesus do Madeira
+MG	Bom Pastor
+MG	Bom Repouso
+MG	Bom Retiro
+MG	Bom Sucesso
+MG	Bom Sucesso de Patos
+MG	Bonanca
+MG	Bonfim
+MG	Bonfinopolis de Minas
+MG	Bonito de Minas
+MG	Borba Gato
+MG	Borda da Mata
+MG	Botelhos
+MG	Botumirim
+MG	Bras Pires
+MG	Brasilandia de Minas
+MG	Brasilia de Minas
+MG	Brasopolis
+MG	Braunas
+MG	Brejauba
+MG	Brejaubinha
+MG	Brejo Bonito
+MG	Brejo do Amparo
+MG	Brumadinho
+MG	Brumal
+MG	Buarque de Macedo
+MG	Bueno
+MG	Bueno Brandao
+MG	Buenopolis
+MG	Bugre
+MG	Buritis
+MG	Buritizeiro
+MG	Caatinga
+MG	Cabeceira Grande
+MG	Cabo Verde
+MG	Caburu
+MG	Cacaratiba
+MG	Cacarema
+MG	Cachoeira Alegre
+MG	Cachoeira da Prata
+MG	Cachoeira de Minas
+MG	Cachoeira de Pajeu
+MG	Cachoeira de Santa Cruz
+MG	Cachoeira do Brumado
+MG	Cachoeira do Campo
+MG	Cachoeira do Manteiga
+MG	Cachoeira do Vale
+MG	Cachoeira dos Antunes
+MG	Cachoeira Dourada
+MG	Cachoeirinha
+MG	Caetano Lopes
+MG	Caetanopolis
+MG	Caete
+MG	Caiana
+MG	Caiapo
+MG	Cajuri
+MG	Caldas
+MG	Calixto
+MG	Camacho
+MG	Camanducaia
+MG	Camargos
+MG	Cambui
+MG	Cambuquira
+MG	Campanario
+MG	Campanha
+MG	Campestre
+MG	Campestrinho
+MG	Campina Verde
+MG	Campo Alegre de Minas
+MG	Campo Azul
+MG	Campo Belo
+MG	Campo do Meio
+MG	Campo Florido
+MG	Campo Redondo
+MG	Campolide
+MG	Campos Altos
+MG	Campos Gerais
+MG	Cana Verde
+MG	Canaa
+MG	Canabrava
+MG	Canapolis
+MG	Canastrao
+MG	Candeias
+MG	Canoeiros
+MG	Cantagalo
+MG	Caparao
+MG	Capela Nova
+MG	Capelinha
+MG	Capetinga
+MG	Capim Branco
+MG	Capinopolis
+MG	Capitania
+MG	Capitao Andrade
+MG	Capitao Eneas
+MG	Capitolio
+MG	Caputira
+MG	Carai
+MG	Caranaiba
+MG	Carandai
+MG	Carangola
+MG	Caratinga
+MG	Carbonita
+MG	Cardeal Mota
+MG	Careacu
+MG	Carioca
+MG	Carlos Alves
+MG	Carlos Chagas
+MG	Carmesia
+MG	Carmo da Cachoeira
+MG	Carmo da Mata
+MG	Carmo de Minas
+MG	Carmo do Cajuru
+MG	Carmo do Paranaiba
+MG	Carmo do Rio Claro
+MG	Carmopolis de Minas
+MG	Carneirinho
+MG	Carrancas
+MG	Carvalho de Brito
+MG	Carvalhopolis
+MG	Carvalhos
+MG	Casa Grande
+MG	Cascalho Rico
+MG	Cassia
+MG	Cataguarino
+MG	Cataguases
+MG	Catajas
+MG	Catas Altas
+MG	Catas Altas da Noruega
+MG	Catiara
+MG	Catuji
+MG	Catune
+MG	Catuni
+MG	Catuti
+MG	Caxambu
+MG	Cedro do Abaete
+MG	Centenario
+MG	Central de Minas
+MG	Central de Santa Helena
+MG	Centralina
+MG	Cervo
+MG	Chacara
+MG	Chale
+MG	Chapada de Minas
+MG	Chapada do Norte
+MG	Chapada Gaucha
+MG	Chaveslandia
+MG	Chiador
+MG	Chonim
+MG	Chumbo
+MG	Cipotanea
+MG	Cisneiros
+MG	Citrolandia
+MG	Claraval
+MG	Claro de Minas
+MG	Claro dos Pocoes
+MG	Claudio
+MG	Claudio Manuel
+MG	Cocais
+MG	Coco
+MG	Coimbra
+MG	Coluna
+MG	Comendador Gomes
+MG	Comercinho
+MG	Conceicao da Aparecida
+MG	Conceicao da Barra de Minas
+MG	Conceicao da Boa Vista
+MG	Conceicao da Brejauba
+MG	Conceicao da Ibitipoca
+MG	Conceicao das Alagoas
+MG	Conceicao das Pedras
+MG	Conceicao de Ipanema
+MG	Conceicao de Itagua
+MG	Conceicao de Minas
+MG	Conceicao de Piracicaba
+MG	Conceicao de Tronqueiras
+MG	Conceicao do Capim
+MG	Conceicao do Formoso
+MG	Conceicao do Mato Dentro
+MG	Conceicao do Para
+MG	Conceicao do Rio Acima
+MG	Conceicao do Rio Verde
+MG	Conceicao dos Ouros
+MG	Concordia de Mucuri
+MG	Condado do Norte
+MG	Conego Joao Pio
+MG	Conego Marinho
+MG	Confins
+MG	Congonhal
+MG	Congonhas
+MG	Congonhas do Norte
+MG	Conquista
+MG	Conselheiro Lafaiete
+MG	Conselheiro Mata
+MG	Conselheiro Pena
+MG	Consolacao
+MG	Contagem
+MG	Contrato
+MG	Contria
+MG	Coqueiral
+MG	Coracao de Jesus
+MG	Cordisburgo
+MG	Cordislandia
+MG	Corinto
+MG	Coroaci
+MG	Coromandel
+MG	Coronel Fabriciano
+MG	Coronel Murta
+MG	Coronel Pacheco
+MG	Coronel Xavier Chaves
+MG	Corrego Danta
+MG	Corrego do Barro
+MG	Corrego do Bom Jesus
+MG	Corrego do Ouro
+MG	Corrego Fundo
+MG	Corrego Novo
+MG	Corregos
+MG	Correia de Almeida
+MG	Correntinho
+MG	Costa Sena
+MG	Costas
+MG	Costas da Mantiqueira
+MG	Couto de Magalhaes de Minas
+MG	Crisolia
+MG	Crisolita
+MG	Crispim Jaques
+MG	Cristais
+MG	Cristalia
+MG	Cristiano Otoni
+MG	Cristina
+MG	Crucilandia
+MG	Cruzeiro da Fortaleza
+MG	Cruzeiro dos Peixotos
+MG	Cruzilia
+MG	Cubas
+MG	Cuite Velho
+MG	Cuparaque
+MG	Curimatai
+MG	Curral de Dentro
+MG	Curvelo
+MG	Datas
+MG	Delfim Moreira
+MG	Delfinopolis
+MG	Delta
+MG	Deputado Augusto Clementino
+MG	Derribadinha
+MG	Descoberto
+MG	Desembargador Otoni
+MG	Desemboque
+MG	Desterro de Entre Rios
+MG	Desterro do Melo
+MG	Diamante de Uba
+MG	Diamantina
+MG	Dias
+MG	Dias Tavares/siderurgica
+MG	Diogo de Vasconcelos
+MG	Dionisio
+MG	Divinesia
+MG	Divino
+MG	Divino das Laranjeiras
+MG	Divino de Virgolandia
+MG	Divino Espirito Santo
+MG	Divinolandia de Minas
+MG	Divinopolis
+MG	Divisa Alegre
+MG	Divisa Nova
+MG	Divisopolis
+MG	Dois de Abril
+MG	Dom Bosco
+MG	Dom Cavati
+MG	Dom Joaquim
+MG	Dom Lara
+MG	Dom Modesto
+MG	Dom Silverio
+MG	Dom Vicoso
+MG	Dona Euzebia
+MG	Dores da Vitoria
+MG	Dores de Campos
+MG	Dores de Guanhaes
+MG	Dores do Indaia
+MG	Dores do Paraibuna
+MG	Dores do Turvo
+MG	Doresopolis
+MG	Douradinho
+MG	Douradoquara
+MG	Doutor Campolina
+MG	Doutor Lund
+MG	Durande
+MG	Edgard Melo
+MG	Eloi Mendes
+MG	Emboabas
+MG	Engenheiro Caldas
+MG	Engenheiro Correia
+MG	Engenheiro Navarro
+MG	Engenheiro Schnoor
+MG	Engenho do Ribeiro
+MG	Engenho Novo
+MG	Entre Folhas
+MG	Entre Rios de Minas
+MG	Epaminondas Otoni
+MG	Ermidinha
+MG	Ervalia
+MG	Esmeraldas
+MG	Esmeraldas de Ferros
+MG	Espera Feliz
+MG	Espinosa
+MG	Espirito Santo do Dourado
+MG	Esteios
+MG	Estevao de Araujo
+MG	Estiva
+MG	Estrela da Barra
+MG	Estrela Dalva
+MG	Estrela de Jordania
+MG	Estrela do Indaia
+MG	Estrela do Sul
+MG	Eugenopolis
+MG	Euxenita
+MG	Ewbank da Camara
+MG	Expedicionario Alicio
+MG	Extracao
+MG	Extrema
+MG	Fama
+MG	Faria Lemos
+MG	Farias
+MG	Fechados
+MG	Felicina
+MG	Felicio dos Santos
+MG	Felisburgo
+MG	Felixlandia
+MG	Fernandes Tourinho
+MG	Fernao Dias
+MG	Ferreiras
+MG	Ferreiropolis
+MG	Ferros
+MG	Ferruginha
+MG	Fervedouro
+MG	Fidalgo
+MG	Fidelandia
+MG	Flor de Minas
+MG	Floralia
+MG	Floresta
+MG	Florestal
+MG	Florestina
+MG	Fonseca
+MG	Formiga
+MG	Formoso
+MG	Fortaleza de Minas
+MG	Fortuna de Minas
+MG	Francisco Badaro
+MG	Francisco Dumont
+MG	Francisco Sa
+MG	Franciscopolis
+MG	Frei Eustaquio
+MG	Frei Gaspar
+MG	Frei Inocencio
+MG	Frei Lagonegro
+MG	Frei Orlando
+MG	Frei Serafim
+MG	Freire Cardoso
+MG	Fronteira
+MG	Fronteira dos Vales
+MG	Fruta de Leite
+MG	Frutal
+MG	Funchal
+MG	Funilandia
+MG	Furnas
+MG	Furquim
+MG	Galego
+MG	Galena
+MG	Galileia
+MG	Gama
+MG	Gameleiras
+MG	Garapuava
+MG	Gaviao
+MG	Glaucilandia
+MG	Glaura
+MG	Glucinio
+MG	Goiabeira
+MG	Goiana
+MG	Goianases
+MG	Goncalves
+MG	Gonzaga
+MG	Gororos
+MG	Gorutuba
+MG	Gouvea
+MG	Governador Valadares
+MG	Graminea
+MG	Granada
+MG	Grao Mogol
+MG	Grota
+MG	Grupiara
+MG	Guacui
+MG	Guaipava
+MG	Guanhaes
+MG	Guape
+MG	Guaraciaba
+MG	Guaraciama
+MG	Guaranesia
+MG	Guarani
+MG	Guaranilandia
+MG	Guarara
+MG	Guarataia
+MG	Guarda dos Ferreiros
+MG	Guarda-mor
+MG	Guardinha
+MG	Guaxima
+MG	Guaxupe
+MG	Guidoval
+MG	Guimarania
+MG	Guinda
+MG	Guiricema
+MG	Gurinhata
+MG	Heliodora
+MG	Hematita
+MG	Hermilo Alves
+MG	Honoropolis
+MG	Iapu
+MG	Ibertioga
+MG	Ibia
+MG	Ibiai
+MG	Ibiracatu
+MG	Ibiraci
+MG	Ibirite
+MG	Ibitira
+MG	Ibitiura de Minas
+MG	Ibituruna
+MG	Icarai de Minas
+MG	Igarape
+MG	Igaratinga
+MG	Iguatama
+MG	Ijaci
+MG	Ilheus do Prata
+MG	Ilicinea
+MG	Imbe de Minas
+MG	Inconfidentes
+MG	Indaiabira
+MG	Independencia
+MG	Indianopolis
+MG	Ingai
+MG	Inhai
+MG	Inhapim
+MG	Inhauma
+MG	Inimutaba
+MG	Ipaba
+MG	Ipanema
+MG	Ipatinga
+MG	Ipiacu
+MG	Ipoema
+MG	Ipuiuna
+MG	Irai de Minas
+MG	Itabira
+MG	Itabirinha de Mantena
+MG	Itabirito
+MG	Itaboca
+MG	Itacambira
+MG	Itacarambi
+MG	Itaci
+MG	Itacolomi
+MG	Itaguara
+MG	Itaim
+MG	Itaipe
+MG	Itajuba
+MG	Itajutiba
+MG	Itamarandiba
+MG	Itamarati
+MG	Itamarati de Minas
+MG	Itambacuri
+MG	Itambe do Mato Dentro
+MG	Itamirim
+MG	Itamogi
+MG	Itamonte
+MG	Itamuri
+MG	Itanhandu
+MG	Itanhomi
+MG	Itaobim
+MG	Itapagipe
+MG	Itapanhoacanga
+MG	Itapecerica
+MG	Itapeva
+MG	Itapiru
+MG	Itapirucu
+MG	Itatiaiucu
+MG	Itau de Minas
+MG	Itauna
+MG	Itauninha
+MG	Itaverava
+MG	Iterere
+MG	Itinga
+MG	Itira
+MG	Itueta
+MG	Itui
+MG	Ituiutaba
+MG	Itumirim
+MG	Iturama
+MG	Itutinga
+MG	Jaboticatubas
+MG	Jacarandira
+MG	Jacare
+MG	Jacinto
+MG	Jacui
+MG	Jacutinga
+MG	Jaguaracu
+MG	Jaguarao
+MG	Jaguaritira
+MG	Jaiba
+MG	Jampruca
+MG	Janauba
+MG	Januaria
+MG	Japaraiba
+MG	Japonvar
+MG	Jardinesia
+MG	Jeceaba
+MG	Jenipapo de Minas
+MG	Jequeri
+MG	Jequitai
+MG	Jequitiba
+MG	Jequitinhonha
+MG	Jesuania
+MG	Joaima
+MG	Joanesia
+MG	Joao Monlevade
+MG	Joao Pinheiro
+MG	Joaquim Felicio
+MG	Jordania
+MG	Jose Goncalves de Minas
+MG	Jose Raydan
+MG	Joselandia
+MG	Josenopolis
+MG	Juatuba
+MG	Jubai
+MG	Juiracu
+MG	Juiz de Fora
+MG	Junco de Minas
+MG	Juramento
+MG	Jureia
+MG	Juruaia
+MG	Jurumirim
+MG	Justinopolis
+MG	Juvenilia
+MG	Lacerdinha
+MG	Ladainha
+MG	Lagamar
+MG	Lagoa Bonita
+MG	Lagoa da Prata
+MG	Lagoa dos Patos
+MG	Lagoa Dourada
+MG	Lagoa Formosa
+MG	Lagoa Grande
+MG	Lagoa Santa
+MG	Lajinha
+MG	Lambari
+MG	Lamim
+MG	Lamounier
+MG	Lapinha
+MG	Laranjal
+MG	Laranjeiras de Caldas
+MG	Lassance
+MG	Lavras
+MG	Leandro Ferreira
+MG	Leme do Prado
+MG	Leopoldina
+MG	Levinopolis
+MG	Liberdade
+MG	Lima Duarte
+MG	Limeira D'oeste
+MG	Limeira de Mantena
+MG	Lobo Leite
+MG	Lontra
+MG	Lourenco Velho
+MG	Lufa
+MG	Luisburgo
+MG	Luislandia
+MG	Luiz Pires de Minas
+MG	Luizlandia do Oeste
+MG	Luminarias
+MG	Luminosa
+MG	Luz
+MG	Macaia
+MG	Machacalis
+MG	Machado
+MG	Macuco
+MG	Macuco de Minas
+MG	Madre de Deus de Minas
+MG	Mae dos Homens
+MG	Major Ezequiel
+MG	Major Porto
+MG	Malacacheta
+MG	Mamonas
+MG	Manga
+MG	Manhuacu
+MG	Manhumirim
+MG	Mantena
+MG	Mantiqueira
+MG	Mantiqueira do Palmital
+MG	Mar de Espanha
+MG	Marambainha
+MG	Maravilhas
+MG	Maria da Fe
+MG	Mariana
+MG	Marilac
+MG	Marilandia
+MG	Mario Campos
+MG	Maripa de Minas
+MG	Marlieria
+MG	Marmelopolis
+MG	Martinesia
+MG	Martinho Campos
+MG	Martins Guimaraes
+MG	Martins Soares
+MG	Mata Verde
+MG	Materlandia
+MG	Mateus Leme
+MG	Mathias Lobato
+MG	Matias Barbosa
+MG	Matias Cardoso
+MG	Matipo
+MG	Mato Verde
+MG	Matozinhos
+MG	Matutina
+MG	Medeiros
+MG	Medina
+MG	Melo Viana
+MG	Mendanha
+MG	Mendes Pimentel
+MG	Mendonca
+MG	Merces
+MG	Merces de Agua Limpa
+MG	Mesquita
+MG	Mestre Caetano
+MG	Miguel Burnier
+MG	Milagre
+MG	Milho Verde
+MG	Minas Novas
+MG	Minduri
+MG	Mirabela
+MG	Miradouro
+MG	Miragaia
+MG	Mirai
+MG	Miralta
+MG	Mirantao
+MG	Miraporanga
+MG	Miravania
+MG	Missionario
+MG	Mocambeiro
+MG	Mocambinho
+MG	Moeda
+MG	Moema
+MG	Monjolinho de Minas
+MG	Monjolos
+MG	Monsenhor Horta
+MG	Monsenhor Isidro
+MG	Monsenhor Joao Alexandre
+MG	Monsenhor Paulo
+MG	Montalvania
+MG	Monte Alegre de Minas
+MG	Monte Azul
+MG	Monte Belo
+MG	Monte Carmelo
+MG	Monte Celeste
+MG	Monte Formoso
+MG	Monte Rei
+MG	Monte Santo de Minas
+MG	Monte Siao
+MG	Monte Verde
+MG	Montes Claros
+MG	Montezuma
+MG	Morada Nova de Minas
+MG	Morro
+MG	Morro da Garca
+MG	Morro do Ferro
+MG	Morro do Pilar
+MG	Morro Vermelho
+MG	Mucuri
+MG	Mundo Novo de Minas
+MG	Munhoz
+MG	Muquem
+MG	Muriae
+MG	Mutum
+MG	Muzambinho
+MG	Nacip Raydan
+MG	Nanuque
+MG	Naque
+MG	Naque-nanuque
+MG	Natalandia
+MG	Natercia
+MG	Nazare de Minas
+MG	Nazareno
+MG	Nelson de Sena
+MG	Neolandia
+MG	Nepomuceno
+MG	Nhandutiba
+MG	Nicolandia
+MG	Ninheira
+MG	Nova Belem
+MG	Nova Era
+MG	Nova Esperanca
+MG	Nova Lima
+MG	Nova Minda
+MG	Nova Modica
+MG	Nova Ponte
+MG	Nova Porteirinha
+MG	Nova Resende
+MG	Nova Serrana
+MG	Nova Uniao
+MG	Novilhona
+MG	Novo Cruzeiro
+MG	Novo Horizonte
+MG	Novo Oriente de Minas
+MG	Novorizonte
+MG	Ocidente
+MG	Olaria
+MG	Olegario Maciel
+MG	Olhos D'agua Do Oeste
+MG	Olhos-d'agua
+MG	Olimpio Campos
+MG	Olimpio Noronha
+MG	Oliveira
+MG	Oliveira Fortes
+MG	Onca de Pitangui
+MG	Oratorios
+MG	Orizania
+MG	Ouro Branco
+MG	Ouro Fino
+MG	Ouro Preto
+MG	Ouro Verde de Minas
+MG	Paciencia
+MG	Padre Brito
+MG	Padre Carvalho
+MG	Padre Felisberto
+MG	Padre Fialho
+MG	Padre Joao Afonso
+MG	Padre Julio Maria
+MG	Padre Paraiso
+MG	Padre Pinto
+MG	Padre Viegas
+MG	Pai Pedro
+MG	Paineiras
+MG	Pains
+MG	Paiolinho
+MG	Paiva
+MG	Palma
+MG	Palmeiral
+MG	Palmeirinha
+MG	Palmital dos Carvalhos
+MG	Palmopolis
+MG	Pantano
+MG	Papagaios
+MG	Para de Minas
+MG	Paracatu
+MG	Paraguacu
+MG	Paraguai
+MG	Paraiso Garcia
+MG	Paraisopolis
+MG	Paraopeba
+MG	Paredao de Minas
+MG	Parque Durval de Barros
+MG	Parque Industrial
+MG	Passa Dez
+MG	Passa Quatro
+MG	Passa Tempo
+MG	Passa Vinte
+MG	Passabem
+MG	Passagem de Mariana
+MG	Passos
+MG	Patis
+MG	Patos de Minas
+MG	Patrimonio
+MG	Patrocinio
+MG	Patrocinio do Muriae
+MG	Paula Candido
+MG	Paula Lima
+MG	Paulistas
+MG	Pavao
+MG	Pe do Morro
+MG	Pecanha
+MG	Pedra Azul
+MG	Pedra Bonita
+MG	Pedra Corrida
+MG	Pedra do Anta
+MG	Pedra do Indaia
+MG	Pedra do Sino
+MG	Pedra Dourada
+MG	Pedra Grande
+MG	Pedra Menina
+MG	Pedralva
+MG	Pedras de Maria da Cruz
+MG	Pedrinopolis
+MG	Pedro Leopoldo
+MG	Pedro Lessa
+MG	Pedro Teixeira
+MG	Pedro Versiani
+MG	Penedia
+MG	Penha de Franca
+MG	Penha do Capim
+MG	Penha do Cassiano
+MG	Penha do Norte
+MG	Penha Longa
+MG	Pequeri
+MG	Pequi
+MG	Perdigao
+MG	Perdilandia
+MG	Perdizes
+MG	Perdoes
+MG	Pereirinhas
+MG	Periquito
+MG	Perpetuo Socorro
+MG	Pescador
+MG	Petunia
+MG	Piacatuba
+MG	Piao
+MG	Piau
+MG	Pic Sagarana
+MG	Piedade de Caratinga
+MG	Piedade de Ponte Nova
+MG	Piedade do Paraopeba
+MG	Piedade do Rio Grande
+MG	Piedade dos Gerais
+MG	Pilar
+MG	Pimenta
+MG	Pindaibas
+MG	Pingo-d'agua
+MG	Pinheirinhos
+MG	Pinheiros Altos
+MG	Pinhotiba
+MG	Pintopolis
+MG	Pintos Negreiros
+MG	Piracaiba
+MG	Piracema
+MG	Pirajuba
+MG	Piranga
+MG	Pirangucu
+MG	Piranguinho
+MG	Piranguita
+MG	Pirapanema
+MG	Pirapetinga
+MG	Pirapora
+MG	Pirauba
+MG	Pires e Albuquerque
+MG	Piscamba
+MG	Pitangui
+MG	Pitarana
+MG	Piumhi
+MG	Planalto de Minas
+MG	Planura
+MG	Plautino Soares
+MG	Poaia
+MG	Poco Fundo
+MG	Pocoes de Paineiras
+MG	Pocos de Caldas
+MG	Pocrane
+MG	Pompeu
+MG	Poncianos
+MG	Pontalete
+MG	Ponte Alta
+MG	Ponte Alta de Minas
+MG	Ponte dos Ciganos
+MG	Ponte Firme
+MG	Ponte Nova
+MG	Ponte Segura
+MG	Pontevila
+MG	Ponto Chique
+MG	Ponto Chique do Martelo
+MG	Ponto do Marambaia
+MG	Ponto dos Volantes
+MG	Porteirinha
+MG	Porto Agrario
+MG	Porto das Flores
+MG	Porto dos Mendes
+MG	Porto Firme
+MG	Pote
+MG	Pouso Alegre
+MG	Pouso Alto
+MG	Prados
+MG	Prata
+MG	Pratapolis
+MG	Pratinha
+MG	Presidente Bernardes
+MG	Presidente Juscelino
+MG	Presidente Kubitschek
+MG	Presidente Olegario
+MG	Presidente Pena
+MG	Professor Sperber
+MG	Providencia
+MG	Prudente de Morais
+MG	Quartel de Sao Joao
+MG	Quartel do Sacramento
+MG	Quartel Geral
+MG	Quatituba
+MG	Queixada
+MG	Queluzita
+MG	Quem-quem
+MG	Quilombo
+MG	Quintinos
+MG	Raposos
+MG	Raul Soares
+MG	Ravena
+MG	Realeza
+MG	Recreio
+MG	Reduto
+MG	Resende Costa
+MG	Resplendor
+MG	Ressaquinha
+MG	Riachinho
+MG	Riacho da Cruz
+MG	Riacho dos Machados
+MG	Ribeirao das Neves
+MG	Ribeirao de Sao Domingos
+MG	Ribeirao Vermelho
+MG	Ribeiro Junqueira
+MG	Ribeiros
+MG	Rio Acima
+MG	Rio Casca
+MG	Rio das Mortes
+MG	Rio do Prado
+MG	Rio Doce
+MG	Rio Espera
+MG	Rio Manso
+MG	Rio Melo
+MG	Rio Novo
+MG	Rio Paranaiba
+MG	Rio Pardo de Minas
+MG	Rio Piracicaba
+MG	Rio Pomba
+MG	Rio Pretinho
+MG	Rio Preto
+MG	Rio Vermelho
+MG	Ritapolis
+MG	Roca Grande
+MG	Rocas Novas
+MG	Rochedo de Minas
+MG	Rodeador
+MG	Rodeiro
+MG	Rodrigo Silva
+MG	Romaria
+MG	Rosario da Limeira
+MG	Rosario de Minas
+MG	Rosario do Pontal
+MG	Roseiral
+MG	Rubelita
+MG	Rubim
+MG	Sabara
+MG	Sabinopolis
+MG	Sacramento
+MG	Salinas
+MG	Salitre de Minas
+MG	Salto da Divisa
+MG	Sanatorio Santa Fe
+MG	Santa Barbara
+MG	Santa Barbara do Leste
+MG	Santa Barbara do Monte Verde
+MG	Santa Barbara do Tugurio
+MG	Santa Cruz da Aparecida
+MG	Santa Cruz de Botumirim
+MG	Santa Cruz de Minas
+MG	Santa Cruz de Salinas
+MG	Santa Cruz do Escalvado
+MG	Santa Cruz do Prata
+MG	Santa da Pedra
+MG	Santa Efigenia
+MG	Santa Efigenia de Minas
+MG	Santa Fe de Minas
+MG	Santa Filomena
+MG	Santa Helena de Minas
+MG	Santa Isabel
+MG	Santa Juliana
+MG	Santa Luzia
+MG	Santa Luzia da Serra
+MG	Santa Margarida
+MG	Santa Maria de Itabira
+MG	Santa Maria do Salto
+MG	Santa Maria do Suacui
+MG	Santa Rita da Estrela
+MG	Santa Rita de Caldas
+MG	Santa Rita de Jacutinga
+MG	Santa Rita de Minas
+MG	Santa Rita de Ouro Preto
+MG	Santa Rita do Cedro
+MG	Santa Rita do Ibitipoca
+MG	Santa Rita do Itueto
+MG	Santa Rita do Rio do Peixe
+MG	Santa Rita do Sapucai
+MG	Santa Rita Durao
+MG	Santa Rosa da Serra
+MG	Santa Rosa de Lima
+MG	Santa Rosa dos Dourados
+MG	Santa Teresa do Bonito
+MG	Santa Terezinha de Minas
+MG	Santa Vitoria
+MG	Santana da Vargem
+MG	Santana de Caldas
+MG	Santana de Cataguases
+MG	Santana de Patos
+MG	Santana de Pirapama
+MG	Santana do Alfie
+MG	Santana do Aracuai
+MG	Santana do Campestre
+MG	Santana do Capivari
+MG	Santana do Deserto
+MG	Santana do Garambeu
+MG	Santana do Jacare
+MG	Santana do Manhuacu
+MG	Santana do Paraiso
+MG	Santana do Paraopeba
+MG	Santana do Riacho
+MG	Santana do Tabuleiro
+MG	Santana dos Montes
+MG	Santo Antonio da Boa Vista
+MG	Santo Antonio da Fortaleza
+MG	Santo Antonio da Vargem Alegre
+MG	Santo Antonio do Amparo
+MG	Santo Antonio do Aventureiro
+MG	Santo Antonio do Boqueirao
+MG	Santo Antonio do Cruzeiro
+MG	Santo Antonio do Gloria
+MG	Santo Antonio do Grama
+MG	Santo Antonio do Itambe
+MG	Santo Antonio do Jacinto
+MG	Santo Antonio do Leite
+MG	Santo Antonio do Manhuacu
+MG	Santo Antonio do Monte
+MG	Santo Antonio do Mucuri
+MG	Santo Antonio do Norte
+MG	Santo Antonio do Pirapetinga
+MG	Santo Antonio do Retiro
+MG	Santo Antonio do Rio Abaixo
+MG	Santo Antonio dos Araujos
+MG	Santo Antonio dos Campos
+MG	Santo Hilario
+MG	Santo Hipolito
+MG	Santos Dumont
+MG	Sao Bartolomeu
+MG	Sao Benedito
+MG	Sao Bento Abade
+MG	Sao Bento de Caldas
+MG	Sao Bras do Suacui
+MG	Sao Braz
+MG	Sao Candido
+MG	Sao Domingos
+MG	Sao Domingos da Bocaina
+MG	Sao Domingos das Dores
+MG	Sao Domingos do Prata
+MG	Sao Felix de Minas
+MG	Sao Francisco
+MG	Sao Francisco de Paula
+MG	Sao Francisco de Sales
+MG	Sao Francisco do Gloria
+MG	Sao Francisco do Humaita
+MG	Sao Geraldo
+MG	Sao Geraldo da Piedade
+MG	Sao Geraldo de Tumiritinga
+MG	Sao Geraldo do Baguari
+MG	Sao Geraldo do Baixio
+MG	Sao Goncalo de Botelhos
+MG	Sao Goncalo do Abaete
+MG	Sao Goncalo do Monte
+MG	Sao Goncalo do Para
+MG	Sao Goncalo do Rio Abaixo
+MG	Sao Goncalo do Rio das Pedras
+MG	Sao Goncalo do Rio Preto
+MG	Sao Goncalo do Sapucai
+MG	Sao Gotardo
+MG	Sao Jeronimo dos Pocoes
+MG	Sao Joao Batista do Gloria
+MG	Sao Joao da Chapada
+MG	Sao Joao da Lagoa
+MG	Sao Joao da Mata
+MG	Sao Joao da Ponte
+MG	Sao Joao da Sapucaia
+MG	Sao Joao da Serra
+MG	Sao Joao da Serra Negra
+MG	Sao Joao da Vereda
+MG	Sao Joao das Missoes
+MG	Sao Joao Del Rei
+MG	Sao Joao do Bonito
+MG	Sao Joao do Jacutinga
+MG	Sao Joao do Manhuacu
+MG	Sao Joao do Manteninha
+MG	Sao Joao do Oriente
+MG	Sao Joao do Pacui
+MG	Sao Joao do Paraiso
+MG	Sao Joao Evangelista
+MG	Sao Joao Nepomuceno
+MG	Sao Joaquim
+MG	Sao Joaquim de Bicas
+MG	Sao Jose da Barra
+MG	Sao Jose da Bela Vista
+MG	Sao Jose da Lapa
+MG	Sao Jose da Pedra Menina
+MG	Sao Jose da Safira
+MG	Sao Jose da Varginha
+MG	Sao Jose das Tronqueiras
+MG	Sao Jose do Acacio
+MG	Sao Jose do Alegre
+MG	Sao Jose do Barreiro
+MG	Sao Jose do Batatal
+MG	Sao Jose do Buriti
+MG	Sao Jose do Divino
+MG	Sao Jose do Goiabal
+MG	Sao Jose do Itueto
+MG	Sao Jose do Jacuri
+MG	Sao Jose do Mantimento
+MG	Sao Jose do Mato Dentro
+MG	Sao Jose do Pantano
+MG	Sao Jose do Paraopeba
+MG	Sao Jose dos Lopes
+MG	Sao Jose dos Salgados
+MG	Sao Lourenco
+MG	Sao Manoel do Guaiacu
+MG	Sao Mateus de Minas
+MG	Sao Miguel do Anta
+MG	Sao Pedro da Garca
+MG	Sao Pedro da Uniao
+MG	Sao Pedro das Tabocas
+MG	Sao Pedro de Caldas
+MG	Sao Pedro do Avai
+MG	Sao Pedro do Gloria
+MG	Sao Pedro do Jequitinhonha
+MG	Sao Pedro do Suacui
+MG	Sao Pedro dos Ferros
+MG	Sao Roberto
+MG	Sao Romao
+MG	Sao Roque de Minas
+MG	Sao Sebastiao da Barra
+MG	Sao Sebastiao da Bela Vista
+MG	Sao Sebastiao da Vala
+MG	Sao Sebastiao da Vargem Alegre
+MG	Sao Sebastiao da Vitoria
+MG	Sao Sebastiao de Braunas
+MG	Sao Sebastiao do Anta
+MG	Sao Sebastiao do Baixio
+MG	Sao Sebastiao do Barreado
+MG	Sao Sebastiao do Barreiro
+MG	Sao Sebastiao do Bonsucesso
+MG	Sao Sebastiao do Bugre
+MG	Sao Sebastiao do Gil
+MG	Sao Sebastiao do Maranhao
+MG	Sao Sebastiao do Oculo
+MG	Sao Sebastiao do Oeste
+MG	Sao Sebastiao do Paraiso
+MG	Sao Sebastiao do Pontal
+MG	Sao Sebastiao do Rio Preto
+MG	Sao Sebastiao do Rio Verde
+MG	Sao Sebastiao do Sacramento
+MG	Sao Sebastiao do Soberbo
+MG	Sao Sebastiao dos Pocoes
+MG	Sao Sebastiao dos Robertos
+MG	Sao Sebastiao dos Torres
+MG	Sao Tiago
+MG	Sao Tomas de Aquino
+MG	Sao Tome das Letras
+MG	Sao Vicente
+MG	Sao Vicente da Estrela
+MG	Sao Vicente de Minas
+MG	Sao Vicente do Grama
+MG	Sao Vicente do Rio Doce
+MG	Sao Vitor
+MG	Sapucai
+MG	Sapucai-mirim
+MG	Sapucaia
+MG	Sapucaia de Guanhaes
+MG	Sapucaia do Norte
+MG	Sarandira
+MG	Sardoa
+MG	Sarzedo
+MG	Saudade
+MG	Sem Peixe
+MG	Senador Amaral
+MG	Senador Cortes
+MG	Senador Firmino
+MG	Senador Jose Bento
+MG	Senador Melo Viana
+MG	Senador Modestino Goncalves
+MG	Senador Mourao
+MG	Senhora da Gloria
+MG	Senhora da Penha
+MG	Senhora das Dores
+MG	Senhora de Oliveira
+MG	Senhora do Carmo
+MG	Senhora do Porto
+MG	Senhora dos Remedios
+MG	Sereno
+MG	Sericita
+MG	Seritinga
+MG	Serra Azul
+MG	Serra Azul de Minas
+MG	Serra Bonita
+MG	Serra da Canastra
+MG	Serra da Saudade
+MG	Serra das Araras
+MG	Serra do Camapua
+MG	Serra do Salitre
+MG	Serra dos Aimores
+MG	Serra dos Lemes
+MG	Serra Nova
+MG	Serrania
+MG	Serranopolis de Minas
+MG	Serranos
+MG	Serro
+MG	Sertaozinho
+MG	Sete Cachoeiras
+MG	Sete Lagoas
+MG	Setubinha
+MG	Silva Campos
+MG	Silva Xavier
+MG	Silvano
+MG	Silveira Carvalho
+MG	Silveirania
+MG	Silvestre
+MG	Silvianopolis
+MG	Simao Campos
+MG	Simao Pereira
+MG	Simonesia
+MG	Sobral Pinto
+MG	Sobralia
+MG	Soledade de Minas
+MG	Sopa
+MG	Tabajara
+MG	Tabauna
+MG	Tabuao
+MG	Tabuleiro
+MG	Taiobeiras
+MG	Taparuba
+MG	Tapira
+MG	Tapirai
+MG	Tapuirama
+MG	Taquaracu de Minas
+MG	Taruacu
+MG	Tarumirim
+MG	Tebas
+MG	Teixeiras
+MG	Tejuco
+MG	Teofilo Otoni
+MG	Terra Branca
+MG	Timoteo
+MG	Tiradentes
+MG	Tiros
+MG	Tobati
+MG	Tocandira
+MG	Tocantins
+MG	Tocos do Moji
+MG	Toledo
+MG	Tomas Gonzaga
+MG	Tombos
+MG	Topazio
+MG	Torneiros
+MG	Torreoes
+MG	Tres Coracoes
+MG	Tres Ilhas
+MG	Tres Marias
+MG	Tres Pontas
+MG	Trimonte
+MG	Tuiutinga
+MG	Tumiritinga
+MG	Tupaciguara
+MG	Tuparece
+MG	Turmalina
+MG	Turvolandia
+MG	Uba
+MG	Ubai
+MG	Ubaporanga
+MG	Ubari
+MG	Uberaba
+MG	Uberlandia
+MG	Umburatiba
+MG	Umbuzeiro
+MG	Unai
+MG	Uniao de Minas
+MG	Uruana de Minas
+MG	Urucania
+MG	Urucuia
+MG	Usina Monte Alegre
+MG	Vai-volta
+MG	Valadares
+MG	Valao
+MG	Vale Verde de Minas
+MG	Valo Fundo
+MG	Vargem Alegre
+MG	Vargem Bonita
+MG	Vargem Grande do Rio Pardo
+MG	Vargem Linda
+MG	Varginha
+MG	Varjao de Minas
+MG	Varzea da Palma
+MG	Varzelandia
+MG	Vau-acu
+MG	Vazante
+MG	Vera Cruz de Minas
+MG	Verdelandia
+MG	Vereda do Paraiso
+MG	Veredas
+MG	Veredinha
+MG	Verissimo
+MG	Vermelho
+MG	Vermelho Novo
+MG	Vermelho Velho
+MG	Vespasiano
+MG	Vicosa
+MG	Vieiras
+MG	Vila Bom Jesus
+MG	Vila Costina
+MG	Vila Nova de Minas
+MG	Vila Nova dos Pocoes
+MG	Vila Pereira
+MG	Vilas Boas
+MG	Virgem da Lapa
+MG	Virginia
+MG	Virginopolis
+MG	Virgolandia
+MG	Visconde do Rio Branco
+MG	Vista Alegre
+MG	Vitorinos
+MG	Volta Grande
+MG	Wenceslau Braz
+MG	Zelandia
+MG	Zito Soares
+MS	Agua Boa
+MS	Agua Clara
+MS	Albuquerque
+MS	Alcinopolis
+MS	Alto Sucuriu
+MS	Amambai
+MS	Amandina
+MS	Amolar
+MS	Anastacio
+MS	Anaurilandia
+MS	Angelica
+MS	Anhandui
+MS	Antonio Joao
+MS	Aparecida do Taboado
+MS	Aquidauana
+MS	Aral Moreira
+MS	Arapua
+MS	Areado
+MS	Arvore Grande
+MS	Baianopolis
+MS	Balsamo
+MS	Bandeirantes
+MS	Bataguassu
+MS	Bataipora
+MS	Baus
+MS	Bela Vista
+MS	Bocaja
+MS	Bodoquena
+MS	Bom Fim
+MS	Bonito
+MS	Boqueirao
+MS	Brasilandia
+MS	Caarapo
+MS	Cabeceira do Apa
+MS	Cachoeira
+MS	Camapua
+MS	Camisao
+MS	Campestre
+MS	Campo Grande
+MS	Capao Seco
+MS	Caracol
+MS	Carumbe
+MS	Cassilandia
+MS	Chapadao do Sul
+MS	Cipolandia
+MS	Coimbra
+MS	Congonha
+MS	Corguinho
+MS	Coronel Sapucaia
+MS	Corumba
+MS	Costa Rica
+MS	Coxim
+MS	Cristalina
+MS	Cruzaltina
+MS	Culturama
+MS	Cupins
+MS	Debrasa
+MS	Deodapolis
+MS	Dois Irmaos do Buriti
+MS	Douradina
+MS	Dourados
+MS	Eldorado
+MS	Fatima do Sul
+MS	Figueirao
+MS	Garcias
+MS	Gloria de Dourados
+MS	Guacu
+MS	Guaculandia
+MS	Guadalupe do Alto Parana
+MS	Guia Lopes da Laguna
+MS	Iguatemi
+MS	Ilha Comprida
+MS	Ilha Grande
+MS	Indaia do Sul
+MS	Indaia Grande
+MS	Indapolis
+MS	Inocencia
+MS	Ipezal
+MS	Itahum
+MS	Itapora
+MS	Itaquirai
+MS	Ivinhema
+MS	Jabuti
+MS	Jacarei
+MS	Japora
+MS	Jaraguari
+MS	Jardim
+MS	Jatei
+MS	Jauru
+MS	Juscelandia
+MS	Juti
+MS	Ladario
+MS	Lagoa Bonita
+MS	Laguna Carapa
+MS	Maracaju
+MS	Miranda
+MS	Montese
+MS	Morangas
+MS	Morraria do Sul
+MS	Morumbi
+MS	Mundo Novo
+MS	Navirai
+MS	Nhecolandia
+MS	Nioaque
+MS	Nossa Senhora de Fatima
+MS	Nova Alvorada do Sul
+MS	Nova America
+MS	Nova Andradina
+MS	Nova Esperanca
+MS	Nova Jales
+MS	Novo Horizonte do Sul
+MS	Oriente
+MS	Paiaguas
+MS	Palmeiras
+MS	Panambi
+MS	Paraiso
+MS	Paranaiba
+MS	Paranhos
+MS	Pedro Gomes
+MS	Picadinha
+MS	Pirapora
+MS	Piraputanga
+MS	Ponta Pora
+MS	Ponte Vermelha
+MS	Pontinha do Cocho
+MS	Porto Esperanca
+MS	Porto Murtinho
+MS	Porto Vilma
+MS	Porto Xv de Novembro
+MS	Presidente Castelo
+MS	Prudencio Thomaz
+MS	Quebra Coco
+MS	Quebracho
+MS	Ribas do Rio Pardo
+MS	Rio Brilhante
+MS	Rio Negro
+MS	Rio Verde de Mato Grosso
+MS	Rochedinho
+MS	Rochedo
+MS	Sanga Puita
+MS	Santa Rita do Pardo
+MS	Santa Terezinha
+MS	Sao Gabriel do Oeste
+MS	Sao Joao do Apore
+MS	Sao Jose
+MS	Sao Jose do Sucuriu
+MS	Sao Pedro
+MS	Sao Romao
+MS	Selviria
+MS	Sete Quedas
+MS	Sidrolandia
+MS	Sonora
+MS	Tacuru
+MS	Tamandare
+MS	Taquari
+MS	Taquarussu
+MS	Taunay
+MS	Terenos
+MS	Tres Lagoas
+MS	Velhacaria
+MS	Vicentina
+MS	Vila Formosa
+MS	Vila Marques
+MS	Vila Rica
+MS	Vila Uniao
+MS	Vila Vargas
+MS	Vista Alegre
+MT	Acorizal
+MT	Agua Boa
+MT	Agua Fria
+MT	Aguacu
+MT	Aguapei
+MT	Aguas Claras
+MT	Ainhumas
+MT	Alcantilado
+MT	Alta Floresta
+MT	Alto Araguaia
+MT	Alto Boa Vista
+MT	Alto Coite
+MT	Alto Garcas
+MT	Alto Juruena
+MT	Alto Paraguai
+MT	Alto Paraiso
+MT	Alto Taquari
+MT	Analandia do Norte
+MT	Apiacas
+MT	Araguaiana
+MT	Araguainha
+MT	Araputanga
+MT	Arenapolis
+MT	Aripuana
+MT	Arruda
+MT	Assari
+MT	Barao de Melgaco
+MT	Barra do Bugres
+MT	Barra do Garcas
+MT	Batovi
+MT	Baus
+MT	Bauxi
+MT	Bel Rios
+MT	Bezerro Branco
+MT	Boa Esperanca
+MT	Boa Uniao
+MT	Boa Vista
+MT	Bom Sucesso
+MT	Brasnorte
+MT	Buriti
+MT	Caceres
+MT	Caite
+MT	Campinapolis
+MT	Campo Novo do Parecis
+MT	Campo Verde
+MT	Campos de Julio
+MT	Campos Novos
+MT	Canabrava do Norte
+MT	Canarana
+MT	Cangas
+MT	Capao Grande
+MT	Capao Verde
+MT	Caramujo
+MT	Caravagio
+MT	Carlinda
+MT	Cassununga
+MT	Castanheira
+MT	Catuai
+MT	Chapada dos Guimaraes
+MT	cidade Morena
+MT	Claudia
+MT	Cocalinho
+MT	Colider
+MT	Colorado do Norte
+MT	Comodoro
+MT	Confresa
+MT	Coronel Ponce
+MT	Cotrel
+MT	Cotriguacu
+MT	Coxipo Acu
+MT	Coxipo da Ponte
+MT	Coxipo do Ouro
+MT	Cristinopolis
+MT	Cristo Rei
+MT	Cuiaba
+MT	Curvelandia
+MT	Del Rios
+MT	Denise
+MT	Diamantino
+MT	Dom Aquino
+MT	Engenho
+MT	Engenho Velho
+MT	Entre Rios
+MT	Estrela do Leste
+MT	Faval
+MT	Fazenda de Cima
+MT	Feliz Natal
+MT	Figueiropolis D Oeste
+MT	Filadelfia
+MT	Flor da Serra
+MT	Fontanilhas
+MT	Gaucha do Norte
+MT	General Carneiro
+MT	Gloria D'oeste
+MT	Guaranta do Norte
+MT	Guarita
+MT	Guiratinga
+MT	Horizonte do Oeste
+MT	Indianapolis
+MT	Indiavai
+MT	Irenopolis
+MT	Itamarati Norte
+MT	Itauba
+MT	Itiquira
+MT	Jaciara
+MT	Jangada
+MT	Jarudore
+MT	Jatoba
+MT	Jauru
+MT	Joselandia
+MT	Juara
+MT	Juina
+MT	Juruena
+MT	Juscimeira
+MT	Lambari D'oeste
+MT	Lavouras
+MT	Lucas do Rio Verde
+MT	Lucialva
+MT	Luciara
+MT	Machado
+MT	Marcelandia
+MT	Marzagao
+MT	Mata Dentro
+MT	Matupa
+MT	Mimoso
+MT	Mirassol D'oeste
+MT	Nobres
+MT	Nonoai do Norte
+MT	Nortelandia
+MT	Nossa Senhora da Guia
+MT	Nossa Senhora do Livramento
+MT	Nova Alvorada
+MT	Nova Bandeirantes
+MT	Nova Brasilandia
+MT	Nova Brasilia
+MT	Nova Canaa do Norte
+MT	Nova Catanduva
+MT	Nova Galileia
+MT	Nova Guarita
+MT	Nova Lacerda
+MT	Nova Marilandia
+MT	Nova Maringa
+MT	Nova Monte Verde
+MT	Nova Mutum
+MT	Nova Olimpia
+MT	Nova Ubirata
+MT	Nova Xavantina
+MT	Novo Diamantino
+MT	Novo Eldorado
+MT	Novo Horizonte do Norte
+MT	Novo Mundo
+MT	Novo Parana
+MT	Novo Sao Joaquim
+MT	Padronal
+MT	Pai Andre
+MT	Paraiso do Leste
+MT	Paranaita
+MT	Paranatinga
+MT	Passagem da Conceicao
+MT	Pedra Preta
+MT	Peixoto de Azevedo
+MT	Pirizal
+MT	Placa de Santo Antonio
+MT	Planalto da Serra
+MT	Pocone
+MT	Pombas
+MT	Pontal do Araguaia
+MT	Ponte Branca
+MT	Ponte de Pedra
+MT	Pontes e Lacerda
+MT	Pontinopolis
+MT	Porto Alegre do Norte
+MT	Porto dos Gauchos
+MT	Porto Esperidiao
+MT	Porto Estrela
+MT	Poxoreo
+MT	Praia Rica
+MT	Primavera
+MT	Primavera do Leste
+MT	Progresso
+MT	Querencia
+MT	Rancharia
+MT	Reserva do Cabacal
+MT	Ribeirao Cascalheira
+MT	Ribeirao dos Cocais
+MT	Ribeiraozinho
+MT	Rio Branco
+MT	Rio Manso
+MT	Riolandia
+MT	Rondonopolis
+MT	Rosario Oeste
+MT	Salto do Ceu
+MT	Sangradouro
+MT	Santa Carmem
+MT	Santa Elvira
+MT	Santa Fe
+MT	Santa Rita
+MT	Santa Terezinha
+MT	Santaninha
+MT	Santo Afonso
+MT	Santo Antonio do Leverger
+MT	Santo Antonio do Rio Bonito
+MT	Sao Cristovao
+MT	Sao Domingos
+MT	Sao Felix do Araguaia
+MT	Sao Joaquim
+MT	Sao Jorge
+MT	Sao Jose
+MT	Sao Jose do Apui
+MT	Sao Jose do Planalto
+MT	Sao Jose do Povo
+MT	Sao Jose do Rio Claro
+MT	Sao Jose do Xingu
+MT	Sao Jose dos Quatro Marcos
+MT	Sao Lourenco de Fatima
+MT	Sao Pedro da Cipa
+MT	Sao Vicente
+MT	Sapezal
+MT	Selma
+MT	Serra Nova
+MT	Sinop
+MT	Sonho Azul
+MT	Sorriso
+MT	Sumidouro
+MT	Tabapora
+MT	Tangara da Serra
+MT	Tapirapua
+MT	Tapurah
+MT	Terra Nova do Norte
+MT	Terra Roxa
+MT	Tesouro
+MT	Toricueyje
+MT	Torixoreu
+MT	Tres Pontes
+MT	Uniao do Sul
+MT	Vale dos Sonhos
+MT	Vale Rico
+MT	Varginha
+MT	Varzea Grande
+MT	Vera
+MT	Vila Atlantica
+MT	Vila Bela da Santissima Trindade
+MT	Vila Bueno
+MT	Vila Mutum
+MT	Vila Operaria
+MT	Vila Paulista
+MT	Vila Progresso
+MT	Vila Rica
+MT	Vila Santo Antonio
+PA	Abaetetuba
+PA	Abel Figueiredo
+PA	Acara
+PA	Afua
+PA	Agropolis Bela Vista
+PA	Agua Azul do Norte
+PA	Agua Fria
+PA	Alenquer
+PA	Algodoal
+PA	Almeirim
+PA	Almoco
+PA	Alta Para
+PA	Altamira
+PA	Alter do Chao
+PA	Alvorada
+PA	Americano
+PA	Anajas
+PA	Ananindeua
+PA	Anapu
+PA	Antonio Lemos
+PA	Apeu
+PA	Apinages
+PA	Arapixuna
+PA	Araquaim
+PA	Arco-iris
+PA	Areias
+PA	Arumanduba
+PA	Aruri
+PA	Aturiai
+PA	Augusto Correa
+PA	Aurora do Para
+PA	Aveiro
+PA	Bagre
+PA	Baiao
+PA	Bannach
+PA	Barcarena
+PA	Barreira Branca
+PA	Barreira dos Campos
+PA	Barreiras
+PA	Baturite
+PA	Beja
+PA	Bela Vista do Caracol
+PA	Belem
+PA	Belterra
+PA	Benevides
+PA	Benfica
+PA	Boa Esperanca
+PA	Boa Fe
+PA	Boa Sorte
+PA	Boa Vista do Iririteua
+PA	Boim
+PA	Bom Jardim
+PA	Bom Jesus do Tocantins
+PA	Bonito
+PA	Braganca
+PA	Brasil Novo
+PA	Brasilia Legal
+PA	Brejo do Meio
+PA	Brejo Grande do Araguaia
+PA	Breu Branco
+PA	Breves
+PA	Bujaru
+PA	Cachoeira de Piria
+PA	Cachoeira do Arari
+PA	Cafezal
+PA	Cairari
+PA	Caju
+PA	Camara do Marajo
+PA	Cambuquira
+PA	Cameta
+PA	Camiranga
+PA	Canaa dos Carajas
+PA	Capanema
+PA	Capitao Poco
+PA	Caracara do Arari
+PA	Carajas
+PA	Carapajo
+PA	Caraparu
+PA	Caratateua
+PA	Caripi
+PA	Carrazedo
+PA	Castanhal
+PA	Castelo dos Sonhos
+PA	Chaves
+PA	Colares
+PA	Conceicao
+PA	Conceicao do Araguaia
+PA	Concordia do Para
+PA	Condeixa
+PA	Coqueiro
+PA	Cripurizao
+PA	Cripurizinho
+PA	Cuiu-cuiu
+PA	Cumaru do Norte
+PA	Curionopolis
+PA	Curralinho
+PA	Curua
+PA	Curuai
+PA	Curuca
+PA	Curucambaba
+PA	Curumu
+PA	Dom Eliseu
+PA	Eldorado dos Carajas
+PA	Emborai
+PA	Espirito Santo do Taua
+PA	Faro
+PA	Fernandes Belo
+PA	Flexal
+PA	Floresta
+PA	Floresta do Araguaia
+PA	Garrafao do Norte
+PA	Goianesia do Para
+PA	Gradaus
+PA	Guajara-acu
+PA	Guajara-miri
+PA	Gurupa
+PA	Gurupizinho
+PA	Hidreletrica Tucurui
+PA	Iatai
+PA	Icoraci
+PA	Igarape da Lama
+PA	Igarape-acu
+PA	Igarape-miri
+PA	Inanu
+PA	Inhangapi
+PA	Ipixuna do Para
+PA	Irituia
+PA	Itaituba
+PA	Itapixuna
+PA	Itatupa
+PA	Itupiranga
+PA	Jacareacanga
+PA	Jacunda
+PA	Jaguarari
+PA	Jamanxinzinho
+PA	Jambuacu
+PA	Jandiai
+PA	Japerica
+PA	Joana Coeli
+PA	Joana Peres
+PA	Joanes
+PA	Juaba
+PA	Jubim
+PA	Juruti
+PA	Km Null
+PA	Km Null
+PA	Lauro Sodre
+PA	Ligacao do Para
+PA	Limoeiro do Ajuru
+PA	Mae do Rio
+PA	Magalhaes Barata
+PA	Maiauata
+PA	Manjeiro
+PA	Maraba
+PA	Maracana
+PA	Marajoara
+PA	Marapanim
+PA	Marituba
+PA	Maruda
+PA	Mata Geral
+PA	Matapiquara
+PA	Medicilandia
+PA	Melgaco
+PA	Menino Deus do Anapu
+PA	Meruu
+PA	Mirasselvas
+PA	Miritituba
+PA	Mocajuba
+PA	Moiraba
+PA	Moju
+PA	Monsaras
+PA	Monte Alegre
+PA	Monte Alegre do Mau
+PA	Monte Dourado
+PA	Morada Nova
+PA	Mosqueiro
+PA	Muana
+PA	Mujui dos Campos
+PA	Muraja
+PA	Murucupi
+PA	Murumuru
+PA	Muta
+PA	Mutucal
+PA	Nazare de Mocajuba
+PA	Nazare dos Patos
+PA	Nova Esperanca do Piria
+PA	Nova Ipixuna
+PA	Nova Mocajuba
+PA	Nova Timboteua
+PA	Novo Planalto
+PA	Novo Progresso
+PA	Novo Repartimento
+PA	Nucleo Urbano Quilometro Null
+PA	Obidos
+PA	Oeiras do Para
+PA	Oriximina
+PA	Osvaldilandia
+PA	Otelo
+PA	Ourem
+PA	Ourilandia do Norte
+PA	Outeiro
+PA	Pacaja
+PA	Pacoval
+PA	Palestina do Para
+PA	Paragominas
+PA	Paratins
+PA	Parauapebas
+PA	Pau D'arco
+PA	Pedreira
+PA	Peixe-boi
+PA	Penhalonga
+PA	Perseveranca
+PA	Pesqueiro
+PA	Piabas
+PA	Picarra
+PA	Pinhal
+PA	Piraquara
+PA	Piria
+PA	Placas
+PA	Ponta de Pedras
+PA	Ponta de Ramos
+PA	Portel
+PA	Porto de Moz
+PA	Porto Salvo
+PA	Porto Trombetas
+PA	Prainha
+PA	Primavera
+PA	Quatipuru
+PA	Quatro Bocas
+PA	Redencao
+PA	Remansao
+PA	Repartimento
+PA	Rio Maria
+PA	Rio Vermelho
+PA	Riozinho
+PA	Rondon do Para
+PA	Ruropolis
+PA	Salinopolis
+PA	Salvaterra
+PA	Santa Barbara do Para
+PA	Santa Cruz do Arari
+PA	Santa Isabel do Para
+PA	Santa Luzia do Para
+PA	Santa Maria
+PA	Santa Maria das Barreiras
+PA	Santa Maria do Para
+PA	Santa Rosa da Vigia
+PA	Santa Terezinha
+PA	Santana do Araguaia
+PA	Santarem
+PA	Santarem Novo
+PA	Santo Antonio
+PA	Santo Antonio do Taua
+PA	Sao Caetano de Odivelas
+PA	Sao Domingos do Araguaia
+PA	Sao Domingos do Capim
+PA	Sao Felix do Xingu
+PA	Sao Francisco
+PA	Sao Francisco da Jararaca
+PA	Sao Francisco do Para
+PA	Sao Geraldo do Araguaia
+PA	Sao Joao da Ponta
+PA	Sao Joao de Pirabas
+PA	Sao Joao do Acangata
+PA	Sao Joao do Araguaia
+PA	Sao Joao do Piria
+PA	Sao Joao dos Ramos
+PA	Sao Joaquim do Tapara
+PA	Sao Jorge
+PA	Sao Jose do Gurupi
+PA	Sao Jose do Piria
+PA	Sao Luiz do Tapajos
+PA	Sao Miguel do Guama
+PA	Sao Miguel dos Macacos
+PA	Sao Pedro de Viseu
+PA	Sao Pedro do Capim
+PA	Sao Raimundo de Borralhos
+PA	Sao Raimundo do Araguaia
+PA	Sao Raimundo dos Furtados
+PA	Sao Roberto
+PA	Sao Sebastiao da Boa Vista
+PA	Sao Sebastiao de Vicosa
+PA	Sapucaia
+PA	Senador Jose Porfirio
+PA	Serra Pelada
+PA	Soure
+PA	Tailandia
+PA	Tatuteua
+PA	Tauari
+PA	Tauarizinho
+PA	Tentugal
+PA	Terra Alta
+PA	Terra Santa
+PA	Tijoca
+PA	Timboteua
+PA	Tome-acu
+PA	Tracuateua
+PA	Trairao
+PA	Tucuma
+PA	Tucurui
+PA	Ulianopolis
+PA	Uruara
+PA	Urucuri
+PA	Urucuriteua
+PA	Val-de-caes
+PA	Veiros
+PA	Vigia
+PA	Vila do Carmo do Tocantins
+PA	Vila dos Cabanos
+PA	Vila Franca
+PA	Vila Goreth
+PA	Vila Isol
+PA	Vila Nova
+PA	Vila Planalto
+PA	Vila Santa Fe
+PA	Vila Socorro
+PA	Vilarinho do Monte
+PA	Viseu
+PA	Vista Alegre
+PA	Vista Alegre do Para
+PA	Vitoria do Xingu
+PA	Xinguara
+PA	Xinguarinha
+PB	Agua Branca
+PB	Aguiar
+PB	Alagoa Grande
+PB	Alagoa Nova
+PB	Alagoinha
+PB	Alcantil
+PB	Algodao de Jandaira
+PB	Alhandra
+PB	Amparo
+PB	Aparecida
+PB	Aracagi
+PB	Arara
+PB	Araruna
+PB	Areia
+PB	Areia de Baraunas
+PB	Areial
+PB	Areias
+PB	Aroeiras
+PB	Assis Chateaubriand
+PB	Assuncao
+PB	Baia da Traicao
+PB	Balancos
+PB	Bananeiras
+PB	Barauna
+PB	Barra de Santa Rosa
+PB	Barra de Santana
+PB	Barra de Sao Miguel
+PB	Barra do Camaratuba
+PB	Bayeux
+PB	Belem
+PB	Belem do Brejo do Cruz
+PB	Bernardino Batista
+PB	Boa Ventura
+PB	Boa Vista
+PB	Bom Jesus
+PB	Bom Sucesso
+PB	Bonito de Santa Fe
+PB	Boqueirao
+PB	Borborema
+PB	Brejo do Cruz
+PB	Brejo dos Santos
+PB	Caapora
+PB	Cabaceiras
+PB	Cabedelo
+PB	Cachoeira
+PB	Cachoeira dos Indios
+PB	Cachoeirinha
+PB	Cacimba de Areia
+PB	Cacimba de Dentro
+PB	Cacimbas
+PB	Caicara
+PB	Cajazeiras
+PB	Cajazeirinhas
+PB	Caldas Brandao
+PB	Camalau
+PB	Campina Grande
+PB	Campo Alegre
+PB	Campo Grande
+PB	Camurupim
+PB	Capim
+PB	Caraubas
+PB	Cardoso
+PB	Carrapateira
+PB	Casinha do Homem
+PB	Casserengue
+PB	Catingueira
+PB	Catole
+PB	Catole do Rocha
+PB	Caturite
+PB	Cepilho
+PB	Conceicao
+PB	Condado
+PB	Conde
+PB	Congo
+PB	Coremas
+PB	Coronel Maia
+PB	Coxixola
+PB	Cruz do Espirito Santo
+PB	Cubati
+PB	Cuite
+PB	Cuite de Mamanguape
+PB	Cuitegi
+PB	Cupissura
+PB	Curral de Cima
+PB	Curral Velho
+PB	Damiao
+PB	Desterro
+PB	Diamante
+PB	Dona Ines
+PB	Duas Estradas
+PB	Emas
+PB	Engenheiro Avidos
+PB	Esperanca
+PB	Fagundes
+PB	Fatima
+PB	Fazenda Nova
+PB	Forte Velho
+PB	Frei Martinho
+PB	Gado Bravo
+PB	Galante
+PB	Guarabira
+PB	Guarita
+PB	Gurinhem
+PB	Gurjao
+PB	Ibiara
+PB	Igaracy
+PB	Imaculada
+PB	Inga
+PB	Itabaiana
+PB	Itajubatiba
+PB	Itaporanga
+PB	Itapororoca
+PB	Itatuba
+PB	Jacarau
+PB	Jerico
+PB	Joao Pessoa
+PB	Juarez Tavora
+PB	Juazeirinho
+PB	Junco do Serido
+PB	Juripiranga
+PB	Juru
+PB	Lagoa
+PB	Lagoa de Dentro
+PB	Lagoa Seca
+PB	Lastro
+PB	Lerolandia
+PB	Livramento
+PB	Logradouro
+PB	Lucena
+PB	Mae D'agua
+PB	Maia
+PB	Malta
+PB	Mamanguape
+PB	Manaira
+PB	Marcacao
+PB	Mari
+PB	Marizopolis
+PB	Massaranduba
+PB	Mata Limpa
+PB	Mata Virgem
+PB	Mataraca
+PB	Matinhas
+PB	Mato Grosso
+PB	Matureia
+PB	Melo
+PB	Mogeiro
+PB	Montadas
+PB	Monte Horebe
+PB	Monteiro
+PB	Montevideo
+PB	Mulungu
+PB	Muquem
+PB	Natuba
+PB	Nazare
+PB	Nazarezinho
+PB	Nossa Senhora do Livramento
+PB	Nova Floresta
+PB	Nova Olinda
+PB	Nova Palmeira
+PB	Nucleo N Null
+PB	Nucleo N Null
+PB	Odilandia
+PB	Olho D'agua
+PB	Olivedos
+PB	Ouro Velho
+PB	Parari
+PB	Passagem
+PB	Patos
+PB	Paulista
+PB	Pedra Branca
+PB	Pedra Lavrada
+PB	Pedras de Fogo
+PB	Pedro Regis
+PB	Pelo Sinal
+PB	Pereiros
+PB	Pianco
+PB	Picui
+PB	Pilar
+PB	Piloes
+PB	Piloezinhos
+PB	Pindurao
+PB	Pio X
+PB	Piraua
+PB	Pirpirituba
+PB	Pitanga de Estrada
+PB	Pitimbu
+PB	Pocinhos
+PB	Poco Dantas
+PB	Poco de Jose de Moura
+PB	Pombal
+PB	Porteirinha de Pedra
+PB	Prata
+PB	Princesa Isabel
+PB	Puxinana
+PB	Queimadas
+PB	Quixaba
+PB	Remigio
+PB	Riachao
+PB	Riachao do Poco
+PB	Riacho de Santo Antonio
+PB	Riacho dos Cavalos
+PB	Ribeira
+PB	Rio Tinto
+PB	Rua Nova
+PB	Salema
+PB	Salgadinho
+PB	Salgado de Sao Felix
+PB	Santa Cecilia de Umbuzeiro
+PB	Santa Cruz
+PB	Santa Gertrudes
+PB	Santa Helena
+PB	Santa Ines
+PB	Santa Luzia
+PB	Santa Luzia do Cariri
+PB	Santa Maria
+PB	Santa Rita
+PB	Santa Teresinha
+PB	Santa Terezinha
+PB	Santana de Mangueira
+PB	Santana dos Garrotes
+PB	Santarem
+PB	Santo Andre
+PB	Sao Bento
+PB	Sao Bento de Pombal
+PB	Sao Domingos de Pombal
+PB	Sao Domingos do Cariri
+PB	Sao Francisco
+PB	Sao Goncalo
+PB	Sao Joao Bosco
+PB	Sao Joao do Cariri
+PB	Sao Joao do Rio do Peixe
+PB	Sao Joao do Tigre
+PB	Sao Jose da Lagoa Tapada
+PB	Sao Jose da Mata
+PB	Sao Jose de Caiana
+PB	Sao Jose de Espinharas
+PB	Sao Jose de Marimbas
+PB	Sao Jose de Piranhas
+PB	Sao Jose de Princesa
+PB	Sao Jose do Bonfim
+PB	Sao Jose do Brejo do Cruz
+PB	Sao Jose do Sabugi
+PB	Sao Jose dos Cordeiros
+PB	Sao Jose dos Ramos
+PB	Sao Mamede
+PB	Sao Miguel de Taipu
+PB	Sao Pedro
+PB	Sao Sebastiao de Lagoa de Roca
+PB	Sao Sebastiao do Umbuzeiro
+PB	Sape
+PB	Serido
+PB	Serido/sao Vicente do Serido
+PB	Serra Branca
+PB	Serra da Raiz
+PB	Serra Grande
+PB	Serra Redonda
+PB	Serraria
+PB	Sertaozinho
+PB	Sobrado
+PB	Solanea
+PB	Soledade
+PB	Sossego
+PB	Sousa
+PB	Sucuru
+PB	Sume
+PB	Tacima
+PB	Tambau
+PB	Tambauzinho
+PB	Taperoa
+PB	Tavares
+PB	Teixeira
+PB	Tenorio
+PB	Triunfo
+PB	Uirauna
+PB	Umari
+PB	Umbuzeiro
+PB	Varzea
+PB	Varzea Comprida
+PB	Varzea Nova
+PB	Vazante
+PB	Vieiropolis
+PB	Vista Serrana
+PB	Zabele
+PE	Abreu e Lima
+PE	Afogados da Ingazeira
+PE	Afranio
+PE	Agrestina
+PE	Agua Fria
+PE	Agua Preta
+PE	Aguas Belas
+PE	Airi
+PE	Alagoinha
+PE	Albuquerque Ne
+PE	Algodoes
+PE	Alianca
+PE	Altinho
+PE	Amaraji
+PE	Ameixas
+PE	Angelim
+PE	Apoti
+PE	Aracoiaba
+PE	Araripina
+PE	Arcoverde
+PE	Aripibu
+PE	Arizona
+PE	Barra de Farias
+PE	Barra de Guabiraba
+PE	Barra de Sao Pedro
+PE	Barra do Brejo
+PE	Barra do Chata
+PE	Barra do Jardim
+PE	Barra do Riachao
+PE	Barra do Sirinhaem
+PE	Barreiros
+PE	Batateira
+PE	Belem de Maria
+PE	Belem de Sao Francisco
+PE	Belo Jardim
+PE	Bengalas
+PE	Bentivi
+PE	Bernardo Vieira
+PE	Betania
+PE	Bezerros
+PE	Bizarra
+PE	Boas Novas
+PE	Bodoco
+PE	Bom Conselho
+PE	Bom Jardim
+PE	Bom Nome
+PE	Bonfim
+PE	Bonito
+PE	Brejao
+PE	Brejinho
+PE	Brejo da Madre de Deus
+PE	Buenos Aires
+PE	Buique
+PE	Cabanas
+PE	Cabo de Santo Agostinho
+PE	Cabrobo
+PE	Cachoeira do Roberto
+PE	Cachoeirinha
+PE	Caetes
+PE	Caicarinha da Penha
+PE	Calcado
+PE	Caldeiroes
+PE	Calumbi
+PE	Camaragibe
+PE	Camela
+PE	Camocim de Sao Felix
+PE	Camutanga
+PE	Canaa
+PE	Canhotinho
+PE	Capoeiras
+PE	Caraiba
+PE	Caraibeiras
+PE	Carapotos
+PE	Carice
+PE	Carima
+PE	Caririmirim
+PE	Carnaiba
+PE	Carnaubeira da Penha
+PE	Carneiro
+PE	Carpina
+PE	Carqueja
+PE	Caruaru
+PE	Casinhas
+PE	Catende
+PE	Catimbau
+PE	Catole
+PE	Cavaleiro
+PE	Cedro
+PE	Cha de Alegria
+PE	Cha do Rocha
+PE	Cha Grande
+PE	Cimbres
+PE	Clarana
+PE	Cocau
+PE	Conceicao das Crioulas
+PE	Condado
+PE	Correntes
+PE	Cortes
+PE	Couro D'antas
+PE	Cristalia
+PE	Cruanji
+PE	Cruzes
+PE	Cuiambuca
+PE	Cumaru
+PE	Cupira
+PE	Curral Queimado
+PE	Custodia
+PE	Dois Leoes
+PE	Dormentes
+PE	Entroncamento
+PE	Escada
+PE	Espirito Santo
+PE	Exu
+PE	Fazenda Nova
+PE	Feira Nova
+PE	Feitoria
+PE	Fernando de Noronha
+PE	Ferreiros
+PE	Flores
+PE	Floresta
+PE	Frei Miguelinho
+PE	Frexeiras
+PE	Gameleira
+PE	Garanhuns
+PE	Gloria do Goita
+PE	Goiana
+PE	Goncalves Ferreira
+PE	Granito
+PE	Gravata
+PE	Gravata do Ibiapina
+PE	Grotao
+PE	Guanumbi
+PE	Henrique Dias
+PE	Iateca
+PE	Iati
+PE	Ibimirim
+PE	Ibirajuba
+PE	Ibiranga
+PE	Ibiratinga
+PE	Ibitiranga
+PE	Ibo
+PE	Icaicara
+PE	Igapo
+PE	Igarapeassu
+PE	Igarapeba
+PE	Igarassu
+PE	Iguaraci
+PE	Inaja
+PE	Ingazeira
+PE	Ipojuca
+PE	Ipubi
+PE	Ipuera
+PE	Iraguacu
+PE	Irajai
+PE	Iratama
+PE	Itacuruba
+PE	Itaiba
+PE	Itamaraca
+PE	Itambe
+PE	Itapetim
+PE	Itapissuma
+PE	Itaquitinga
+PE	Ituguacu
+PE	Iuitepora
+PE	Jabitaca
+PE	Jaboatao
+PE	Jaboatao dos Guararapes
+PE	Japecanga
+PE	Jaqueira
+PE	Jatauba
+PE	Jatiuca
+PE	Jatoba
+PE	Jenipapo
+PE	Joao Alfredo
+PE	Joaquim Nabuco
+PE	Jose da Costa
+PE	Jose Mariano
+PE	Jucaral
+PE	Jucati
+PE	Jupi
+PE	Jurema
+PE	Jutai
+PE	Lagoa
+PE	Lagoa de Sao Jose
+PE	Lagoa do Barro
+PE	Lagoa do Carro
+PE	Lagoa do Itaenga
+PE	Lagoa do Ouro
+PE	Lagoa do Souza
+PE	Lagoa dos Gatos
+PE	Lagoa Grande
+PE	Laje de Sao Jose
+PE	Laje Grande
+PE	Lajedo
+PE	Lajedo do Cedro
+PE	Limoeiro
+PE	Livramento do Tiuma
+PE	Luanda
+PE	Macaparana
+PE	Machados
+PE	Macuje
+PE	Manari
+PE	Mandacaia
+PE	Mandacaru
+PE	Manicoba
+PE	Maraial
+PE	Maravilha
+PE	Mimoso
+PE	Miracica
+PE	Mirandiba
+PE	Morais
+PE	Moreilandia
+PE	Moreno
+PE	Moxoto
+PE	Mulungu
+PE	Murupe
+PE	Mutuca
+PE	Nascente
+PE	Navarro
+PE	Nazare da Mata
+PE	Negras
+PE	Nossa Senhora da Luz
+PE	Nossa Senhora do Carmo
+PE	Nossa Senhora do O
+PE	Nova Cruz
+PE	Olho D'agua De Dentro
+PE	Olinda
+PE	Oratorio
+PE	Ori
+PE	Orobo
+PE	Oroco
+PE	Ouricuri
+PE	Pajeu
+PE	Palmares
+PE	Palmeirina
+PE	Panelas
+PE	Pao de Acucar
+PE	Pao de Acucar do Pocao
+PE	Papagaio
+PE	Paquevira
+PE	Para
+PE	Paranatama
+PE	Paratibe
+PE	Parnamirim
+PE	Passagem do To
+PE	Passira
+PE	Pau Ferro
+PE	Paudalho
+PE	Paulista
+PE	Pedra
+PE	Perpetuo Socorro
+PE	Pesqueira
+PE	Petrolandia
+PE	Petrolina
+PE	Pirituba
+PE	Pocao
+PE	Pocao de Afranio
+PE	Poco Comprido
+PE	Poco Fundo
+PE	Pombos
+PE	Pontas de Pedra
+PE	Ponte dos Carvalhos
+PE	Praia da Conceicao
+PE	Primavera
+PE	Quipapa
+PE	Quitimbu
+PE	Quixaba
+PE	Rainha Isabel
+PE	Rajada
+PE	Rancharia
+PE	Recife
+PE	Riacho das Almas
+PE	Riacho do Meio
+PE	Riacho Fechado
+PE	Riacho Pequeno
+PE	Ribeirao
+PE	Rio da Barra
+PE	Rio Formoso
+PE	Saire
+PE	Salgadinho
+PE	Salgueiro
+PE	Saloa
+PE	Salobro
+PE	Sanharo
+PE	Santa Cruz
+PE	Santa Cruz da Baixa Verde
+PE	Santa Cruz do Capibaribe
+PE	Santa Filomena
+PE	Santa Maria da Boa Vista
+PE	Santa Maria do Cambuca
+PE	Santa Rita
+PE	Santa Terezinha
+PE	Santana de Sao Joaquim
+PE	Santo Agostinho
+PE	Santo Antonio das Queimadas
+PE	Santo Antonio dos Palmares
+PE	Sao Benedito do Sul
+PE	Sao Bento do Una
+PE	Sao Caetano do Navio
+PE	Sao Caitano
+PE	Sao Domingos
+PE	Sao Joao
+PE	Sao Joaquim do Monte
+PE	Sao Jose
+PE	Sao Jose da Coroa Grande
+PE	Sao Jose do Belmonte
+PE	Sao Jose do Egito
+PE	Sao Lazaro
+PE	Sao Lourenco da Mata
+PE	Sao Pedro
+PE	Sao Vicente
+PE	Sao Vicente Ferrer
+PE	Sapucarana
+PE	Saue
+PE	Serra Branca
+PE	Serra do Vento
+PE	Serra Talhada
+PE	Serrita
+PE	Serrolandia
+PE	Sertania
+PE	Sertaozinho de Baixo
+PE	Siriji
+PE	Sirinhaem
+PE	Sitio dos Nunes
+PE	Solidao
+PE	Surubim
+PE	Tabira
+PE	Tabocas
+PE	Tacaimbo
+PE	Tacaratu
+PE	Tamandare
+PE	Tamboata
+PE	Tapiraim
+PE	Taquaritinga do Norte
+PE	Tara
+PE	Tauapiranga
+PE	Tejucupapo
+PE	Terezinha
+PE	Terra Nova
+PE	Timbauba
+PE	Timorante
+PE	Toritama
+PE	Tracunhaem
+PE	Trapia
+PE	Tres Ladeiras
+PE	Trindade
+PE	Triunfo
+PE	Tupanaci
+PE	Tupanatinga
+PE	Tupaoca
+PE	Tuparetama
+PE	Umas
+PE	Umburetama
+PE	Upatininga
+PE	Urimama
+PE	Urucu-mirim
+PE	Urucuba
+PE	Vasques
+PE	Veneza
+PE	Venturosa
+PE	Verdejante
+PE	Vertente do Lerio
+PE	Vertentes
+PE	Vicencia
+PE	Vila Nova
+PE	Viracao
+PE	Vitoria de Santo Antao
+PE	Volta do Moxoto
+PE	Xexeu
+PE	Xucuru
+PE	Ze Gomes
+PI	Acaua
+PI	Agricolandia
+PI	Agua Branca
+PI	Alagoinha do Piaui
+PI	Alegrete do Piaui
+PI	Alto Longa
+PI	Altos
+PI	Alvorada do Gurgueia
+PI	Amarante
+PI	Angical do Piaui
+PI	Anisio de Abreu
+PI	Antonio Almeida
+PI	Aroazes
+PI	Arraial
+PI	Assuncao do Piaui
+PI	Avelino Lopes
+PI	Baixa Grande do Ribeiro
+PI	Barra D'alcantara
+PI	Barras
+PI	Barreiras do Piaui
+PI	Barro Duro
+PI	Batalha
+PI	Bela Vista do Piaui
+PI	Belem do Piaui
+PI	Beneditinos
+PI	Bertolinia
+PI	Betania do Piaui
+PI	Boa Hora
+PI	Bocaina
+PI	Bom Jesus
+PI	Bom Principio do Piaui
+PI	Bonfim do Piaui
+PI	Boqueirao do Piaui
+PI	Brasileira
+PI	Brejo do Piaui
+PI	Buriti dos Lopes
+PI	Buriti dos Montes
+PI	Cabeceiras do Piaui
+PI	Cajazeiras do Piaui
+PI	Cajueiro da Praia
+PI	Caldeirao Grande do Piaui
+PI	Campinas do Piaui
+PI	Campo Alegre do Fidalgo
+PI	Campo Grande do Piaui
+PI	Campo Largo do Piaui
+PI	Campo Maior
+PI	Canavieira
+PI	Canto do Buriti
+PI	Capitao de Campos
+PI	Capitao Gervasio Oliveira
+PI	Caracol
+PI	Caraubas do Piaui
+PI	Caridade do Piaui
+PI	Castelo do Piaui
+PI	Caxingo
+PI	Cocal
+PI	Cocal de Telha
+PI	Cocal dos Alves
+PI	Coivaras
+PI	Colonia do Gurgueia
+PI	Colonia do Piaui
+PI	Conceicao do Caninde
+PI	Coronel Jose Dias
+PI	Corrente
+PI	Cristalandia do Piaui
+PI	Cristino Castro
+PI	Curimata
+PI	Currais
+PI	Curral Novo do Piaui
+PI	Curralinhos
+PI	Demerval Lobao
+PI	Dirceu Arcoverde
+PI	Dom Expedito Lopes
+PI	Dom Inocencio
+PI	Domingos Mourao
+PI	Elesbao Veloso
+PI	Eliseu Martins
+PI	Esperantina
+PI	Fartura do Piaui
+PI	Flores do Piaui
+PI	Floresta do Piaui
+PI	Floriano
+PI	Francinopolis
+PI	Francisco Ayres
+PI	Francisco Macedo
+PI	Francisco Santos
+PI	Fronteiras
+PI	Geminiano
+PI	Gilbues
+PI	Guadalupe
+PI	Guaribas
+PI	Hugo Napoleao
+PI	Ilha Grande
+PI	Inhuma
+PI	Ipiranga do Piaui
+PI	Isaias Coelho
+PI	Itainopolis
+PI	Itaueira
+PI	Jacobina do Piaui
+PI	Jaicos
+PI	Jardim do Mulato
+PI	Jatoba do Piaui
+PI	Jerumenha
+PI	Joao Costa
+PI	Joaquim Pires
+PI	Joca Marques
+PI	Jose de Freitas
+PI	Juazeiro do Piaui
+PI	Julio Borges
+PI	Jurema
+PI	Lagoa Alegre
+PI	Lagoa de Sao Francisco
+PI	Lagoa do Barro do Piaui
+PI	Lagoa do Piaui
+PI	Lagoa do Sitio
+PI	Lagoinha do Piaui
+PI	Landri Sales
+PI	Luis Correia
+PI	Luzilandia
+PI	Madeiro
+PI	Manoel Emidio
+PI	Marcolandia
+PI	Marcos Parente
+PI	Massape do Piaui
+PI	Matias Olimpio
+PI	Miguel Alves
+PI	Miguel Leao
+PI	Milton Brandao
+PI	Monsenhor Gil
+PI	Monsenhor Hipolito
+PI	Monte Alegre do Piaui
+PI	Morro Cabeca No Tempo
+PI	Morro do Chapeu do Piaui
+PI	Murici dos Portelas
+PI	Nazare do Piaui
+PI	Nossa Senhora de Nazare
+PI	Nossa Senhora dos Remedios
+PI	Nova Santa Rita
+PI	Novo Nilo
+PI	Novo Oriente do Piaui
+PI	Novo Santo Antonio
+PI	Oeiras
+PI	Olho D'agua Do Piaui
+PI	Padre Marcos
+PI	Paes Landim
+PI	Pajeu do Piaui
+PI	Palmeira do Piaui
+PI	Palmeirais
+PI	Paqueta
+PI	Parnagua
+PI	Parnaiba
+PI	Passagem Franca do Piaui
+PI	Patos do Piaui
+PI	Paulistana
+PI	Pavussu
+PI	Pedro Ii
+PI	Pedro Laurentino
+PI	Picos
+PI	Pimenteiras
+PI	Pio Ix
+PI	Piracuruca
+PI	Piripiri
+PI	Porto
+PI	Porto Alegre do Piaui
+PI	Prata do Piaui
+PI	Queimada Nova
+PI	Redencao do Gurgueia
+PI	Regeneracao
+PI	Riacho Frio
+PI	Ribeira do Piaui
+PI	Ribeiro Goncalves
+PI	Rio Grande do Piaui
+PI	Santa Cruz do Piaui
+PI	Santa Cruz dos Milagres
+PI	Santa Filomena
+PI	Santa Luz
+PI	Santa Rosa do Piaui
+PI	Santana do Piaui
+PI	Santo Antonio de Lisboa
+PI	Santo Antonio dos Milagres
+PI	Santo Inacio do Piaui
+PI	Sao Braz do Piaui
+PI	Sao Felix do Piaui
+PI	Sao Francisco de Assis do Piaui
+PI	Sao Francisco do Piaui
+PI	Sao Goncalo do Gurgueia
+PI	Sao Goncalo do Piaui
+PI	Sao Joao da Canabrava
+PI	Sao Joao da Fronteira
+PI	Sao Joao da Serra
+PI	Sao Joao da Varjota
+PI	Sao Joao do Arraial
+PI	Sao Joao do Piaui
+PI	Sao Jose do Divino
+PI	Sao Jose do Peixe
+PI	Sao Jose do Piaui
+PI	Sao Juliao
+PI	Sao Lourenco do Piaui
+PI	Sao Luis do Piaui
+PI	Sao Miguel da Baixa Grande
+PI	Sao Miguel do Fidalgo
+PI	Sao Miguel do Tapuio
+PI	Sao Pedro do Piaui
+PI	Sao Raimundo Nonato
+PI	Sebastiao Barros
+PI	Sebastiao Leal
+PI	Sigefredo Pacheco
+PI	Simoes
+PI	Simplicio Mendes
+PI	Socorro do Piaui
+PI	Sussuapara
+PI	Tamboril do Piaui
+PI	Tanque do Piaui
+PI	Teresina
+PI	Uniao
+PI	Urucui
+PI	Valenca do Piaui
+PI	Varzea Branca
+PI	Varzea Grande
+PI	Vera Mendes
+PI	Vila Nova do Piaui
+PI	Wall Ferraz
+PR	Abapa
+PR	Abatia
+PR	Acampamento das Minas
+PR	Acungui
+PR	Adhemar de Barros
+PR	Adrianopolis
+PR	Agostinho
+PR	Agua Azul
+PR	Agua Boa
+PR	Agua Branca
+PR	Agua do Boi
+PR	Agua Mineral
+PR	Agua Vermelha
+PR	Agudos do Sul
+PR	Alecrim
+PR	Alexandra
+PR	Almirante Tamandare
+PR	Altamira do Parana
+PR	Altaneira
+PR	Alto Alegre
+PR	Alto Alegre do Iguacu
+PR	Alto Amparo
+PR	Alto do Amparo
+PR	Alto Para
+PR	Alto Parana
+PR	Alto Piquiri
+PR	Alto Pora
+PR	Alto Sabia
+PR	Alto Santa Fe
+PR	Alto Sao Joao
+PR	Altonia
+PR	Alvorada do Iguacu
+PR	Alvorada do Sul
+PR	Amapora
+PR	Amorinha
+PR	Ampere
+PR	Anahy
+PR	Andira
+PR	Andorinhas
+PR	Angai
+PR	Angulo
+PR	Antas
+PR	Antonina
+PR	Antonio Brandao de Oliveira
+PR	Antonio Olinto
+PR	Anunciacao
+PR	Aparecida do Oeste
+PR	Apiaba
+PR	Apucarana
+PR	Aquidaban
+PR	Aranha
+PR	Arapongas
+PR	Arapoti
+PR	Arapua
+PR	Arapuan
+PR	Ararapira
+PR	Araruna
+PR	Araucaria
+PR	Areia Branca dos Assis
+PR	Areias
+PR	Aricanduva
+PR	Ariranha do Ivai
+PR	Aroeira
+PR	Arquimedes
+PR	Assai
+PR	Assis Chateaubriand
+PR	Astorga
+PR	Atalaia
+PR	Aurora do Iguacu
+PR	Bairro Cachoeira
+PR	Bairro do Felisberto
+PR	Bairro Limoeiro
+PR	Balsa Nova
+PR	Bandeirantes
+PR	Bandeirantes D'oeste
+PR	Banhado
+PR	Barao de Lucena
+PR	Barbosa Ferraz
+PR	Barra Bonita
+PR	Barra do Jacare
+PR	Barra Grande
+PR	Barra Mansa
+PR	Barra Santa Salete
+PR	Barracao
+PR	Barras
+PR	Barreiro
+PR	Barreiro das Frutas
+PR	Barreiros
+PR	Barrinha
+PR	Barro Preto
+PR	Bateias
+PR	Baulandia
+PR	Bela Vista
+PR	Bela Vista do Caroba
+PR	Bela Vista do Ivai
+PR	Bela Vista do Paraiso
+PR	Bela Vista do Piquiri
+PR	Bela Vista do Tapiracui
+PR	Bentopolis
+PR	Bernardelli
+PR	Betaras
+PR	Bituruna
+PR	Boa Esperanca
+PR	Boa Esperanca do Iguacu
+PR	Boa Ventura de Sao Roque
+PR	Boa Vista
+PR	Boa Vista da Aparecida
+PR	Bocaina
+PR	Bocaiuva do Sul
+PR	Bom Jardim do Sul
+PR	Bom Jesus do Sul
+PR	Bom Progresso
+PR	Bom Retiro
+PR	Bom Sucesso
+PR	Bom Sucesso do Sul
+PR	Borda do Campo
+PR	Borda do Campo de Sao Sebastiao
+PR	Borman
+PR	Borrazopolis
+PR	Botuquara
+PR	Bourbonia
+PR	Braganey
+PR	Bragantina
+PR	Brasilandia do Sul
+PR	Bugre
+PR	Bulcao
+PR	Cabrito
+PR	Cacatu
+PR	Cachoeira
+PR	Cachoeira de Cima
+PR	Cachoeira de Sao Jose
+PR	Cachoeira do Espirito Santo
+PR	Cachoeirinha
+PR	Cadeadinho
+PR	Caetano Mendes
+PR	Cafeara
+PR	Cafeeiros
+PR	Cafelandia
+PR	Cafezal do Sul
+PR	Caita
+PR	Caixa Prego
+PR	California
+PR	Calogeras
+PR	Cambara
+PR	Cambe
+PR	Cambiju
+PR	Cambira
+PR	Campestrinho
+PR	Campina
+PR	Campina da Lagoa
+PR	Campina do Miranguava
+PR	Campina do Simao
+PR	Campina dos Furtados
+PR	Campina Grande do Sul
+PR	Campinas
+PR	Campo Bonito
+PR	Campo do Meio
+PR	Campo do Tenente
+PR	Campo Largo
+PR	Campo Largo da Roseira
+PR	Campo Magro
+PR	Campo Mourao
+PR	Candido de Abreu
+PR	Candoi
+PR	Canela
+PR	Cantagalo
+PR	Canzianopolis
+PR	Capanema
+PR	Capao Alto
+PR	Capao Bonito
+PR	Capao da Lagoa
+PR	Capao Grande
+PR	Capao Rico
+PR	Capitao Leonidas Marques
+PR	Capivara
+PR	Capoeirinha
+PR	Cara Pintado
+PR	Cara-cara
+PR	Caraja
+PR	Carambei
+PR	Caramuru
+PR	Caratuva
+PR	Carazinho
+PR	Carbonera
+PR	Carlopolis
+PR	Casa Nova
+PR	Cascatinha
+PR	Cascavel
+PR	Castro
+PR	Catanduvas
+PR	Catanduvas do Sul
+PR	Catarinenses
+PR	Caxambu
+PR	Cedro
+PR	Centenario
+PR	Centenario do Sul
+PR	Central Lupion
+PR	Centralito
+PR	Centro Novo
+PR	Cerne
+PR	Cerrado Grande
+PR	Cerro Azul
+PR	Cerro Velho
+PR	Ceu Azul
+PR	Chopinzinho
+PR	Cianorte
+PR	cidade Gaucha
+PR	Cintra Pimentel
+PR	Clevelandia
+PR	Coitinho
+PR	Colombo
+PR	Colonia Acioli
+PR	Colonia Castelhanos
+PR	Colonia Castrolanda
+PR	Colonia Centenario
+PR	Colonia Cristina
+PR	Colonia Dom Carlos
+PR	Colonia Esperanca
+PR	Colonia General Carneiro
+PR	Colonia Iapo
+PR	Colonia Melissa
+PR	Colonia Murici
+PR	Colonia Padre Paulo
+PR	Colonia Pereira
+PR	Colonia Santos Andrade
+PR	Colonia Sao Jose
+PR	Colonia Sapucai
+PR	Colonia Saude
+PR	Colonia Tapera
+PR	Colorado
+PR	Comur
+PR	Conceicao
+PR	Conchas Velhas
+PR	Conciolandia
+PR	Congonhas
+PR	Congonhinhas
+PR	Conselheiro Mairinck
+PR	Conselheiro Zacarias
+PR	Contenda
+PR	Copacabana do Norte
+PR	Corbelia
+PR	Cornelio Procopio
+PR	Coronel Domingos Soares
+PR	Coronel Firmino Martins
+PR	Coronel Vivida
+PR	Correia de Freitas
+PR	Corumbatai do Sul
+PR	Corvo
+PR	Costeira
+PR	Covo
+PR	Coxilha Rica
+PR	Cristo Rei
+PR	Cruz Machado
+PR	Cruzeiro do Iguacu
+PR	Cruzeiro do Norte
+PR	Cruzeiro do Oeste
+PR	Cruzeiro do Sul
+PR	Cruzmaltina
+PR	Cunhaporanga
+PR	Curitiba
+PR	Curiuva
+PR	Curucaca
+PR	Deputado Jose Afonso
+PR	Despique
+PR	Despraiado
+PR	Dez de Maio
+PR	Diamante
+PR	Diamante D'oeste
+PR	Diamante do Norte
+PR	Diamante do Sul
+PR	Doce Grande
+PR	Dois Irmaos
+PR	Dois Marcos
+PR	Dois Vizinhos
+PR	Dom Rodrigo
+PR	Dorizon
+PR	Douradina
+PR	Doutor Antonio Paranhos
+PR	Doutor Camargo
+PR	Doutor Ernesto
+PR	Doutor Oliveira Castro
+PR	Doutor Ulysses
+PR	Eduardo Xavier da Silva
+PR	Emboguacu
+PR	Emboque
+PR	Encantado D'oeste
+PR	Encruzilhada
+PR	Eneas Marques
+PR	Engenheiro Beltrao
+PR	Entre Rios
+PR	Entre Rios do Oeste
+PR	Esperanca do Norte
+PR	Esperanca Nova
+PR	Espigao Alto do Iguacu
+PR	Espirito Santo
+PR	Estacao General Lucio
+PR	Estacao Roca Nova
+PR	Europa
+PR	Euzebio de Oliveira
+PR	Faisqueira
+PR	Farol
+PR	Faxina
+PR	Faxinal
+PR	Faxinal do Ceu
+PR	Faxinal dos Elias
+PR	Faxinal Santa Cruz
+PR	Fazenda do Brigadeiro
+PR	Fazenda dos Barbosas
+PR	Fazenda Jangada
+PR	Fazenda Rio Grande
+PR	Fazenda Salmo Null
+PR	Fazendinha
+PR	Felpudo
+PR	Fenix
+PR	Fernandes Pinheiro
+PR	Fernao Dias
+PR	Ferraria
+PR	Ferreiras
+PR	Figueira
+PR	Figueira do Oeste
+PR	Fiusas
+PR	Flor da Serra
+PR	Flor da Serra do Sul
+PR	Florai
+PR	Floresta
+PR	Florestopolis
+PR	Floriano
+PR	Florida
+PR	Floropolis
+PR	Fluviopolis
+PR	Formigone
+PR	Formosa do Oeste
+PR	Foz do Iguacu
+PR	Foz do Jordao
+PR	Francisco Alves
+PR	Francisco Beltrao
+PR	Francisco Frederico Teixeira Guimaraes
+PR	Frei Timoteo
+PR	Fueros
+PR	Fundao
+PR	Gamadinho
+PR	Gamela
+PR	Gaucha
+PR	Gaviao
+PR	General Carneiro
+PR	General Osorio
+PR	Geremia Lunardelli
+PR	Godoy Moreira
+PR	Goioere
+PR	Goioxim
+PR	Gois
+PR	Goncalves Junior
+PR	Graciosa
+PR	Grandes Rios
+PR	Guaipora
+PR	Guaira
+PR	Guairaca
+PR	Guajuvira
+PR	Guamiranga
+PR	Guamirim
+PR	Guapirama
+PR	Guapore
+PR	Guaporema
+PR	Guara
+PR	Guaraci
+PR	Guaragi
+PR	Guaraituba
+PR	Guarani
+PR	Guaraniacu
+PR	Guarapuava
+PR	Guarapuavinha
+PR	Guaraquecaba
+PR	Guararema
+PR	Guaratuba
+PR	Guarauna
+PR	Guaravera
+PR	Guardamoria
+PR	Harmonia
+PR	Herculandia
+PR	Herval Grande
+PR	Herveira
+PR	Hidreletrica Itaipu
+PR	Honorio Serpa
+PR	Iarama
+PR	Ibaiti
+PR	Ibema
+PR	Ibiaci
+PR	Ibipora
+PR	Icara
+PR	Icaraima
+PR	Icatu
+PR	Igrejinha
+PR	Iguaracu
+PR	Iguatemi
+PR	Iguatu
+PR	Iguipora
+PR	Ilha do Mel
+PR	Ilha dos Valadares
+PR	Imbau
+PR	Imbauzinho
+PR	Imbituva
+PR	Inacio Martins
+PR	Inaja
+PR	Independencia
+PR	Indianopolis
+PR	Inspetor Carvalho
+PR	Invernada
+PR	Invernadinha
+PR	Iolopolis
+PR	Ipiranga
+PR	Ipora
+PR	Iracema do Oeste
+PR	Irapuan
+PR	Irati
+PR	Irere
+PR	Iretama
+PR	Itaguaje
+PR	Itaiacoca
+PR	Itaipulandia
+PR	Itambaraca
+PR	Itambe
+PR	Itapanhacanga
+PR	Itapara
+PR	Itapejara D'oeste
+PR	Itaperucu
+PR	Itaqui
+PR	Itauna do Sul
+PR	Itinga
+PR	Ivai
+PR	Ivailandia
+PR	Ivaipora
+PR	Ivaitinga
+PR	Ivate
+PR	Ivatuba
+PR	Jaborandi
+PR	Jaboti
+PR	Jaboticabal
+PR	Jaburu
+PR	Jacare
+PR	Jacarezinho
+PR	Jaciaba
+PR	Jacutinga
+PR	Jaguapita
+PR	Jaguariaiva
+PR	Jandaia do Sul
+PR	Jangada
+PR	Jangada do Sul
+PR	Janiopolis
+PR	Japira
+PR	Japura
+PR	Jaracatia
+PR	Jardim
+PR	Jardim Alegre
+PR	Jardim Olinda
+PR	Jardim Paredao
+PR	Jardim Paulista
+PR	Jardinopolis
+PR	Jataizinho
+PR	Javacae
+PR	Jesuitas
+PR	Joa
+PR	Joaquim Tavora
+PR	Jordaozinho
+PR	Jose Lacerda
+PR	Juciara
+PR	Jundiai do Sul
+PR	Juranda
+PR	Jussara
+PR	Juvinopolis
+PR	Kalore
+PR	Km Null
+PR	Lagoa
+PR	Lagoa Bonita
+PR	Lagoa dos Ribas
+PR	Lagoa Dourada
+PR	Lagoa Seca
+PR	Lagoa Verde
+PR	Lagoinha
+PR	Lajeado
+PR	Lajeado Bonito
+PR	Lajeado Grande
+PR	Lambari
+PR	Lapa
+PR	Laranja Azeda
+PR	Laranjal
+PR	Laranjeiras do Sul
+PR	Lavra
+PR	Lavrinha
+PR	Leopolis
+PR	Lerroville
+PR	Lidianopolis
+PR	Lindoeste
+PR	Linha Giacomini
+PR	Loanda
+PR	Lobato
+PR	Londrina
+PR	Lopei
+PR	Lovat
+PR	Luar
+PR	Luiziana
+PR	Lunardelli
+PR	Lupionopolis
+PR	Macaco
+PR	Macucos
+PR	Maira
+PR	Maita
+PR	Mallet
+PR	Malu
+PR	Mambore
+PR	Mandacaia
+PR	Mandaguacu
+PR	Mandaguari
+PR	Mandiocaba
+PR	Mandirituba
+PR	Manfrinopolis
+PR	Mangueirinha
+PR	Manoel Ribas
+PR	Maraba
+PR	Maracana
+PR	Marajo
+PR	Maravilha
+PR	Marcelino
+PR	Marcionopolis
+PR	Marechal Candido Rondon
+PR	Margarida
+PR	Maria Helena
+PR	Maria Luiza
+PR	Marialva
+PR	Mariental
+PR	Marilandia do Sul
+PR	Marilena
+PR	Marilu
+PR	Mariluz
+PR	Marimbondo
+PR	Maringa
+PR	Mariopolis
+PR	Maripa
+PR	Maristela
+PR	Mariza
+PR	Marmelandia
+PR	Marmeleiro
+PR	Marques de Abrantes
+PR	Marquinho
+PR	Marrecas
+PR	Martins
+PR	Marumbi
+PR	Matelandia
+PR	Matinhos
+PR	Mato Queimado
+PR	Mato Rico
+PR	Maua da Serra
+PR	Medianeira
+PR	Meia-lua
+PR	Memoria
+PR	Mendeslandia
+PR	Mercedes
+PR	Mirador
+PR	Miranda
+PR	Mirante do Piquiri
+PR	Miraselva
+PR	Missal
+PR	Monjolinho
+PR	Monte Real
+PR	Moreira Sales
+PR	Morretes
+PR	Morro Alto
+PR	Morro Ingles
+PR	Munhoz de Melo
+PR	Natingui
+PR	Nilza
+PR	Nordestina
+PR	Nossa Senhora Aparecida
+PR	Nossa Senhora da Aparecida
+PR	Nossa Senhora da Candelaria
+PR	Nossa Senhora das Gracas
+PR	Nossa Senhora de Lourdes
+PR	Nossa Senhora do Carmo
+PR	Nova Alianca do Ivai
+PR	Nova Altamira
+PR	Nova America da Colina
+PR	Nova Amoreira
+PR	Nova Aurora
+PR	Nova Bilac
+PR	Nova Brasilia
+PR	Nova Brasilia do Itarare
+PR	Nova Cantu
+PR	Nova Concordia
+PR	Nova Esperanca
+PR	Nova Esperanca do Sudoeste
+PR	Nova Fatima
+PR	Nova Laranjeiras
+PR	Nova Londrina
+PR	Nova Lourdes
+PR	Nova Olimpia
+PR	Nova Prata do Iguacu
+PR	Nova Riqueza
+PR	Nova Santa Barbara
+PR	Nova Santa Rosa
+PR	Nova Tebas
+PR	Nova Tirol
+PR	Nova Videira
+PR	Novo Horizonte
+PR	Novo Itacolomi
+PR	Novo Jardim
+PR	Novo Sarandi
+PR	Novo Sobradinho
+PR	Novo Tres Passos
+PR	Olaria
+PR	Olho Agudo
+PR	Olho D'agua
+PR	Oroite
+PR	Ortigueira
+PR	Ourilandia
+PR	Ourizona
+PR	Ouro Verde do Oeste
+PR	Ouro Verde do Piquiri
+PR	Padre Ponciano
+PR	Paicandu
+PR	Paiol de Baixo
+PR	Paiol Queimado
+PR	Paiquere
+PR	Palmas
+PR	Palmeira
+PR	Palmeirinha
+PR	Palmira
+PR	Palmital
+PR	Palmital de Sao Silvestre
+PR	Palmitopolis
+PR	Palotina
+PR	Panema
+PR	Pangare
+PR	Papagaios Novos
+PR	Paraiso do Norte
+PR	Parana D'oeste
+PR	Paranacity
+PR	Paranagi
+PR	Paranagua
+PR	Paranapoema
+PR	Paranavai
+PR	Passa Una
+PR	Passo da Ilha
+PR	Passo dos Pupos
+PR	Passo Fundo
+PR	Passo Liso
+PR	Pato Bragado
+PR	Pato Branco
+PR	Patos Velhos
+PR	Pau D'alho Do Sul
+PR	Paula Freitas
+PR	Paulistania
+PR	Paulo Frontin
+PR	Peabiru
+PR	Pedra Branca do Araraquara
+PR	Pedras
+PR	Pedro Lustosa
+PR	Pelado
+PR	Perobal
+PR	Perola
+PR	Perola do Oeste
+PR	Perola Independente
+PR	Piassuguera
+PR	Pien
+PR	Pinare
+PR	Pinhais
+PR	Pinhal do Sao Bento
+PR	Pinhal Preto
+PR	Pinhalao
+PR	Pinhalzinho
+PR	Pinhao
+PR	Pinheiro
+PR	Piquirivai
+PR	Piracema
+PR	Pirai do Sul
+PR	Pirapo
+PR	Piraquara
+PR	Piriquitos
+PR	Pitanga
+PR	Pitangueiras
+PR	Pitangui
+PR	Planaltina do Parana
+PR	Planalto
+PR	Pocinho
+PR	Poema
+PR	Ponta do Pasto
+PR	Ponta Grossa
+PR	Pontal do Parana
+PR	Porecatu
+PR	Portao
+PR	Porteira Preta
+PR	Porto Amazonas
+PR	Porto Barreiro
+PR	Porto Belo
+PR	Porto Brasilio
+PR	Porto Camargo
+PR	Porto de Cima
+PR	Porto Meira
+PR	Porto Mendes
+PR	Porto Rico
+PR	Porto San Juan
+PR	Porto Santana
+PR	Porto Sao Carlos
+PR	Porto Sao Jose
+PR	Porto Vitoria
+PR	Prado Ferreira
+PR	Pranchita
+PR	Prata
+PR	Prata Um
+PR	Presidente Castelo Branco
+PR	Presidente Kennedy
+PR	Primeiro de Maio
+PR	Progresso
+PR	Prudentopolis
+PR	Pulinopolis
+PR	Quatigua
+PR	Quatro Barras
+PR	Quatro Pontes
+PR	Quebra Freio
+PR	Quedas do Iguacu
+PR	Queimados
+PR	Querencia do Norte
+PR	Quinta do Sol
+PR	Quinzopolis
+PR	Quitandinha
+PR	Ramilandia
+PR	Rancho Alegre
+PR	Rancho Alegre D'oeste
+PR	Realeza
+PR	Reboucas
+PR	Regiao dos Valos
+PR	Reianopolis
+PR	Renascenca
+PR	Reserva
+PR	Reserva do Iguacu
+PR	Retiro
+PR	Retiro Grande
+PR	Ribeirao Bonito
+PR	Ribeirao Claro
+PR	Ribeirao do Pinhal
+PR	Ribeirao do Pinheiro
+PR	Rio Abaixo
+PR	Rio Azul
+PR	Rio Bom
+PR	Rio Bonito
+PR	Rio Bonito do Iguacu
+PR	Rio Branco do Ivai
+PR	Rio Branco do Sul
+PR	Rio Claro do Sul
+PR	Rio da Prata
+PR	Rio das Antas
+PR	Rio das Mortes
+PR	Rio das Pedras
+PR	Rio das Pombas
+PR	Rio do Mato
+PR	Rio do Salto
+PR	Rio Negro
+PR	Rio Novo
+PR	Rio Pinheiro
+PR	Rio Quatorze
+PR	Rio Saltinho
+PR	Rio Saudade
+PR	Rio Verde
+PR	Roberto Silveira
+PR	Roca Velha
+PR	Rolandia
+PR	Romeopolis
+PR	Roncador
+PR	Rondinha
+PR	Rondon
+PR	Rosario do Ivai
+PR	Sabaudia
+PR	Sagrada Familia
+PR	Salgado Filho
+PR	Salles de Oliveira
+PR	Saltinho do Oeste
+PR	Salto do Itarare
+PR	Salto do Lontra
+PR	Salto Portao
+PR	Samambaia
+PR	Santa Amelia
+PR	Santa Cecilia do Pavao
+PR	Santa Clara
+PR	Santa Cruz de Monte Castelo
+PR	Santa Eliza
+PR	Santa Esmeralda
+PR	Santa Fe
+PR	Santa Fe do Pirapo
+PR	Santa Helena
+PR	Santa Ines
+PR	Santa Isabel do Ivai
+PR	Santa Izabel do Oeste
+PR	Santa Lucia
+PR	Santa Lurdes
+PR	Santa Luzia da Alvorada
+PR	Santa Margarida
+PR	Santa Maria
+PR	Santa Maria do Oeste
+PR	Santa Maria do Rio do Peixe
+PR	Santa Mariana
+PR	Santa Monica
+PR	Santa Quiteria
+PR	Santa Rita
+PR	Santa Rita do Oeste
+PR	Santa Rosa
+PR	Santa Tereza do Oeste
+PR	Santa Terezinha de Itaipu
+PR	Santa Zelia
+PR	Santana
+PR	Santana do Itarare
+PR	Santo Antonio
+PR	Santo Antonio da Platina
+PR	Santo Antonio do Caiua
+PR	Santo Antonio do Iratim
+PR	Santo Antonio do Palmital
+PR	Santo Antonio do Paraiso
+PR	Santo Antonio do Sudoeste
+PR	Santo Inacio
+PR	Santo Rei
+PR	Sao Bento
+PR	Sao Braz
+PR	Sao Camilo
+PR	Sao Carlos do Ivai
+PR	Sao Cirilo
+PR	Sao Clemente
+PR	Sao Cristovao
+PR	Sao Domingos
+PR	Sao Francisco
+PR	Sao Francisco de Imbau
+PR	Sao Francisco de Sales
+PR	Sao Gabriel
+PR	Sao Gotardo
+PR	Sao Jeronimo da Serra
+PR	Sao Joao
+PR	Sao Joao D'oeste
+PR	Sao Joao da Boa Vista
+PR	Sao Joao do Caiua
+PR	Sao Joao do Ivai
+PR	Sao Joao do Pinhal
+PR	Sao Joao do Triunfo
+PR	Sao Joaquim
+PR	Sao Joaquim do Pontal
+PR	Sao Jorge D'oeste
+PR	Sao Jorge do Ivai
+PR	Sao Jorge do Patrocinio
+PR	Sao Jose
+PR	Sao Jose da Boa Vista
+PR	Sao Jose das Palmeiras
+PR	Sao Jose do Iguacu
+PR	Sao Jose do Itavo
+PR	Sao Jose do Ivai
+PR	Sao Jose dos Pinhais
+PR	Sao Judas Tadeu
+PR	Sao Leonardo
+PR	Sao Lourenco
+PR	Sao Luiz
+PR	Sao Luiz do Puruna
+PR	Sao Manoel do Parana
+PR	Sao Marcos
+PR	Sao Martinho
+PR	Sao Mateus do Sul
+PR	Sao Miguel
+PR	Sao Miguel do Cambui
+PR	Sao Miguel do Iguacu
+PR	Sao Paulo
+PR	Sao Pedro
+PR	Sao Pedro do Florido
+PR	Sao Pedro do Iguacu
+PR	Sao Pedro do Ivai
+PR	Sao Pedro do Parana
+PR	Sao Pedro Lopei
+PR	Sao Pio X
+PR	Sao Roque
+PR	Sao Roque do Pinhal
+PR	Sao Salvador
+PR	Sao Sebastiao
+PR	Sao Sebastiao da Amoreira
+PR	Sao Silvestre
+PR	Sao Tome
+PR	Sao Valentim
+PR	Sao Vicente
+PR	Sape
+PR	Sapopema
+PR	Sarandi
+PR	Saudade do Iguacu
+PR	Sede Alvorada
+PR	Sede Chaparral
+PR	Sede Nova Sant'ana
+PR	Sede Progresso
+PR	Selva
+PR	Senges
+PR	Senhor Bom Jesus dos Gramados
+PR	Serra dos Dourados
+PR	Serra Negra
+PR	Serranopolis do Iguacu
+PR	Serraria Klas
+PR	Serrinha
+PR	Sertaneja
+PR	Sertanopolis
+PR	Sertaozinho
+PR	Sete Saltos de Cima
+PR	Silvolandia
+PR	Siqueira Belo
+PR	Siqueira Campos
+PR	Socavao
+PR	Socorro
+PR	Sulina
+PR	Sumare
+PR	Sussui
+PR	Sutis
+PR	Taipa
+PR	Tamarana
+PR	Tambarutaca
+PR	Tamboara
+PR	Tanque Grande
+PR	Tapejara
+PR	Tapira
+PR	Tapui
+PR	Taquara
+PR	Taquari dos Polacos
+PR	Taquari dos Russos
+PR	Taquaruna
+PR	Teixeira Soares
+PR	Telemaco Borba
+PR	Teolandia
+PR	Tereza Breda
+PR	Tereza Cristina
+PR	Terra Boa
+PR	Terra Nova
+PR	Terra Rica
+PR	Terra Roxa
+PR	Tibagi
+PR	Tijucas do Sul
+PR	Tijuco Preto
+PR	Timbu Velho
+PR	Tindiquera
+PR	Tiradentes
+PR	Toledo
+PR	Tomaz Coelho
+PR	Tomazina
+PR	Tranqueira
+PR	Tres Barras do Parana
+PR	Tres Bicos
+PR	Tres Bocas
+PR	Tres Capoes
+PR	Tres Corregos
+PR	Tres Lagoas
+PR	Tres Pinheiros
+PR	Tres Placas
+PR	Triangulo
+PR	Trindade
+PR	Triolandia
+PR	Tronco
+PR	Tunas do Parana
+PR	Tuneiras do Oeste
+PR	Tupassi
+PR	Tupinamba
+PR	Turvo
+PR	Ubaldino Taques
+PR	Ubauna
+PR	Ubirata
+PR	Umuarama
+PR	Uniao
+PR	Uniao da Vitoria
+PR	Uniao do Oeste
+PR	Uniflor
+PR	Urai
+PR	Usina
+PR	Uvaia
+PR	Valentins
+PR	Valerio
+PR	Vargeado
+PR	Vassoural
+PR	Ventania
+PR	Vera Cruz do Oeste
+PR	Vera Guarani
+PR	Vere
+PR	Vida Nova
+PR	Vidigal
+PR	Vila Alta
+PR	Vila Diniz
+PR	Vila dos Roldos
+PR	Vila Florida
+PR	Vila Gandhi
+PR	Vila Guay
+PR	Vila Nova
+PR	Vila Nova de Florenca
+PR	Vila Paraiso
+PR	Vila Reis
+PR	Vila Rica do Ivai
+PR	Vila Roberto Brzezinski
+PR	Vila Silva Jardim
+PR	Vila Velha
+PR	Virmond
+PR	Vista Alegre
+PR	Vista Bonita
+PR	Vitoria
+PR	Vitorino
+PR	Warta
+PR	Wenceslau Braz
+PR	Xambre
+PR	Xaxim
+PR	Yolanda
+RJ	Abarracamento
+RJ	Abraao
+RJ	Afonso Arinos
+RJ	Agulhas Negras
+RJ	Amparo
+RJ	Andrade Pinto
+RJ	Angra dos Reis
+RJ	Anta
+RJ	Aperibe
+RJ	Araruama
+RJ	Areal
+RJ	Armacao de Buzios
+RJ	Arraial do Cabo
+RJ	Arrozal
+RJ	Avelar
+RJ	Bacaxa
+RJ	Baltazar
+RJ	Banquete
+RJ	Barao de Juparana
+RJ	Barcelos
+RJ	Barra Alegre
+RJ	Barra de Macae
+RJ	Barra de Sao Joao
+RJ	Barra do Pirai
+RJ	Barra Mansa
+RJ	Barra Seca
+RJ	Belford Roxo
+RJ	Bemposta
+RJ	Boa Esperanca
+RJ	Boa Sorte
+RJ	Boa Ventura
+RJ	Bom Jardim
+RJ	Bom Jesus do Itabapoana
+RJ	Bom Jesus do Querendo
+RJ	Cabo Frio
+RJ	Cabucu
+RJ	Cachoeiras de Macacu
+RJ	Cachoeiros
+RJ	Calheiros
+RJ	Cambiasca
+RJ	Cambuci
+RJ	Campo do Coelho
+RJ	Campos dos Goytacazes
+RJ	Campos Elyseos
+RJ	Cantagalo
+RJ	Carabucu
+RJ	Carapebus
+RJ	Cardoso Moreira
+RJ	Carmo
+RJ	Cascatinha
+RJ	Casimiro de Abreu
+RJ	Cava
+RJ	Coelho da Rocha
+RJ	Colonia
+RJ	Comendador Levy Gasparian
+RJ	Comendador Venancio
+RJ	Conceicao de Jacarei
+RJ	Conceicao de Macabu
+RJ	Conrado
+RJ	Conselheiro Paulino
+RJ	Conservatoria
+RJ	Cordeiro
+RJ	Coroa Grande
+RJ	Correas
+RJ	Corrego da Prata
+RJ	Corrego do Ouro
+RJ	Correntezas
+RJ	Cunhambebe
+RJ	Dorandia
+RJ	Dores de Macabu
+RJ	Doutor Elias
+RJ	Doutor Loreti
+RJ	Duas Barras
+RJ	Duque de Caxias
+RJ	Engenheiro Passos
+RJ	Engenheiro Paulo de Frontin
+RJ	Engenheiro Pedreira
+RJ	Estrada Nova
+RJ	Euclidelandia
+RJ	Falcao
+RJ	Floriano
+RJ	Fumaca
+RJ	Funil
+RJ	Gavioes
+RJ	Getulandia
+RJ	Glicerio
+RJ	Goitacazes
+RJ	Governador Portela
+RJ	Guapimirim
+RJ	Guia de Pacobaiba
+RJ	Ibitiguacu
+RJ	Ibitioca
+RJ	Ibituporanga
+RJ	Iguaba Grande
+RJ	Imbarie
+RJ	Inconfidencia
+RJ	Inhomirim
+RJ	Inoa
+RJ	Ipiabas
+RJ	Ipiiba
+RJ	Ipuca
+RJ	Itabapoana
+RJ	Itaborai
+RJ	Itacurussa
+RJ	Itaguai
+RJ	Itaipava
+RJ	Itaipu
+RJ	Itajara
+RJ	Italva
+RJ	Itambi
+RJ	Itaocara
+RJ	Itaperuna
+RJ	Itatiaia
+RJ	Jacuecanga
+RJ	Jaguarembe
+RJ	Jamapara
+RJ	Japeri
+RJ	Japuiba
+RJ	Laje do Muriae
+RJ	Laranjais
+RJ	Lidice
+RJ	Lumiar
+RJ	Macabuzinho
+RJ	Macae
+RJ	Macuco
+RJ	Mage
+RJ	Mambucaba
+RJ	Mangaratiba
+RJ	Maniva
+RJ	Manoel Ribeiro
+RJ	Manuel Duarte
+RJ	Marangatu
+RJ	Marica
+RJ	Mendes
+RJ	Mesquita
+RJ	Miguel Pereira
+RJ	Miracema
+RJ	Monera
+RJ	Monjolo
+RJ	Monte Alegre
+RJ	Monte Verde
+RJ	Monumento
+RJ	Morangaba
+RJ	Morro do Coco
+RJ	Morro Grande
+RJ	Mussurepe
+RJ	Natividade
+RJ	Neves
+RJ	Nhunguacu
+RJ	Nilopolis
+RJ	Niteroi
+RJ	Nossa Senhora da Aparecida
+RJ	Nossa Senhora da Penha
+RJ	Nossa Senhora do Amparo
+RJ	Nova Friburgo
+RJ	Nova Iguacu
+RJ	Olinda
+RJ	Ourania
+RJ	Papucaia
+RJ	Paquequer Pequeno
+RJ	Paracambi
+RJ	Paraiba do Sul
+RJ	Paraiso do Tobias
+RJ	Paraoquena
+RJ	Parapeuna
+RJ	Parati
+RJ	Parati Mirim
+RJ	Passa Tres
+RJ	Paty do Alferes
+RJ	Pedra Selada
+RJ	Pedro do Rio
+RJ	Penedo
+RJ	Pentagna
+RJ	Petropolis
+RJ	Piabeta
+RJ	Piao
+RJ	Pinheiral
+RJ	Pipeiras
+RJ	Pirai
+RJ	Pirangai
+RJ	Pirapetinga de Bom Jesus
+RJ	Porciuncula
+RJ	Portela
+RJ	Porto das Caixas
+RJ	Porto Real
+RJ	Porto Velho do Cunha
+RJ	Posse
+RJ	Praia de Aracatiba
+RJ	Pureza
+RJ	Purilandia
+RJ	Quarteis
+RJ	Quatis
+RJ	Queimados
+RJ	Quissama
+RJ	Raposo
+RJ	Renascenca
+RJ	Resende
+RJ	Retiro do Muriae
+RJ	Rialto
+RJ	Ribeirao de Sao Joaquim
+RJ	Rio Bonito
+RJ	Rio Claro
+RJ	Rio das Flores
+RJ	Rio das Ostras
+RJ	Rio de Janeiro
+RJ	Riograndina
+RJ	Rosal
+RJ	Sacra Familia do Tingua
+RJ	Salutaris
+RJ	Sambaetiba
+RJ	Sampaio Correia
+RJ	Sana
+RJ	Santa Clara
+RJ	Santa Cruz
+RJ	Santa Cruz da Serra
+RJ	Santa Isabel
+RJ	Santa Isabel do Rio Preto
+RJ	Santa Maria
+RJ	Santa Maria Madalena
+RJ	Santa Rita da Floresta
+RJ	Santanesia
+RJ	Santo Aleixo
+RJ	Santo Amaro de Campos
+RJ	Santo Antonio de Padua
+RJ	Santo Antonio do Imbe
+RJ	Santo Eduardo
+RJ	Sao Fidelis
+RJ	Sao Francisco de Itabapoana
+RJ	Sao Goncalo
+RJ	Sao Joao da Barra
+RJ	Sao Joao de Meriti
+RJ	Sao Joao do Paraiso
+RJ	Sao Joao Marcos
+RJ	Sao Joaquim
+RJ	Sao Jose de Uba
+RJ	Sao Jose do Ribeirao
+RJ	Sao Jose do Turvo
+RJ	Sao Jose do Vale do Rio Preto
+RJ	Sao Mateus
+RJ	Sao Pedro da Aldeia
+RJ	Sao Sebastiao de Campos
+RJ	Sao Sebastiao do Alto
+RJ	Sao Sebastiao do Paraiba
+RJ	Sao Sebastiao dos Ferreiros
+RJ	Sao Vicente de Paula
+RJ	Sapucaia
+RJ	Saquarema
+RJ	Saracuruna
+RJ	Sebastiao de Lacerda
+RJ	Seropedica
+RJ	Serrinha
+RJ	Sete Pontes
+RJ	Silva Jardim
+RJ	Sodrelandia
+RJ	Sossego
+RJ	Subaio
+RJ	Sumidouro
+RJ	Surui
+RJ	Taboas
+RJ	Tamoios
+RJ	Tangua
+RJ	Tapera
+RJ	Tarituba
+RJ	Teresopolis
+RJ	Tocos
+RJ	Trajano de Morais
+RJ	Travessao
+RJ	Tres Irmaos
+RJ	Tres Rios
+RJ	Triunfo
+RJ	Valao do Barro
+RJ	Valenca
+RJ	Vargem Alegre
+RJ	Varre-sai
+RJ	Vassouras
+RJ	Venda das Flores
+RJ	Venda das Pedras
+RJ	Vila da Grama
+RJ	Vila do Frade
+RJ	Vila Muriqui
+RJ	Vila Nova de Campos
+RJ	Visconde de Imbe
+RJ	Volta Redonda
+RJ	Werneck
+RJ	Xerem
+RN	Acari
+RN	Acu
+RN	Afonso Bezerra
+RN	Agua Nova
+RN	Alexandria
+RN	Almino Afonso
+RN	Alto do Rodrigues
+RN	Angicos
+RN	Antonio Martins
+RN	Apodi
+RN	Areia Branca
+RN	Ares
+RN	Baia Formosa
+RN	Barao de Serra Branca
+RN	Barauna
+RN	Barcelona
+RN	Belo Horizonte
+RN	Bento Fernandes
+RN	Boa Saude
+RN	Bodo
+RN	Bom Jesus
+RN	Brejinho
+RN	Caicara do Norte
+RN	Caicara do Rio do Vento
+RN	Caico
+RN	Campo Grande
+RN	Campo Redondo
+RN	Canguaretama
+RN	Caraubas
+RN	Carnauba dos Dantas
+RN	Carnaubais
+RN	Ceara-mirim
+RN	Cerro Cora
+RN	Coronel Ezequiel
+RN	Coronel Joao Pessoa
+RN	Corrego de Sao Mateus
+RN	Cruzeta
+RN	Currais Novos
+RN	Doutor Severiano
+RN	Encanto
+RN	Equador
+RN	Espirito Santo
+RN	Espirito Santo do Oeste
+RN	Extremoz
+RN	Felipe Guerra
+RN	Fernando Pedroza
+RN	Firmamento
+RN	Florania
+RN	Francisco Dantas
+RN	Frutuoso Gomes
+RN	Galinhos
+RN	Gameleira
+RN	Goianinha
+RN	Governador Dix-sept Rosado
+RN	Grossos
+RN	Guamare
+RN	Ielmo Marinho
+RN	Igreja Nova
+RN	Ipanguacu
+RN	Ipiranga
+RN	Ipueira
+RN	Itaja
+RN	Itau
+RN	Jacana
+RN	Jandaira
+RN	Janduis
+RN	Japi
+RN	Jardim de Angicos
+RN	Jardim de Piranhas
+RN	Jardim do Serido
+RN	Joao Camara
+RN	Joao Dias
+RN	Jose da Penha
+RN	Jucurutu
+RN	Jundia de Cima
+RN	Lagoa D'anta
+RN	Lagoa de Pedras
+RN	Lagoa de Velhos
+RN	Lagoa Nova
+RN	Lagoa Salgada
+RN	Lajes
+RN	Lajes Pintadas
+RN	Lucrecia
+RN	Luis Gomes
+RN	Macaiba
+RN	Macau
+RN	Major Felipe
+RN	Major Sales
+RN	Marcelino Vieira
+RN	Martins
+RN	Mata de Sao Braz
+RN	Maxaranguape
+RN	Messias Targino
+RN	Montanhas
+RN	Monte Alegre
+RN	Monte das Gameleiras
+RN	Mossoro
+RN	Natal
+RN	Nisia Floresta
+RN	Nova Cruz
+RN	Olho-d'agua Do Borges
+RN	Ouro Branco
+RN	Parana
+RN	Parazinho
+RN	Parelhas
+RN	Parnamirim
+RN	Passa e Fica
+RN	Passagem
+RN	Patu
+RN	Pau dos Ferros
+RN	Pedra Grande
+RN	Pedra Preta
+RN	Pedro Avelino
+RN	Pedro Velho
+RN	Pendencias
+RN	Piloes
+RN	Poco Branco
+RN	Portalegre
+RN	Porto do Mangue
+RN	Pureza
+RN	Rafael Fernandes
+RN	Rafael Godeiro
+RN	Riacho da Cruz
+RN	Riacho de Santana
+RN	Riachuelo
+RN	Rio do Fogo
+RN	Rodolfo Fernandes
+RN	Rosario
+RN	Ruy Barbosa
+RN	Salva Vida
+RN	Santa Cruz
+RN	Santa Fe
+RN	Santa Maria
+RN	Santa Teresa
+RN	Santana do Matos
+RN	Santana do Serido
+RN	Santo Antonio
+RN	Santo Antonio do Potengi
+RN	Sao Bento do Norte
+RN	Sao Bento do Trairi
+RN	Sao Bernardo
+RN	Sao Fernando
+RN	Sao Francisco do Oeste
+RN	Sao Geraldo
+RN	Sao Goncalo do Amarante
+RN	Sao Joao do Sabugi
+RN	Sao Jose da Passagem
+RN	Sao Jose de Mipibu
+RN	Sao Jose do Campestre
+RN	Sao Jose do Serido
+RN	Sao Miguel
+RN	Sao Miguel de Touros
+RN	Sao Paulo do Potengi
+RN	Sao Pedro
+RN	Sao Rafael
+RN	Sao Tome
+RN	Sao Vicente
+RN	Senador Eloi de Souza
+RN	Senador Georgino Avelino
+RN	Serra Caiada
+RN	Serra da Tapuia
+RN	Serra de Sao Bento
+RN	Serra do Mel
+RN	Serra Negra do Norte
+RN	Serrinha
+RN	Serrinha dos Pintos
+RN	Severiano Melo
+RN	Sitio Novo
+RN	Taboleiro Grande
+RN	Taipu
+RN	Tangara
+RN	Tenente Ananias
+RN	Tenente Laurentino Cruz
+RN	Tibau
+RN	Tibau do Sul
+RN	Timbauba dos Batistas
+RN	Touros
+RN	Trairi
+RN	Triunfo Potiguar
+RN	Umarizal
+RN	Upanema
+RN	Varzea
+RN	Venha-ver
+RN	Vera Cruz
+RN	Vicosa
+RN	Vila Flor
+RO	Abuna
+RO	Alta Alegre dos Parecis
+RO	Alta Floresta do Oeste
+RO	Alto Paraiso
+RO	Alvorada do Oeste
+RO	Ariquemes
+RO	Buritis
+RO	Cabixi
+RO	Cacaulandia
+RO	Cacoal
+RO	Calama
+RO	Campo Novo de Rondonia
+RO	Candeias do Jamari
+RO	Castanheiras
+RO	Cerejeiras
+RO	Chupinguaia
+RO	Colorado do Oeste
+RO	Corumbiara
+RO	Costa Marques
+RO	Cujubim
+RO	Espigao D'oeste
+RO	Governador Jorge Teixeira
+RO	Guajara-mirim
+RO	Jaci Parana
+RO	Jamari
+RO	Jaru
+RO	Ji-parana
+RO	Machadinho D'oeste
+RO	Marco Rondon
+RO	Ministro Andreazza
+RO	Mirante da Serra
+RO	Monte Negro
+RO	Nova Brasilandia D'oeste
+RO	Nova Mamore
+RO	Nova Uniao
+RO	Nova Vida
+RO	Novo Horizonte do Oeste
+RO	Ouro Preto do Oeste
+RO	Parecis
+RO	Pedras Negras
+RO	Pimenta Bueno
+RO	Pimenteiras do Oeste
+RO	Porto Velho
+RO	Presidente Medici
+RO	Primavera de Rondonia
+RO	Principe da Beira
+RO	Rio Crespo
+RO	Riozinho
+RO	Rolim de Moura
+RO	Santa Luzia do Oeste
+RO	Sao Felipe D'oeste
+RO	Sao Francisco do Guapore
+RO	Sao Miguel do Guapore
+RO	Seringueiras
+RO	Tabajara
+RO	Teixeiropolis
+RO	Theobroma
+RO	Urupa
+RO	Vale do Anari
+RO	Vale do Paraiso
+RO	Vila Extrema
+RO	Vilhena
+RO	Vista Alegre do Abuna
+RR	Alto Alegre
+RR	Amajari
+RR	Boa Vista
+RR	Bonfim
+RR	Canta
+RR	Caracarai
+RR	Caroebe
+RR	Iracema
+RR	Mucajai
+RR	Normandia
+RR	Pacaraima
+RR	Rorainopolis
+RR	Sao Joao da Baliza
+RR	Sao Luiz
+RR	Uiramuta
+RS	Acegua
+RS	Afonso Rodrigues
+RS	Agua Santa
+RS	Aguas Claras
+RS	Agudo
+RS	Ajuricaba
+RS	Albardao
+RS	Alecrim
+RS	Alegrete
+RS	Alegria
+RS	Alfredo Brenner
+RS	Almirante Tamandare
+RS	Alpestre
+RS	Alto Alegre
+RS	Alto da Uniao
+RS	Alto Feliz
+RS	Alto Paredao
+RS	Alto Recreio
+RS	Alto Uruguai
+RS	Alvorada
+RS	Amaral Ferrador
+RS	Ametista do Sul
+RS	Andre da Rocha
+RS	Anta Gorda
+RS	Antonio Kerpel
+RS	Antonio Prado
+RS	Arambare
+RS	Ararica
+RS	Aratiba
+RS	Arco Verde
+RS	Arco-iris
+RS	Arroio Canoas
+RS	Arroio do Meio
+RS	Arroio do Padre
+RS	Arroio do Sal
+RS	Arroio do So
+RS	Arroio do Tigre
+RS	Arroio dos Ratos
+RS	Arroio Grande
+RS	Arvore So
+RS	Arvorezinha
+RS	Atafona
+RS	Atiacu
+RS	Augusto Pestana
+RS	Aurea
+RS	Avelino Paranhos
+RS	Azevedo Sodre
+RS	Bacupari
+RS	Bage
+RS	Baliza
+RS	Balneario Pinhal
+RS	Banhado do Colegio
+RS	Barao
+RS	Barao de Cotegipe
+RS	Barao do Triunfo
+RS	Barra do Guarita
+RS	Barra do Ouro
+RS	Barra do Quarai
+RS	Barra do Ribeiro
+RS	Barra do Rio Azul
+RS	Barra Funda
+RS	Barracao
+RS	Barreirinho
+RS	Barreiro
+RS	Barro Preto
+RS	Barro Vermelho
+RS	Barros Cassal
+RS	Basilio
+RS	Bela Vista
+RS	Beluno
+RS	Benjamin Constant do Sul
+RS	Bento Goncalves
+RS	Bexiga
+RS	Boa Esperanca
+RS	Boa Vista
+RS	Boa Vista das Missoes
+RS	Boa Vista do Burica
+RS	Boa Vista do Cadeado
+RS	Boa Vista do Incra
+RS	Boa Vista do Sul
+RS	Boca do Monte
+RS	Boi Preto
+RS	Bojuru
+RS	Bom Jardim
+RS	Bom Jesus
+RS	Bom Principio
+RS	Bom Progresso
+RS	Bom Retiro
+RS	Bom Retiro do Guaiba
+RS	Bom Retiro do Sul
+RS	Bonito
+RS	Boqueirao
+RS	Boqueirao do Leao
+RS	Borore
+RS	Bossoroca
+RS	Botucarai
+RS	Braga
+RS	Brochier
+RS	Buriti
+RS	Butia
+RS	Butias
+RS	Cacapava do Sul
+RS	Cacequi
+RS	Cachoeira do Sul
+RS	Cachoeirinha
+RS	Cacique Doble
+RS	Cadorna
+RS	Caibate
+RS	Caicara
+RS	Camaqua
+RS	Camargo
+RS	Cambara do Sul
+RS	Camobi
+RS	Campestre Baixo
+RS	Campestre da Serra
+RS	Campina das Missoes
+RS	Campina Redonda
+RS	Campinas
+RS	Campinas do Sul
+RS	Campo Bom
+RS	Campo Branco
+RS	Campo do Meio
+RS	Campo Novo
+RS	Campo Santo
+RS	Campo Seco
+RS	Campo Vicente
+RS	Campos Borges
+RS	Candelaria
+RS	Candido Freire
+RS	Candido Godoi
+RS	Candiota
+RS	Canela
+RS	Cangucu
+RS	Canhembora
+RS	Canoas
+RS	Canudos
+RS	Capane
+RS	Capao Bonito
+RS	Capao Comprido
+RS	Capao da Canoa
+RS	Capao da Porteira
+RS	Capao do Cedro
+RS	Capao do Cipo
+RS	Capao do Leao
+RS	Capela de Santana
+RS	Capela Velha
+RS	Capinzal
+RS	Capitao
+RS	Capivari do Sul
+RS	Capivarita
+RS	Capo-ere
+RS	Capoeira Grande
+RS	Caraa
+RS	Caraja Seival
+RS	Carazinho
+RS	Carlos Barbosa
+RS	Carlos Gomes
+RS	Carovi
+RS	Casca
+RS	Cascata
+RS	Caseiros
+RS	Castelinho
+RS	Catuipe
+RS	Cavajureta
+RS	Cavera
+RS	Caxias do Sul
+RS	Cazuza Ferreira
+RS	Cedro Marcado
+RS	Centenario
+RS	Centro Linha Brasil
+RS	Cerrito
+RS	Cerrito Alegre
+RS	Cerrito do Ouro Ou Vila do Cerrito
+RS	Cerro Alto
+RS	Cerro Branco
+RS	Cerro Claro
+RS	Cerro do Martins
+RS	Cerro do Roque
+RS	Cerro Grande
+RS	Cerro Grande do Sul
+RS	Cerro Largo
+RS	Chapada
+RS	Charqueadas
+RS	Charrua
+RS	Chiapetta
+RS	Chicoloma
+RS	Chimarrao
+RS	Chorao
+RS	Chui
+RS	Chuvisca
+RS	Cidreira
+RS	Cinquentenario
+RS	Ciriaco
+RS	Clara
+RS	Clemente Argolo
+RS	Coimbra
+RS	Colinas
+RS	Colonia das Almas
+RS	Colonia Medeiros
+RS	Colonia Municipal
+RS	Colonia Nova
+RS	Colonia Sao Joao
+RS	Colonia Z-null
+RS	Coloninha
+RS	Colorado
+RS	Comandai
+RS	Condor
+RS	Consolata
+RS	Constantina
+RS	Coqueiro Baixo
+RS	Coqueiros do Sul
+RS	Cordilheira
+RS	Coroados
+RS	Coronel Barros
+RS	Coronel Bicaco
+RS	Coronel Finzito
+RS	Coronel Pilar
+RS	Coronel Teixeira
+RS	Cortado
+RS	Costa da Cadeia
+RS	Costao
+RS	Cotipora
+RS	Coxilha
+RS	Coxilha Grande
+RS	Cr-null
+RS	Crissiumal
+RS	Cristal
+RS	Cristal do Sul
+RS	Criuva
+RS	Cruz Alta
+RS	Cruz Altense
+RS	Cruzeiro
+RS	Cruzeiro do Sul
+RS	Curral Alto
+RS	Curumim
+RS	Daltro Filho
+RS	Dario Lassance
+RS	David Canabarro
+RS	Delfina
+RS	Deodoro
+RS	Deposito
+RS	Derrubadas
+RS	Dezesseis de Novembro
+RS	Dilermando de Aguiar
+RS	Divino
+RS	Dois Irmaos
+RS	Dois Irmaos das Missoes
+RS	Dois Lajeados
+RS	Dom Diogo
+RS	Dom Feliciano
+RS	Dom Pedrito
+RS	Dom Pedro de Alcantara
+RS	Dona Francisca
+RS	Dona Otilia
+RS	Dourado
+RS	Doutor Bozano
+RS	Doutor Edgardo Pereira Velho
+RS	Doutor Mauricio Cardoso
+RS	Doutor Ricardo
+RS	Eldorado do Sul
+RS	Eletra
+RS	Encantado
+RS	Encruzilhada
+RS	Encruzilhada do Sul
+RS	Engenho Velho
+RS	Entre Rios do Sul
+RS	Entre-ijuis
+RS	Entrepelado
+RS	Erebango
+RS	Erechim
+RS	Ernestina
+RS	Ernesto Alves
+RS	Erval Grande
+RS	Erval Seco
+RS	Erveiras
+RS	Esmeralda
+RS	Esperanca do Sul
+RS	Espigao
+RS	Espigao Alto
+RS	Espinilho Grande
+RS	Espirito Santo
+RS	Espumoso
+RS	Esquina Araujo
+RS	Esquina Bom Sucesso
+RS	Esquina Gaucha
+RS	Esquina Ipiranga
+RS	Esquina Piratini
+RS	Estacao
+RS	Estancia Grande
+RS	Estancia Velha
+RS	Esteio
+RS	Esteira
+RS	Estreito
+RS	Estrela
+RS	Estrela Velha
+RS	Eugenio de Castro
+RS	Evangelista
+RS	Fagundes Varela
+RS	Fao
+RS	Faria Lemos
+RS	Farinhas
+RS	Farrapos
+RS	Farroupilha
+RS	Faxinal
+RS	Faxinal do Soturno
+RS	Faxinalzinho
+RS	Fazenda Fialho
+RS	Fazenda Souza
+RS	Fazenda Vilanova
+RS	Feliz
+RS	Ferreira
+RS	Flores da Cunha
+RS	Floresta
+RS	Floriano Peixoto
+RS	Florida
+RS	Fontoura Xavier
+RS	Formigueiro
+RS	Formosa
+RS	Forninho
+RS	Forquetinha
+RS	Fortaleza dos Valos
+RS	Frederico Westphalen
+RS	Frei Sebastiao
+RS	Freire
+RS	Garibaldi
+RS	Garibaldina
+RS	Garruchos
+RS	Gaurama
+RS	General Camara
+RS	Gentil
+RS	Getulio Vargas
+RS	Girua
+RS	Gloria
+RS	Glorinha
+RS	Goio-en
+RS	Gramado
+RS	Gramado dos Loureiros
+RS	Gramado Sao Pedro
+RS	Gramado Xavier
+RS	Gravatai
+RS	Guabiju
+RS	Guaiba
+RS	Guajuviras
+RS	Guapore
+RS	Guarani das Missoes
+RS	Guassupi
+RS	Harmonia
+RS	Herval
+RS	Herveiras
+RS	Hidraulica
+RS	Horizontina
+RS	Hulha Negra
+RS	Humaita
+RS	Ibarama
+RS	Ibare
+RS	Ibiaca
+RS	Ibiraiaras
+RS	Ibirapuita
+RS	Ibiruba
+RS	Igrejinha
+RS	Ijucapirama
+RS	Ijui
+RS	Ilha dos Marinheiros
+RS	Ilopolis
+RS	Imbe
+RS	Imigrante
+RS	Independencia
+RS	Inhacora
+RS	Ipe
+RS	Ipiranga
+RS	Ipiranga do Sul
+RS	Ipuacu
+RS	Irai
+RS	Irui
+RS	Itaara
+RS	Itacolomi
+RS	Itacurubi
+RS	Itai
+RS	Itaimbezinho
+RS	Itao
+RS	Itapua
+RS	Itapuca
+RS	Itaqui
+RS	Itati
+RS	Itatiba do Sul
+RS	Itauba
+RS	Ituim
+RS	Ivai
+RS	Ivora
+RS	Ivoti
+RS	Jaboticaba
+RS	Jacuizinho
+RS	Jacutinga
+RS	Jaguarao
+RS	Jaguarete
+RS	Jaguari
+RS	Jansen
+RS	Jaquirana
+RS	Jari
+RS	Jazidas Ou Capela Sao Vicente
+RS	Joao Arregui
+RS	Joao Rodrigues
+RS	Joca Tavares
+RS	Joia
+RS	Jose Otavio
+RS	Jua
+RS	Julio de Castilhos
+RS	Lagoa Bonita
+RS	Lagoa dos Tres Cantos
+RS	Lagoa Vermelha
+RS	Lagoao
+RS	Lajeado
+RS	Lajeado Bonito
+RS	Lajeado Cerne
+RS	Lajeado do Bugre
+RS	Lajeado Grande
+RS	Lara
+RS	Laranjeira
+RS	Lava-pes
+RS	Lavras do Sul
+RS	Leonel Rocha
+RS	Liberato Salzano
+RS	Lindolfo Collor
+RS	Linha Comprida
+RS	Linha Nova
+RS	Linha Vitoria
+RS	Loreto
+RS	Macambara
+RS	Machadinho
+RS	Magisterio
+RS	Mampituba
+RS	Manchinha
+RS	Mangueiras
+RS	Manoel Viana
+RS	Maquine
+RS	Marata
+RS	Marau
+RS	Marcelino Ramos
+RS	Marcorama
+RS	Mariana Pimentel
+RS	Mariano Moro
+RS	Mariante
+RS	Mariapolis
+RS	Marques de Souza
+RS	Mata
+RS	Matarazzo
+RS	Mato Castelhano
+RS	Mato Grande
+RS	Mato Leitao
+RS	Mato Queimado
+RS	Maua
+RS	Maximiliano de Almeida
+RS	Medianeira
+RS	Minas do Leao
+RS	Miraguai
+RS	Miraguaia
+RS	Mirim
+RS	Montauri
+RS	Monte Alegre
+RS	Monte Alegre dos Campos
+RS	Monte Alverne
+RS	Monte Belo do Sul
+RS	Monte Bonito
+RS	Montenegro
+RS	Mormaco
+RS	Morrinhos
+RS	Morrinhos do Sul
+RS	Morro Alto
+RS	Morro Azul
+RS	Morro Redondo
+RS	Morro Reuter
+RS	Morungava
+RS	Mostardas
+RS	Mucum
+RS	Muitos Capoes
+RS	Muliterno
+RS	Nao-me-toque
+RS	Nazare
+RS	Nicolau Vergueiro
+RS	Nonoai
+RS	Nossa Senhora Aparecida
+RS	Nossa Senhora da Conceicao
+RS	Nova Alvorada
+RS	Nova Araca
+RS	Nova Bassano
+RS	Nova Boa Vista
+RS	Nova Brescia
+RS	Nova Candelaria
+RS	Nova Esperanca do Sul
+RS	Nova Hartz
+RS	Nova Milano
+RS	Nova Padua
+RS	Nova Palma
+RS	Nova Petropolis
+RS	Nova Prata
+RS	Nova Ramada
+RS	Nova Roma do Sul
+RS	Nova Santa Rita
+RS	Nova Sardenha
+RS	Novo Barreiro
+RS	Novo Cabrais
+RS	Novo Hamburgo
+RS	Novo Horizonte
+RS	Novo Machado
+RS	Novo Planalto
+RS	Novo Tiradentes
+RS	Oliva
+RS	Oralina
+RS	Osorio
+RS	Osvaldo Cruz
+RS	Osvaldo Kroeff
+RS	Otavio Rocha
+RS	Pacheca
+RS	Padilha
+RS	Padre Gonzales
+RS	Paim Filho
+RS	Palmares do Sul
+RS	Palmas
+RS	Palmeira das Missoes
+RS	Palmitinho
+RS	Pampeiro
+RS	Panambi
+RS	Pantano Grande
+RS	Parai
+RS	Paraiso do Sul
+RS	Pareci Novo
+RS	Parobe
+RS	Passa Sete
+RS	Passinhos
+RS	Passo Burmann
+RS	Passo da Areia
+RS	Passo da Caveira
+RS	Passo das Pedras
+RS	Passo do Adao
+RS	Passo do Sabao
+RS	Passo do Sobrado
+RS	Passo Fundo
+RS	Passo Novo
+RS	Passo Raso
+RS	Paulo Bento
+RS	Pavao
+RS	Paverama
+RS	Pedras Altas
+RS	Pedreiras
+RS	Pedro Garcia
+RS	Pedro Osorio
+RS	Pedro Paiva
+RS	Pejucara
+RS	Pelotas
+RS	Picada Cafe
+RS	Pinhal
+RS	Pinhal Alto
+RS	Pinhal da Serra
+RS	Pinhal Grande
+RS	Pinhalzinho
+RS	Pinheirinho do Vale
+RS	Pinheiro Machado
+RS	Pinheiro Marcado
+RS	Pinto Bandeira
+RS	Pirai
+RS	Pirapo
+RS	Piratini
+RS	Pitanga
+RS	Planalto
+RS	Plano Alto
+RS	Poco das Antas
+RS	Poligono do Erval
+RS	Polo Petroquimico de Triunfo
+RS	Pontao
+RS	Ponte Preta
+RS	Portao
+RS	Porto Alegre
+RS	Porto Batista
+RS	Porto Lucena
+RS	Porto Maua
+RS	Porto Vera Cruz
+RS	Porto Xavier
+RS	Pouso Novo
+RS	Povo Novo
+RS	Povoado Tozzo
+RS	Pranchada
+RS	Pratos
+RS	Presidente Lucena
+RS	Progresso
+RS	Protasio Alves
+RS	Pulador
+RS	Putinga
+RS	Quarai
+RS	Quaraim
+RS	Quatro Irmaos
+RS	Quevedos
+RS	Quilombo
+RS	Quinta
+RS	Quintao
+RS	Quinze de Novembro
+RS	Quiteria
+RS	Rancho Velho
+RS	Redentora
+RS	Refugiado
+RS	Relvado
+RS	Restinga Seca
+RS	Rincao de Sao Pedro
+RS	Rincao Del Rei
+RS	Rincao do Cristovao Pereira
+RS	Rincao do Meio
+RS	Rincao do Segredo
+RS	Rincao Doce
+RS	Rincao dos Kroeff
+RS	Rincao dos Mendes
+RS	Rincao Vermelho
+RS	Rio Azul
+RS	Rio Branco
+RS	Rio da Ilha
+RS	Rio dos Indios
+RS	Rio Grande
+RS	Rio Pardinho
+RS	Rio Pardo
+RS	Rio Telha
+RS	Rio Tigre
+RS	Rio Toldo
+RS	Riozinho
+RS	Roca Sales
+RS	Rodeio Bonito
+RS	Rolador
+RS	Rolante
+RS	Rolantinho da Figueira
+RS	Ronda Alta
+RS	Rondinha
+RS	Roque Gonzales
+RS	Rosario
+RS	Rosario do Sul
+RS	Sagrada Familia
+RS	Saica
+RS	Saldanha Marinho
+RS	Saltinho
+RS	Salto
+RS	Salto do Jacui
+RS	Salvador das Missoes
+RS	Salvador do Sul
+RS	Sananduva
+RS	Sant Auta
+RS	Santa Barbara
+RS	Santa Barbara do Sul
+RS	Santa Catarina
+RS	Santa Cecilia
+RS	Santa Clara do Ingai
+RS	Santa Clara do Sul
+RS	Santa Cristina
+RS	Santa Cruz
+RS	Santa Cruz da Concordia
+RS	Santa Cruz do Sul
+RS	Santa Flora
+RS	Santa Ines
+RS	Santa Izabel do Sul
+RS	Santa Lucia
+RS	Santa Lucia do Piai
+RS	Santa Luiza
+RS	Santa Luzia
+RS	Santa Maria
+RS	Santa Maria do Herval
+RS	Santa Rita do Sul
+RS	Santa Rosa
+RS	Santa Silvana
+RS	Santa Teresinha
+RS	Santa Tereza
+RS	Santa Vitoria do Palmar
+RS	Santana
+RS	Santana da Boa Vista
+RS	Santana do Livramento
+RS	Santiago
+RS	Santo Amaro do Sul
+RS	Santo Angelo
+RS	Santo Antonio
+RS	Santo Antonio da Patrulha
+RS	Santo Antonio das Missoes
+RS	Santo Antonio de Castro
+RS	Santo Antonio do Bom Retiro
+RS	Santo Antonio do Palma
+RS	Santo Antonio do Planalto
+RS	Santo Augusto
+RS	Santo Cristo
+RS	Santo Expedito do Sul
+RS	Santo Inacio
+RS	Sao Bento
+RS	Sao Bom Jesus
+RS	Sao Borja
+RS	Sao Carlos
+RS	Sao Domingos do Sul
+RS	Sao Francisco
+RS	Sao Francisco de Assis
+RS	Sao Francisco de Paula
+RS	Sao Gabriel
+RS	Sao Jeronimo
+RS	Sao Joao
+RS	Sao Joao Batista
+RS	Sao Joao Bosco
+RS	Sao Joao da Urtiga
+RS	Sao Joao do Polesine
+RS	Sao Jorge
+RS	Sao Jose
+RS	Sao Jose da Gloria
+RS	Sao Jose das Missoes
+RS	Sao Jose de Castro
+RS	Sao Jose do Centro
+RS	Sao Jose do Herval
+RS	Sao Jose do Hortencio
+RS	Sao Jose do Inhacora
+RS	Sao Jose do Norte
+RS	Sao Jose do Ouro
+RS	Sao Jose dos Ausentes
+RS	Sao Leopoldo
+RS	Sao Lourenco das Missoes
+RS	Sao Lourenco do Sul
+RS	Sao Luis Rei
+RS	Sao Luiz
+RS	Sao Luiz Gonzaga
+RS	Sao Manuel
+RS	Sao Marcos
+RS	Sao Martinho
+RS	Sao Martinho da Serra
+RS	Sao Miguel
+RS	Sao Miguel das Missoes
+RS	Sao Nicolau
+RS	Sao Paulo
+RS	Sao Paulo das Missoes
+RS	Sao Pedro
+RS	Sao Pedro da Serra
+RS	Sao Pedro do Butia
+RS	Sao Pedro do Iraxim
+RS	Sao Pedro do Sul
+RS	Sao Roque
+RS	Sao Sebastiao
+RS	Sao Sebastiao do Cai
+RS	Sao Sepe
+RS	Sao Simao
+RS	Sao Valentim
+RS	Sao Valentim do Sul
+RS	Sao Valerio do Sul
+RS	Sao Vendelino
+RS	Sao Vicente do Sul
+RS	Sapiranga
+RS	Sapucaia do Sul
+RS	Sarandi
+RS	Scharlau
+RS	Seberi
+RS	Seca
+RS	Sede Aurora
+RS	Sede Nova
+RS	Segredo
+RS	Seival
+RS	Selbach
+RS	Senador Salgado Filho
+RS	Sentinela do Sul
+RS	Serafim Schmidt
+RS	Serafina Correa
+RS	Serio
+RS	Serra dos Gregorios
+RS	Serrinha
+RS	Sertao
+RS	Sertao Santana
+RS	Sertaozinho
+RS	Sete de Setembro
+RS	Sete Lagoas
+RS	Severiano de Almeida
+RS	Silva Jardim
+RS	Silveira
+RS	Silveira Martins
+RS	Sinimbu
+RS	Sirio
+RS	Sitio Gabriel
+RS	Sobradinho
+RS	Soledade
+RS	Souza Ramos
+RS	Suspiro
+RS	Tabai
+RS	Tabajara
+RS	Taim
+RS	Tainhas
+RS	Tamandua
+RS	Tanque
+RS	Tapejara
+RS	Tapera
+RS	Tapes
+RS	Taquara
+RS	Taquari
+RS	Taquarichim
+RS	Taquarucu do Sul
+RS	Tavares
+RS	Tenente Portela
+RS	Terra de Areia
+RS	Tesouras
+RS	Teutonia
+RS	Tiaraju
+RS	Timbauva
+RS	Tiradentes do Sul
+RS	Toropi
+RS	Toroqua
+RS	Torquato Severo
+RS	Torres
+RS	Torrinhas
+RS	Touro Passo
+RS	Tramandai
+RS	Travesseiro
+RS	Trentin
+RS	Tres Arroios
+RS	Tres Barras
+RS	Tres Cachoeiras
+RS	Tres Coroas
+RS	Tres de Maio
+RS	Tres Forquilhas
+RS	Tres Palmeiras
+RS	Tres Passos
+RS	Tres Vendas
+RS	Trindade do Sul
+RS	Triunfo
+RS	Tronqueiras
+RS	Tucunduva
+RS	Tuiuti
+RS	Tunas
+RS	Tunel Verde
+RS	Tupanci do Sul
+RS	Tupancireta
+RS	Tupancy Ou Vila Block
+RS	Tupandi
+RS	Tupantuba
+RS	Tuparendi
+RS	Tupi Silveira
+RS	Tupinamba
+RS	Turucu
+RS	Turvinho
+RS	Ubiretama
+RS	Umbu
+RS	Uniao da Serra
+RS	Unistalda
+RS	Uruguaiana
+RS	Vacacai
+RS	Vacaria
+RS	Valdastico
+RS	Vale do Rio Cai
+RS	Vale do Sol
+RS	Vale Real
+RS	Vale Veneto
+RS	Vale Verde
+RS	Vanini
+RS	Venancio Aires
+RS	Vera Cruz
+RS	Veranopolis
+RS	Vertentes
+RS	Vespasiano Correa
+RS	Viadutos
+RS	Viamao
+RS	Vicente Dutra
+RS	Victor Graeff
+RS	Vila Bender
+RS	Vila Cruz
+RS	Vila Flores
+RS	Vila Langaro
+RS	Vila Laranjeira
+RS	Vila Maria
+RS	Vila Nova do Sul
+RS	Vila Rica
+RS	Vila Seca
+RS	Vila Turvo
+RS	Vista Alegre
+RS	Vista Alegre do Prata
+RS	Vista Gaucha
+RS	Vitoria
+RS	Vitoria das Missoes
+RS	Volta Alegre
+RS	Volta Fechada
+RS	Volta Grande
+RS	Xadrez
+RS	Xangri-la
+RS	Xingu
+SC	Abdon Batista
+SC	Abelardo Luz
+SC	Agrolandia
+SC	Agronomica
+SC	Agua Doce
+SC	Aguas Brancas
+SC	Aguas Claras
+SC	Aguas de Chapeco
+SC	Aguas Frias
+SC	Aguas Mornas
+SC	Aguti
+SC	Aiure
+SC	Alfredo Wagner
+SC	Alto Alegre
+SC	Alto Bela Vista
+SC	Alto da Serra
+SC	Anchieta
+SC	Angelina
+SC	Anita Garibaldi
+SC	Anitapolis
+SC	Anta Gorda
+SC	Antonio Carlos
+SC	Apiuna
+SC	Arabuta
+SC	Araquari
+SC	Ararangua
+SC	Armazem
+SC	Arnopolis
+SC	Arroio Trinta
+SC	Arvoredo
+SC	Ascurra
+SC	Atalanta
+SC	Aterrado Torto
+SC	Aurora
+SC	Azambuja
+SC	Baia Alta
+SC	Balneario Arroio do Silva
+SC	Balneario Barra do Sul
+SC	Balneario Camboriu
+SC	Balneario Gaivota
+SC	Balneario Morro dos Conventos
+SC	Bandeirante
+SC	Barra Bonita
+SC	Barra Clara
+SC	Barra da Lagoa
+SC	Barra da Prata
+SC	Barra Fria
+SC	Barra Grande
+SC	Barra Velha
+SC	Barreiros
+SC	Barro Branco
+SC	Bateias de Baixo
+SC	Bela Vista
+SC	Bela Vista do Sul
+SC	Bela Vista do Toldo
+SC	Belmonte
+SC	Benedito Novo
+SC	Biguacu
+SC	Blumenau
+SC	Bocaina do Sul
+SC	Boiteuxburgo
+SC	Bom Jardim da Serra
+SC	Bom Jesus
+SC	Bom Jesus do Oeste
+SC	Bom Retiro
+SC	Bom Sucesso
+SC	Bombinhas
+SC	Botuvera
+SC	Braco do Norte
+SC	Braco do Trombudo
+SC	Brunopolis
+SC	Brusque
+SC	Cacador
+SC	Cachoeira de Fatima
+SC	Cachoeira do Bom Jesus
+SC	Caibi
+SC	Calmon
+SC	Camboriu
+SC	Cambuinzal
+SC	Campeche
+SC	Campinas
+SC	Campo Alegre
+SC	Campo Belo do Sul
+SC	Campo Ere
+SC	Campos Novos
+SC	Canasvieiras
+SC	Canelinha
+SC	Canoas
+SC	Canoinhas
+SC	Capao Alto
+SC	Capinzal
+SC	Capivari de Baixo
+SC	Caraiba
+SC	Catanduvas
+SC	Catuira
+SC	Caxambu do Sul
+SC	Cedro Alto
+SC	Celso Ramos
+SC	Cerro Negro
+SC	Chapadao do Lageado
+SC	Chapeco
+SC	Claraiba
+SC	Cocal do Sul
+SC	Colonia Santa Tereza
+SC	Colonia Santana
+SC	Concordia
+SC	Cordilheira Alta
+SC	Coronel Freitas
+SC	Coronel Martins
+SC	Correia Pinto
+SC	Corupa
+SC	Criciuma
+SC	Cunha Pora
+SC	Cunhatai
+SC	Curitibanos
+SC	Dal Pai
+SC	Dalbergia
+SC	Descanso
+SC	Dionisio Cerqueira
+SC	Dona Emma
+SC	Doutor Pedrinho
+SC	Engenho Velho
+SC	Enseada de Brito
+SC	Entre Rios
+SC	Ermo
+SC	Erval Velho
+SC	Espinilho
+SC	Estacao Cocal
+SC	Faxinal dos Guedes
+SC	Fazenda Zandavalli
+SC	Felipe Schmidt
+SC	Figueira
+SC	Flor do Sertao
+SC	Florianopolis
+SC	Formosa do Sul
+SC	Forquilhinha
+SC	Fragosos
+SC	Fraiburgo
+SC	Frederico Wastner
+SC	Frei Rogerio
+SC	Galvao
+SC	Garcia
+SC	Garopaba
+SC	Garuva
+SC	Gaspar
+SC	Goio-en
+SC	Governador Celso Ramos
+SC	Grao Para
+SC	Grapia
+SC	Gravatal
+SC	Guabiruba
+SC	Guaporanga
+SC	Guaraciaba
+SC	Guaramirim
+SC	Guaruja do Sul
+SC	Guata
+SC	Guatambu
+SC	Hercilio Luz
+SC	Herciliopolis
+SC	Herval D'oeste
+SC	Ibiam
+SC	Ibicare
+SC	Ibicui
+SC	Ibirama
+SC	Icara
+SC	Ilhota
+SC	Imarui
+SC	Imbituba
+SC	Imbuia
+SC	Indaial
+SC	Indios
+SC	Ingleses do Rio Vermelho
+SC	Invernada
+SC	Iomere
+SC	Ipira
+SC	Ipomeia
+SC	Ipora do Oeste
+SC	Ipuacu
+SC	Ipumirim
+SC	Iraceminha
+SC	Irakitan
+SC	Irani
+SC	Iraputa
+SC	Irati
+SC	Irineopolis
+SC	Ita
+SC	Itaio
+SC	Itaiopolis
+SC	Itajai
+SC	Itajuba
+SC	Itapema
+SC	Itapiranga
+SC	Itapoa
+SC	Itapocu
+SC	Itoupava
+SC	Ituporanga
+SC	Jabora
+SC	Jacinto Machado
+SC	Jaguaruna
+SC	Jaragua do Sul
+SC	Jardinopolis
+SC	Joacaba
+SC	Joinville
+SC	Jose Boiteux
+SC	Jupia
+SC	Lacerdopolis
+SC	Lages
+SC	Lagoa
+SC	Lagoa da Estiva
+SC	Laguna
+SC	Lajeado Grande
+SC	Laurentino
+SC	Lauro Muller
+SC	Leao
+SC	Lebon Regis
+SC	Leoberto Leal
+SC	Lindoia do Sul
+SC	Linha das Palmeiras
+SC	Lontras
+SC	Lourdes
+SC	Luiz Alves
+SC	Luzerna
+SC	Machados
+SC	Macieira
+SC	Mafra
+SC	Major Gercino
+SC	Major Vieira
+SC	Maracaja
+SC	Marari
+SC	Marata
+SC	Maravilha
+SC	Marcilio Dias
+SC	Marechal Bormann
+SC	Marema
+SC	Mariflor
+SC	Marombas
+SC	Marombas Bossardi
+SC	Massaranduba
+SC	Matos Costa
+SC	Meleiro
+SC	Mirador
+SC	Mirim
+SC	Mirim Doce
+SC	Modelo
+SC	Mondai
+SC	Monte Alegre
+SC	Monte Carlo
+SC	Monte Castelo
+SC	Morro Chato
+SC	Morro da Fumaca
+SC	Morro do Meio
+SC	Morro Grande
+SC	Navegantes
+SC	Nossa Senhora de Caravaggio
+SC	Nova Cultura
+SC	Nova Erechim
+SC	Nova Guarita
+SC	Nova Itaberaba
+SC	Nova Petropolis
+SC	Nova Teutonia
+SC	Nova Trento
+SC	Nova Veneza
+SC	Novo Horizonte
+SC	Orleans
+SC	Otacilio Costa
+SC	Ouro
+SC	Ouro Verde
+SC	Paial
+SC	Painel
+SC	Palhoca
+SC	Palma Sola
+SC	Palmeira
+SC	Palmitos
+SC	Pantano do Sul
+SC	Papanduva
+SC	Paraiso
+SC	Passo de Torres
+SC	Passo Manso
+SC	Passos Maia
+SC	Paula Pereira
+SC	Paulo Lopes
+SC	Pedras Grandes
+SC	Penha
+SC	Perico
+SC	Peritiba
+SC	Pescaria Brava
+SC	Petrolandia
+SC	Picarras
+SC	Pindotiba
+SC	Pinhalzinho
+SC	Pinheiral
+SC	Pinheiro Preto
+SC	Pinheiros
+SC	Pirabeiraba
+SC	Piratuba
+SC	Planalto
+SC	Planalto Alegre
+SC	Poco Preto
+SC	Pomerode
+SC	Ponte Alta
+SC	Ponte Alta do Norte
+SC	Ponte Serrada
+SC	Porto Belo
+SC	Porto Uniao
+SC	Pouso Redondo
+SC	Praia Grande
+SC	Prata
+SC	Presidente Castelo Branco
+SC	Presidente Getulio
+SC	Presidente Juscelino
+SC	Presidente Kennedy
+SC	Presidente Nereu
+SC	Princesa
+SC	Quarta Linha
+SC	Quilombo
+SC	Quilometro Doze
+SC	Rancho Queimado
+SC	Ratones
+SC	Residencia Fuck
+SC	Ribeirao da Ilha
+SC	Ribeirao Pequeno
+SC	Rio Antinha
+SC	Rio Bonito
+SC	Rio D'una
+SC	Rio da Anta
+SC	Rio da Luz
+SC	Rio das Antas
+SC	Rio das Furnas
+SC	Rio do Campo
+SC	Rio do Oeste
+SC	Rio do Sul
+SC	Rio dos Bugres
+SC	Rio dos Cedros
+SC	Rio Fortuna
+SC	Rio Maina
+SC	Rio Negrinho
+SC	Rio Preto do Sul
+SC	Rio Rufino
+SC	Riqueza
+SC	Rodeio
+SC	Romelandia
+SC	Sai
+SC	Salete
+SC	Saltinho
+SC	Salto Veloso
+SC	Sanga da Toca
+SC	Sangao
+SC	Santa Cecilia
+SC	Santa Cruz do Timbo
+SC	Santa Helena
+SC	Santa Izabel
+SC	Santa Lucia
+SC	Santa Maria
+SC	Santa Rosa de Lima
+SC	Santa Rosa do Sul
+SC	Santa Terezinha
+SC	Santa Terezinha do Progresso
+SC	Santa Terezinha do Salto
+SC	Santiago do Sul
+SC	Santo Amaro da Imperatriz
+SC	Santo Antonio de Lisboa
+SC	Sao Bento Baixo
+SC	Sao Bento do Sul
+SC	Sao Bernardino
+SC	Sao Bonifacio
+SC	Sao Carlos
+SC	Sao Cristovao
+SC	Sao Cristovao do Sul
+SC	Sao Defende
+SC	Sao Domingos
+SC	Sao Francisco do Sul
+SC	Sao Gabriel
+SC	Sao Joao Batista
+SC	Sao Joao do Itaperiu
+SC	Sao Joao do Oeste
+SC	Sao Joao do Rio Vermelho
+SC	Sao Joao do Sul
+SC	Sao Joaquim
+SC	Sao Jose
+SC	Sao Jose do Cedro
+SC	Sao Jose do Cerrito
+SC	Sao Jose do Laranjal
+SC	Sao Leonardo
+SC	Sao Lourenco do Oeste
+SC	Sao Ludgero
+SC	Sao Martinho
+SC	Sao Miguel D'oeste
+SC	Sao Miguel da Boa Vista
+SC	Sao Miguel da Serra
+SC	Sao Pedro de Alcantara
+SC	Sao Pedro Tobias
+SC	Sao Roque
+SC	Sao Sebastiao do Arvoredo
+SC	Sao Sebastiao do Sul
+SC	Sapiranga
+SC	Saudades
+SC	Schroeder
+SC	Seara
+SC	Sede Oldemburg
+SC	Serra Alta
+SC	Sertao do Maruim
+SC	Sideropolis
+SC	Sombrio
+SC	Sorocaba do Sul
+SC	Sul Brasil
+SC	Taio
+SC	Tangara
+SC	Taquara Verde
+SC	Taquaras
+SC	Tigipio
+SC	Tigrinhos
+SC	Tijucas
+SC	Timbe do Sul
+SC	Timbo
+SC	Timbo Grande
+SC	Tres Barras
+SC	Treviso
+SC	Treze de Maio
+SC	Treze Tilias
+SC	Trombudo Central
+SC	Tubarao
+SC	Tunapolis
+SC	Tupitinga
+SC	Turvo
+SC	Uniao do Oeste
+SC	Urubici
+SC	Uruguai
+SC	Urupema
+SC	Urussanga
+SC	Vargeao
+SC	Vargem
+SC	Vargem Bonita
+SC	Vargem do Cedro
+SC	Vidal Ramos
+SC	Videira
+SC	Vila Conceicao
+SC	Vila de Volta Grande
+SC	Vila Milani
+SC	Vila Nova
+SC	Vitor Meireles
+SC	Witmarsum
+SC	Xanxere
+SC	Xavantina
+SC	Xaxim
+SC	Zortea
+SE	Altos Verdes
+SE	Amparo de Sao Francisco
+SE	Aquidaba
+SE	Aracaju
+SE	Araua
+SE	Areia Branca
+SE	Barra dos Coqueiros
+SE	Barracas
+SE	Boquim
+SE	Brejo Grande
+SE	Campo do Brito
+SE	Canhoba
+SE	Caninde de Sao Francisco
+SE	Capela
+SE	Carira
+SE	Carmopolis
+SE	Cedro de Sao Joao
+SE	Cristinapolis
+SE	Cumbe
+SE	Divina Pastora
+SE	Estancia
+SE	Feira Nova
+SE	Frei Paulo
+SE	Gararu
+SE	General Maynard
+SE	Graccho Cardoso
+SE	Ilha das Flores
+SE	Indiaroba
+SE	Itabaiana
+SE	Itabaianinha
+SE	Itabi
+SE	Itaporanga D'ajuda
+SE	Japaratuba
+SE	Japoata
+SE	Lagarto
+SE	Lagoa Funda
+SE	Laranjeiras
+SE	Macambira
+SE	Malhada dos Bois
+SE	Malhador
+SE	Maruim
+SE	Miranda
+SE	Moita Bonita
+SE	Monte Alegre de Sergipe
+SE	Mosqueiro
+SE	Muribeca
+SE	Neopolis
+SE	Nossa Senhora Aparecida
+SE	Nossa Senhora da Gloria
+SE	Nossa Senhora das Dores
+SE	Nossa Senhora de Lourdes
+SE	Nossa Senhora do Socorro
+SE	Pacatuba
+SE	Palmares
+SE	Pedra Mole
+SE	Pedras
+SE	Pedrinhas
+SE	Pinhao
+SE	Pirambu
+SE	Poco Redondo
+SE	Poco Verde
+SE	Porto da Folha
+SE	Propria
+SE	Riachao do Dantas
+SE	Riachuelo
+SE	Ribeiropolis
+SE	Rosario do Catete
+SE	Salgado
+SE	Samambaia
+SE	Santa Luzia do Itanhy
+SE	Santa Rosa de Lima
+SE	Santana do Sao Francisco
+SE	Santo Amaro das Brotas
+SE	Sao Cristovao
+SE	Sao Domingos
+SE	Sao Francisco
+SE	Sao Jose
+SE	Sao Mateus da Palestina
+SE	Sao Miguel do Aleixo
+SE	Simao Dias
+SE	Siriri
+SE	Telha
+SE	Tobias Barreto
+SE	Tomar do Geru
+SE	Umbauba
+SP	Adamantina
+SP	Adolfo
+SP	Agisse
+SP	Agua Vermelha
+SP	Aguai
+SP	Aguas da Prata
+SP	Aguas de Lindoia
+SP	Aguas de Santa Barbara
+SP	Aguas de Sao Pedro
+SP	Agudos
+SP	Agulha
+SP	Ajapi
+SP	Alambari
+SP	Alberto Moreira
+SP	Aldeia
+SP	Aldeia de Carapicuiba
+SP	Alfredo Guedes
+SP	Alfredo Marcondes
+SP	Altair
+SP	Altinopolis
+SP	Alto Alegre
+SP	Alto Pora
+SP	Aluminio
+SP	Alvares Florence
+SP	Alvares Machado
+SP	Alvaro de Carvalho
+SP	Alvinlandia
+SP	Amadeu Amaral
+SP	Amandaba
+SP	Ameliopolis
+SP	Americana
+SP	Americo Brasiliense
+SP	Americo de Campos
+SP	Amparo
+SP	Ana Dias
+SP	Analandia
+SP	Anapolis
+SP	Andes
+SP	Andradina
+SP	Angatuba
+SP	Anhembi
+SP	Anhumas
+SP	Aparecida
+SP	Aparecida D'oeste
+SP	Aparecida de Monte Alto
+SP	Aparecida de Sao Manuel
+SP	Aparecida do Bonito
+SP	Apiai
+SP	Apiai-mirim
+SP	Arabela
+SP	Aracacu
+SP	Aracaiba
+SP	Aracariguama
+SP	Aracatuba
+SP	Aracoiaba da Serra
+SP	Aramina
+SP	Arandu
+SP	Arapei
+SP	Araraquara
+SP	Araras
+SP	Araxas
+SP	Arcadas
+SP	Arco-iris
+SP	Arealva
+SP	Areias
+SP	Areiopolis
+SP	Ariranha
+SP	Ariri
+SP	Artemis
+SP	Artur Nogueira
+SP	Aruja
+SP	Aspasia
+SP	Assis
+SP	Assistencia
+SP	Atibaia
+SP	Atlantida
+SP	Auriflama
+SP	Avai
+SP	Avanhandava
+SP	Avare
+SP	Avencas
+SP	Bacaetava
+SP	Bacuriti
+SP	Bady Bassitt
+SP	Baguacu
+SP	Bairro Alto
+SP	Balbinos
+SP	Balsamo
+SP	Bananal
+SP	Bandeirantes D'oeste
+SP	Barao Ataliba Nogueira
+SP	Barao de Antonina
+SP	Barao de Geraldo
+SP	Barbosa
+SP	Bariri
+SP	Barra Bonita
+SP	Barra do Chapeu
+SP	Barra do Turvo
+SP	Barra Dourada
+SP	Barrania
+SP	Barretos
+SP	Barrinha
+SP	Barueri
+SP	Bastos
+SP	Batatais
+SP	Batatuba
+SP	Batista Botelho
+SP	Bauru
+SP	Bebedouro
+SP	Bela Floresta
+SP	Bela Vista Sao-carlense
+SP	Bento de Abreu
+SP	Bernardino de Campos
+SP	Bertioga
+SP	Bilac
+SP	Birigui
+SP	Biritiba-mirim
+SP	Biritiba-ussu
+SP	Boa Esperanca do Sul
+SP	Boa Vista dos Andradas
+SP	Boa Vista Paulista
+SP	Bocaina
+SP	Bofete
+SP	Boituva
+SP	Bom Fim do Bom Jesus
+SP	Bom Jesus dos Perdoes
+SP	Bom Retiro da Esperanca
+SP	Bom Sucesso de Itarare
+SP	Bonfim Paulista
+SP	Bora
+SP	Boraceia
+SP	Borborema
+SP	Borebi
+SP	Botafogo
+SP	Botelho
+SP	Botucatu
+SP	Botujuru
+SP	Braco
+SP	Braganca Paulista
+SP	Bras Cubas
+SP	Brasitania
+SP	Brauna
+SP	Brejo Alegre
+SP	Brodowski
+SP	Brotas
+SP	Bueno de Andrada
+SP	Buri
+SP	Buritama
+SP	Buritizal
+SP	Cabralia Paulista
+SP	Cabreuva
+SP	Cacapava
+SP	Cachoeira de Emas
+SP	Cachoeira Paulista
+SP	Caconde
+SP	Cafelandia
+SP	Cafesopolis
+SP	Caiabu
+SP	Caibura
+SP	Caieiras
+SP	Caiua
+SP	Cajamar
+SP	Cajati
+SP	Cajobi
+SP	Cajuru
+SP	Cambaquara
+SP	Cambaratiba
+SP	Campestrinho
+SP	Campina de Fora
+SP	Campina do Monte Alegre
+SP	Campinal
+SP	Campinas
+SP	Campo Limpo Paulista
+SP	Campos de Cunha
+SP	Campos do Jordao
+SP	Campos Novos Paulista
+SP	Cananeia
+SP	Canas
+SP	Candia
+SP	Candido Mota
+SP	Candido Rodrigues
+SP	Canguera
+SP	Canitar
+SP	Capao Bonito
+SP	Capela do Alto
+SP	Capivari
+SP	Capivari da Mata
+SP	Caporanga
+SP	Capuava
+SP	Caraguatatuba
+SP	Carapicuiba
+SP	Cardeal
+SP	Cardoso
+SP	Caruara
+SP	Casa Branca
+SP	Cassia dos Coqueiros
+SP	Castilho
+SP	Catanduva
+SP	Catigua
+SP	Catucaba
+SP	Caucaia do Alto
+SP	Cedral
+SP	Cerqueira Cesar
+SP	Cerquilho
+SP	Cesario Lange
+SP	Cezar de Souza
+SP	Charqueada
+SP	Chavantes
+SP	Cipo-guacu
+SP	Clarinia
+SP	Clementina
+SP	Cocaes
+SP	Colina
+SP	Colombia
+SP	Conceicao de Monte Alegre
+SP	Conchal
+SP	Conchas
+SP	Cordeiropolis
+SP	Coroados
+SP	Coronel Goulart
+SP	Coronel Macedo
+SP	Corredeira
+SP	Corrego Rico
+SP	Corumbatai
+SP	Cosmopolis
+SP	Cosmorama
+SP	Costa Machado
+SP	Cotia
+SP	Cravinhos
+SP	Cristais Paulista
+SP	Cruz das Posses
+SP	Cruzalia
+SP	Cruzeiro
+SP	Cubatao
+SP	Cuiaba Paulista
+SP	Cunha
+SP	Curupa
+SP	Dalas
+SP	Descalvado
+SP	Diadema
+SP	Dirce Reis
+SP	Dirceu
+SP	Divinolandia
+SP	Dobrada
+SP	Dois Corregos
+SP	Dolcinopolis
+SP	Domelia
+SP	Dourado
+SP	Dracena
+SP	Duartina
+SP	Dumont
+SP	Duplo Ceu
+SP	Echapora
+SP	Eldorado
+SP	Eleuterio
+SP	Elias Fausto
+SP	Elisiario
+SP	Embauba
+SP	Embu
+SP	Embu-guacu
+SP	Emilianopolis
+SP	Eneida
+SP	Engenheiro Balduino
+SP	Engenheiro Coelho
+SP	Engenheiro Maia
+SP	Engenheiro Schmidt
+SP	Esmeralda
+SP	Esperanca D'oeste
+SP	Espigao
+SP	Espirito Santo do Pinhal
+SP	Espirito Santo do Turvo
+SP	Estiva Gerbi
+SP	Estrela D'oeste
+SP	Estrela do Norte
+SP	Euclides da Cunha Paulista
+SP	Eugenio de Melo
+SP	Fartura
+SP	Fatima
+SP	Fatima Paulista
+SP	Fazenda Velha
+SP	Fernando Prestes
+SP	Fernandopolis
+SP	Fernao
+SP	Ferraz de Vasconcelos
+SP	Flora Rica
+SP	Floreal
+SP	Floresta do Sul
+SP	Florida Paulista
+SP	Florinea
+SP	Franca
+SP	Francisco Morato
+SP	Franco da Rocha
+SP	Frutal do Campo
+SP	Gabriel Monteiro
+SP	Galia
+SP	Garca
+SP	Gardenia
+SP	Gastao Vidigal
+SP	Gaviao Peixoto
+SP	General Salgado
+SP	Getulina
+SP	Glicerio
+SP	Gramadinho
+SP	Guachos
+SP	Guaianas
+SP	Guaicara
+SP	Guaimbe
+SP	Guaira
+SP	Guamium
+SP	Guapiacu
+SP	Guapiara
+SP	Guapiranga
+SP	Guara
+SP	Guaracai
+SP	Guaraci
+SP	Guaraciaba D'oeste
+SP	Guarani D'oeste
+SP	Guaranta
+SP	Guarapiranga
+SP	Guarapua
+SP	Guararapes
+SP	Guararema
+SP	Guaratingueta
+SP	Guarei
+SP	Guariba
+SP	Guariroba
+SP	Guarizinho
+SP	Guaruja
+SP	Guarulhos
+SP	Guatapara
+SP	Guzolandia
+SP	Herculandia
+SP	Holambra
+SP	Holambra Ii
+SP	Hortolandia
+SP	Iacanga
+SP	Iacri
+SP	Iaras
+SP	Ibate
+SP	Ibiporanga
+SP	Ibira
+SP	Ibirarema
+SP	Ibitinga
+SP	Ibitiruna
+SP	Ibitiuva
+SP	Ibitu
+SP	Ibiuna
+SP	Icem
+SP	Ida Iolanda
+SP	Iepe
+SP	Igacaba
+SP	Igaracu do Tiete
+SP	Igarai
+SP	Igarapava
+SP	Igarata
+SP	Iguape
+SP	Ilha Comprida
+SP	Ilha Diana
+SP	Ilha Solteira
+SP	Ilhabela
+SP	Indaia do Aguapei
+SP	Indaiatuba
+SP	Indiana
+SP	Indiapora
+SP	Ingas
+SP	Inubia Paulista
+SP	Ipaussu
+SP	Ipero
+SP	Ipeuna
+SP	Ipigua
+SP	Iporanga
+SP	Ipua
+SP	Iracemapolis
+SP	Irape
+SP	Irapua
+SP	Irapuru
+SP	Itabera
+SP	Itaboa
+SP	Itai
+SP	Itaiuba
+SP	Itajobi
+SP	Itaju
+SP	Itanhaem
+SP	Itaoca
+SP	Itapecerica da Serra
+SP	Itapetininga
+SP	Itapeuna
+SP	Itapeva
+SP	Itapevi
+SP	Itapira
+SP	Itapirapua Paulista
+SP	Itapolis
+SP	Itaporanga
+SP	Itapui
+SP	Itapura
+SP	Itaquaquecetuba
+SP	Itaqueri da Serra
+SP	Itarare
+SP	Itariri
+SP	Itatiba
+SP	Itatinga
+SP	Itirapina
+SP	Itirapua
+SP	Itobi
+SP	Itororo do Paranapanema
+SP	Itu
+SP	Itupeva
+SP	Ituverava
+SP	Iubatinga
+SP	Jaborandi
+SP	Jaboticabal
+SP	Jacare
+SP	Jacarei
+SP	Jaci
+SP	Jacipora
+SP	Jacuba
+SP	Jacupiranga
+SP	Jafa
+SP	Jaguariuna
+SP	Jales
+SP	Jamaica
+SP	Jambeiro
+SP	Jandira
+SP	Jardim Belval
+SP	Jardim Presidente Dutra
+SP	Jardim Santa Luzia
+SP	Jardim Silveira
+SP	Jardinopolis
+SP	Jarinu
+SP	Jatoba
+SP	Jau
+SP	Jeriquara
+SP	Joanopolis
+SP	Joao Ramalho
+SP	Joaquim Egidio
+SP	Jordanesia
+SP	Jose Bonifacio
+SP	Juliania
+SP	Julio Mesquita
+SP	Jumirim
+SP	Jundiai
+SP	Jundiapeba
+SP	Junqueira
+SP	Junqueiropolis
+SP	Juquia
+SP	Juquiratiba
+SP	Juquitiba
+SP	Juritis
+SP	Juruce
+SP	Jurupeba
+SP	Jurupema
+SP	Lacio
+SP	Lagoa Azul
+SP	Lagoa Branca
+SP	Lagoinha
+SP	Laranjal Paulista
+SP	Laras
+SP	Lauro Penteado
+SP	Lavinia
+SP	Lavrinhas
+SP	Leme
+SP	Lencois Paulista
+SP	Limeira
+SP	Lindoia
+SP	Lins
+SP	Lobo
+SP	Lorena
+SP	Lourdes
+SP	Louveira
+SP	Lucelia
+SP	Lucianopolis
+SP	Luis Antonio
+SP	Luiziania
+SP	Lupercio
+SP	Lusitania
+SP	Lutecia
+SP	Macatuba
+SP	Macaubal
+SP	Macedonia
+SP	Macucos
+SP	Magda
+SP	Mailasqui
+SP	Mairinque
+SP	Mairipora
+SP	Major Prado
+SP	Manduri
+SP	Mangaratu
+SP	Maraba Paulista
+SP	Maracai
+SP	Marapoama
+SP	Marcondesia
+SP	Maresias
+SP	Mariapolis
+SP	Marilia
+SP	Marinopolis
+SP	Maristela
+SP	Martim Francisco
+SP	Martinho Prado Junior
+SP	Martinopolis
+SP	Matao
+SP	Maua
+SP	Mendonca
+SP	Meridiano
+SP	Mesopolis
+SP	Miguelopolis
+SP	Mineiros do Tiete
+SP	Mira Estrela
+SP	Miracatu
+SP	Miraluz
+SP	Mirandopolis
+SP	Mirante do Paranapanema
+SP	Mirassol
+SP	Mirassolandia
+SP	Mococa
+SP	Mogi das Cruzes
+SP	Mogi-guacu
+SP	Mogi-mirim
+SP	Mombuca
+SP	Moncoes
+SP	Mongagua
+SP	Montalvao
+SP	Monte Alegre do Sul
+SP	Monte Alto
+SP	Monte Aprazivel
+SP	Monte Azul Paulista
+SP	Monte Cabrao
+SP	Monte Castelo
+SP	Monte Mor
+SP	Monte Verde Paulista
+SP	Monteiro Lobato
+SP	Moreira Cesar
+SP	Morro Agudo
+SP	Morro do Alto
+SP	Morungaba
+SP	Mostardas
+SP	Motuca
+SP	Mourao
+SP	Murutinga do Sul
+SP	Nantes
+SP	Narandiba
+SP	Natividade da Serra
+SP	Nazare Paulista
+SP	Neves Paulista
+SP	Nhandeara
+SP	Nipoa
+SP	Nogueira
+SP	Nossa Senhora do Remedio
+SP	Nova Alexandria
+SP	Nova Alianca
+SP	Nova America
+SP	Nova Aparecida
+SP	Nova Campina
+SP	Nova Canaa Paulista
+SP	Nova Castilho
+SP	Nova Europa
+SP	Nova Granada
+SP	Nova Guataporanga
+SP	Nova Independencia
+SP	Nova Itapirema
+SP	Nova Luzitania
+SP	Nova Odessa
+SP	Nova Patria
+SP	Nova Veneza
+SP	Novais
+SP	Novo Cravinhos
+SP	Novo Horizonte
+SP	Nuporanga
+SP	Oasis
+SP	Ocaucu
+SP	Oleo
+SP	Olimpia
+SP	Oliveira Barros
+SP	Onda Branca
+SP	Onda Verde
+SP	Oriente
+SP	Orindiuva
+SP	Orlandia
+SP	Osasco
+SP	Oscar Bressane
+SP	Osvaldo Cruz
+SP	Ourinhos
+SP	Ouro Fino Paulista
+SP	Ouro Verde
+SP	Ouroeste
+SP	Pacaembu
+SP	Padre Nobrega
+SP	Palestina
+SP	Palmares Paulista
+SP	Palmeira D'oeste
+SP	Palmeiras de Sao Paulo
+SP	Palmital
+SP	Panorama
+SP	Paraguacu Paulista
+SP	Paraibuna
+SP	Paraiso
+SP	Paraisolandia
+SP	Paranabi
+SP	Paranapanema
+SP	Paranapiacaba
+SP	Paranapua
+SP	Parapua
+SP	Pardinho
+SP	Pariquera-acu
+SP	Parisi
+SP	Parnaso
+SP	Parque Meia Lua
+SP	Paruru
+SP	Patrocinio Paulista
+SP	Pauliceia
+SP	Paulinia
+SP	Paulistania
+SP	Paulo de Faria
+SP	Paulopolis
+SP	Pederneiras
+SP	Pedra Bela
+SP	Pedra Branca de Itarare
+SP	Pedranopolis
+SP	Pedregulho
+SP	Pedreira
+SP	Pedrinhas Paulista
+SP	Pedro Barros
+SP	Pedro de Toledo
+SP	Penapolis
+SP	Pereira Barreto
+SP	Pereiras
+SP	Peruibe
+SP	Piacatu
+SP	Picinguaba
+SP	Piedade
+SP	Pilar do Sul
+SP	Pindamonhangaba
+SP	Pindorama
+SP	Pinhalzinho
+SP	Pinheiros
+SP	Pioneiros
+SP	Piquerobi
+SP	Piquete
+SP	Piracaia
+SP	Piracicaba
+SP	Piraju
+SP	Pirajui
+SP	Piramboia
+SP	Pirangi
+SP	Pirapitingui
+SP	Pirapora do Bom Jesus
+SP	Pirapozinho
+SP	Pirassununga
+SP	Piratininga
+SP	Pitangueiras
+SP	Planalto
+SP	Planalto do Sul
+SP	Platina
+SP	Poa
+SP	Poloni
+SP	Polvilho
+SP	Pompeia
+SP	Pongai
+SP	Pontal
+SP	Pontalinda
+SP	Pontes Gestal
+SP	Populina
+SP	Porangaba
+SP	Porto Feliz
+SP	Porto Ferreira
+SP	Porto Novo
+SP	Potim
+SP	Potirendaba
+SP	Potunduva
+SP	Pracinha
+SP	Pradinia
+SP	Pradopolis
+SP	Praia Grande
+SP	Pratania
+SP	Presidente Alves
+SP	Presidente Bernardes
+SP	Presidente Epitacio
+SP	Presidente Prudente
+SP	Presidente Venceslau
+SP	Primavera
+SP	Promissao
+SP	Prudencio e Moraes
+SP	Quadra
+SP	Quata
+SP	Queiroz
+SP	Queluz
+SP	Quintana
+SP	Quiririm
+SP	Rafard
+SP	Rancharia
+SP	Rechan
+SP	Redencao da Serra
+SP	Regente Feijo
+SP	Reginopolis
+SP	Registro
+SP	Restinga
+SP	Riacho Grande
+SP	Ribeira
+SP	Ribeirao Bonito
+SP	Ribeirao Branco
+SP	Ribeirao Corrente
+SP	Ribeirao do Sul
+SP	Ribeirao dos Indios
+SP	Ribeirao Grande
+SP	Ribeirao Pires
+SP	Ribeirao Preto
+SP	Ribeiro do Vale
+SP	Ribeiro dos Santos
+SP	Rifaina
+SP	Rincao
+SP	Rinopolis
+SP	Rio Claro
+SP	Rio das Pedras
+SP	Rio Grande da Serra
+SP	Riolandia
+SP	Riversul
+SP	Roberto
+SP	Rosalia
+SP	Rosana
+SP	Roseira
+SP	Rubiacea
+SP	Rubiao Junior
+SP	Rubineia
+SP	Ruilandia
+SP	Sabauna
+SP	Sabino
+SP	Sagres
+SP	Sales
+SP	Sales Oliveira
+SP	Salesopolis
+SP	Salmourao
+SP	Saltinho
+SP	Salto
+SP	Salto de Pirapora
+SP	Salto do Avanhandava
+SP	Salto Grande
+SP	Sandovalina
+SP	Santa Adelia
+SP	Santa Albertina
+SP	Santa America
+SP	Santa Barbara D'oeste
+SP	Santa Branca
+SP	Santa Clara D'oeste
+SP	Santa Cruz da Conceicao
+SP	Santa Cruz da Esperanca
+SP	Santa Cruz da Estrela
+SP	Santa Cruz das Palmeiras
+SP	Santa Cruz do Rio Pardo
+SP	Santa Cruz dos Lopes
+SP	Santa Ernestina
+SP	Santa Eudoxia
+SP	Santa Fe do Sul
+SP	Santa Gertrudes
+SP	Santa Isabel
+SP	Santa Isabel do Marinheiro
+SP	Santa Lucia
+SP	Santa Margarida Paulista
+SP	Santa Maria da Serra
+SP	Santa Maria do Gurupa
+SP	Santa Mercedes
+SP	Santa Rita D'oeste
+SP	Santa Rita do Passa Quatro
+SP	Santa Rita do Ribeira
+SP	Santa Rosa de Viterbo
+SP	Santa Salete
+SP	Santa Teresinha de Piracicaba
+SP	Santana da Ponte Pensa
+SP	Santana de Parnaiba
+SP	Santelmo
+SP	Santo Anastacio
+SP	Santo Andre
+SP	Santo Antonio da Alegria
+SP	Santo Antonio da Estiva
+SP	Santo Antonio de Posse
+SP	Santo Antonio do Aracangua
+SP	Santo Antonio do Jardim
+SP	Santo Antonio do Paranapanema
+SP	Santo Antonio do Pinhal
+SP	Santo Antonio Paulista
+SP	Santo Expedito
+SP	Santopolis do Aguapei
+SP	Santos
+SP	Sao Benedito da Cachoeirinha
+SP	Sao Benedito das Areias
+SP	Sao Bento do Sapucai
+SP	Sao Bernardo do Campo
+SP	Sao Berto
+SP	Sao Caetano do Sul
+SP	Sao Carlos
+SP	Sao Francisco
+SP	Sao Francisco da Praia
+SP	Sao Francisco Xavier
+SP	Sao Joao da Boa Vista
+SP	Sao Joao das Duas Pontes
+SP	Sao Joao de Iracema
+SP	Sao Joao de Itaguacu
+SP	Sao Joao do Marinheiro
+SP	Sao Joao Do Pau D'alho
+SP	Sao Joao Novo
+SP	Sao Joaquim da Barra
+SP	Sao Jose da Bela Vista
+SP	Sao Jose das Laranjeiras
+SP	Sao Jose do Barreiro
+SP	Sao Jose do Rio Pardo
+SP	Sao Jose do Rio Preto
+SP	Sao Jose dos Campos
+SP	Sao Lourenco da Serra
+SP	Sao Lourenco do Turvo
+SP	Sao Luis do Paraitinga
+SP	Sao Luiz do Guaricanga
+SP	Sao Manuel
+SP	Sao Martinho D'oeste
+SP	Sao Miguel Arcanjo
+SP	Sao Paulo
+SP	Sao Pedro
+SP	Sao Pedro do Turvo
+SP	Sao Roque
+SP	Sao Roque da Fartura
+SP	Sao Sebastiao
+SP	Sao Sebastiao da Grama
+SP	Sao Sebastiao da Serra
+SP	Sao Silvestre de Jacarei
+SP	Sao Simao
+SP	Sao Vicente
+SP	Sapezal
+SP	Sarapui
+SP	Sarutaia
+SP	Sebastianopolis do Sul
+SP	Serra Azul
+SP	Serra Negra
+SP	Serrana
+SP	Sertaozinho
+SP	Sete Barras
+SP	Severinia
+SP	Silvania
+SP	Silveiras
+SP	Simoes
+SP	Simonsen
+SP	Socorro
+SP	Sodrelia
+SP	Solemar
+SP	Sorocaba
+SP	Sousas
+SP	Sud Mennucci
+SP	Suinana
+SP	Sumare
+SP	Sussui
+SP	Suzanapolis
+SP	Suzano
+SP	Tabajara
+SP	Tabapua
+SP	Tabatinga
+SP	Taboao da Serra
+SP	Taciba
+SP	Taguai
+SP	Taiacu
+SP	Taiacupeba
+SP	Taiuva
+SP	Talhado
+SP	Tambau
+SP	Tanabi
+SP	Tapinas
+SP	Tapirai
+SP	Tapiratiba
+SP	Taquaral
+SP	Taquaritinga
+SP	Taquarituba
+SP	Taquarivai
+SP	Tarabai
+SP	Taruma
+SP	Tatui
+SP	Taubate
+SP	Tecainda
+SP	Tejupa
+SP	Teodoro Sampaio
+SP	Termas de Ibira
+SP	Terra Nova D'oeste
+SP	Terra Roxa
+SP	Tibirica
+SP	Tibirica do Paranapanema
+SP	Tiete
+SP	Timburi
+SP	Toledo
+SP	Torre de Pedra
+SP	Torrinha
+SP	Trabiju
+SP	Tremembe
+SP	Tres Aliancas
+SP	Tres Fronteiras
+SP	Tres Pontes
+SP	Tres Vendas
+SP	Tuiuti
+SP	Tujuguaba
+SP	Tupa
+SP	Tupi
+SP	Tupi Paulista
+SP	Turiba do Sul
+SP	Turiuba
+SP	Turmalina
+SP	Turvinia
+SP	Ubarana
+SP	Ubatuba
+SP	Ubirajara
+SP	Uchoa
+SP	Uniao Paulista
+SP	Universo
+SP	Urania
+SP	Uru
+SP	Urupes
+SP	Ururai
+SP	Utinga
+SP	Vale Formoso
+SP	Valentim Gentil
+SP	Valinhos
+SP	Valparaiso
+SP	Vangloria
+SP	Vargem
+SP	Vargem Grande do Sul
+SP	Vargem Grande Paulista
+SP	Varpa
+SP	Varzea Paulista
+SP	Venda Branca
+SP	Vera Cruz
+SP	Vicente de Carvalho
+SP	Vicentinopolis
+SP	Vila Dirce
+SP	Vila Nery
+SP	Vila Xavier
+SP	Vinhedo
+SP	Viradouro
+SP	Vista Alegre do Alto
+SP	Vitoria Brasil
+SP	Vitoriana
+SP	Votorantim
+SP	Votuporanga
+SP	Zacarias
+TO	Abreulandia
+TO	Aguiarnopolis
+TO	Alianca do Tocantins
+TO	Almas
+TO	Alvorada
+TO	Anajanopolis
+TO	Ananas
+TO	Angico
+TO	Aparecida do Rio Negro
+TO	Apinaje
+TO	Aragacui
+TO	Aragominas
+TO	Araguacema
+TO	Araguacu
+TO	Araguaina
+TO	Araguana
+TO	Araguatins
+TO	Arapoema
+TO	Arraias
+TO	Augustinopolis
+TO	Aurora do Tocantins
+TO	Axixa do Tocantins
+TO	Babaculandia
+TO	Bandeirantes do Tocantins
+TO	Barra do Grota
+TO	Barra do Ouro
+TO	Barrolandia
+TO	Bernardo Sayao
+TO	Bom Jesus do Tocantins
+TO	Brasilandia
+TO	Brasilandia do Tocantins
+TO	Brejinho de Nazare
+TO	Buriti do Tocantins
+TO	Cachoeirinha
+TO	Campos Lindos
+TO	Cana Brava
+TO	Cariri do Tocantins
+TO	Carmolandia
+TO	Carrasco Bonito
+TO	Cartucho
+TO	Caseara
+TO	Centenario
+TO	Chapada da Areia
+TO	Chapada da Natividade
+TO	Cocalandia
+TO	Cocalinho
+TO	Colinas do Tocantins
+TO	Colmeia
+TO	Combinado
+TO	Conceicao do Tocantins
+TO	Correinha
+TO	Couto de Magalhaes
+TO	Craolandia
+TO	Cristalandia
+TO	Crixas
+TO	Crixas do Tocantins
+TO	Darcinopolis
+TO	Dianopolis
+TO	Divinopolis do Tocantins
+TO	Dois Irmaos do Tocantins
+TO	Duere
+TO	Escondido
+TO	Esperantina
+TO	Fatima
+TO	Figueiropolis
+TO	Filadelfia
+TO	Formoso do Araguaia
+TO	Fortaleza do Tabocao
+TO	Goianorte
+TO	Goiatins
+TO	Guarai
+TO	Gurupi
+TO	Ilha Barreira Branca
+TO	Ipueiras
+TO	Itacaja
+TO	Itaguatins
+TO	Itapiratins
+TO	Itapora do Tocantins
+TO	Jau do Tocantins
+TO	Juarina
+TO	Jussara
+TO	Lagoa da Confusao
+TO	Lagoa do Tocantins
+TO	Lajeado
+TO	Lavandeira
+TO	Lizarda
+TO	Luzinopolis
+TO	Marianopolis do Tocantins
+TO	Mateiros
+TO	Maurilandia do Tocantins
+TO	Miracema do Tocantins
+TO	Mirandopolis
+TO	Miranorte
+TO	Monte do Carmo
+TO	Monte Lindo
+TO	Monte Santo do Tocantins
+TO	Mosquito
+TO	Muricilandia
+TO	Natal
+TO	Natividade
+TO	Nazare
+TO	Nova Olinda
+TO	Nova Rosalandia
+TO	Novo Acordo
+TO	Novo Alegre
+TO	Novo Horizonte
+TO	Novo Jardim
+TO	Oliveira de Fatima
+TO	Palmas
+TO	Palmeirante
+TO	Palmeiropolis
+TO	Paraiso do Tocantins
+TO	Parana
+TO	Pau D'arco
+TO	Pe da Serra
+TO	Pedro Afonso
+TO	Pedro Ludovico
+TO	Peixe
+TO	Pequizeiro
+TO	Piloes
+TO	Pindorama do Tocantins
+TO	Piraque
+TO	Pium
+TO	Ponte Alta do Bom Jesus
+TO	Ponte Alta do Tocantins
+TO	Pontes
+TO	Poraozinho
+TO	Porto Alegre do Tocantins
+TO	Porto Lemos
+TO	Porto Nacional
+TO	Praia Norte
+TO	Presidente Kennedy
+TO	Principe
+TO	Pugmil
+TO	Recursolandia
+TO	Riachinho
+TO	Rio da Conceicao
+TO	Rio dos Bois
+TO	Rio Sono
+TO	Sampaio
+TO	Sandolandia
+TO	Santa Fe do Araguaia
+TO	Santa Maria do Tocantins
+TO	Santa Rita do Tocantins
+TO	Santa Rosa do Tocantins
+TO	Santa Tereza do Tocantins
+TO	Santa Terezinha do Tocantins
+TO	Sao Bento do Tocantins
+TO	Sao Felix do Tocantins
+TO	Sao Miguel do Tocantins
+TO	Sao Salvador do Tocantins
+TO	Sao Sebastiao do Tocantins
+TO	Sao Valerio da Natividade
+TO	Silvanopolis
+TO	Sitio Novo do Tocantins
+TO	Sucupira
+TO	Taguatinga
+TO	Taipas do Tocantins
+TO	Talisma
+TO	Tamboril
+TO	Taquaralto
+TO	Taquarussu do Tocantins
+TO	Tocantinia
+TO	Tocantinopolis
+TO	Tupirama
+TO	Tupirata
+TO	Tupiratins
+TO	Venus
+TO	Wanderlandia
+TO	Xambioa

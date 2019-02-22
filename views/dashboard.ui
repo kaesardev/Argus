@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>772</width>
+    <height>592</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget{
+	color: #2c3e50;
+	background-color: #ffffff;
+}
+QLabel{
+	font-family: Roboto;
+	text-align: center;
+	font-size: 16px;
+}
+QLineEdit{
+	height: 32px;
+	font-family: Roboto;
+	font-size: 16px;
+	color: #000000;
+	border: 0px;
+	border-bottom: 1px solid #34495e;
+}
+QPushButton{
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: 300;
+	text-align: center;
+	color: #ecf0f1;
+	border: 0;
+	border-radius: 3px;
+	background-color: #8e44ad;
+}
+QPushButton:hover{
+	background: #9b59b6;
+}
+QComboBox{
+	height: 32px;
+	font-family: Roboto;
+	font-size: 16px;
+	color: #2c3e50;
+	border: 0px;
+	border-bottom: 1px solid #34495e;
+}
+QComboBox::drop-down {
+    border: 0;
+}
+QComboBox::down-arrow{   
+    border: 0;
+	border-radius: 3px;
+	background-color: #8e44ad;
+	width: 14px;
+	height: 30px;
+}
+QDateEdit{
+	height: 32px;
+	font-family: Roboto;
+	font-size: 16px;
+	color: #2c3e50;
+	border: 0px;
+	border-bottom: 1px solid #34495e;
+}
+QDateEdit::drop-down {
+    border: 0;
+}
+QDateEdit::down-button {
+    border: 0;
+}
+QDateEdit::up-button {
+    border: 0;
+}
+QDateEdit::down-arrow{   
+    border: 0;
+	border-radius: 3px;
+	background-color: #8e44ad;
+	width: 14px;
+	height: 14px;
+}
+QDateEdit::up-arrow{   
+    border: 0;
+	border-radius: 3px;
+	background-color: #9b59b6;
+	width: 14px;
+	height: 14px;
+}</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <property name="spacing">
+    <number>0</number>
+   </property>
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>9</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <item>
+    <widget class="QLabel" name="lblTitle">
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="minimumSize">
+      <size>
+       <width>0</width>
+       <height>60</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QLabel{
+	font-family: Roboto;
+	font-weight: 100;
+	font-size: 34px;
+}</string>
+     </property>
+     <property name="text">
+      <string>Principal</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <property name="spacing">
+      <number>0</number>
+     </property>
+     <property name="topMargin">
+      <number>9</number>
+     </property>
+     <item>
+      <widget class="QFrame" name="frame">
+       <property name="minimumSize">
+        <size>
+         <width>400</width>
+         <height>400</height>
+        </size>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout_2">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <property name="leftMargin">
+         <number>1</number>
+        </property>
+        <property name="topMargin">
+         <number>0</number>
+        </property>
+        <property name="rightMargin">
+         <number>0</number>
+        </property>
+        <property name="bottomMargin">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QLabel" name="img">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="pixmap">
+           <pixmap>../resources/bg.jpg</pixmap>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignBottom|Qt::AlignRight|Qt::AlignTrailing</set>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
