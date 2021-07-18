@@ -24,7 +24,7 @@ The application was written in Python 3, it has as dependency the library PyQT5 
 
 ## Authors
 
-* **Júlio César** - *Initial work* - [KaesarZ](https://github.com/KaesarZ)
+* **Júlio Barros** - *Initial work* - [kaesardev](https://github.com/kaesardev)
 
 See also the list of [contributors](https://github.com/KaesarZ/Argus/contributors) who participated in this project.
 
